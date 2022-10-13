@@ -547,104 +547,104 @@
 
   giovanni_messe_2:0 "Giovanni Messe"
 
-  ITA_retooling_the_industry:0 "Retooling The Industry"
+  ITA_retooling_the_industry:0 "Переоснащение промышленности"
 
-  standaradized_war_material:0 "Standardized War Material"
+  standaradized_war_material:0 "Стандартизированные военные материалы"
 
-  ITA_reverse_the_brain_drain:0 "Reverse the Brain Drain"
+  ITA_reverse_the_brain_drain:0 "Обратить отток мозгов назад"
 
-  mediterrarian_tariffs:0 "Mediterrarian Trade Tariffs"
+  mediterrarian_tariffs:0 "Средиземноморские торговые тарифы"
 
-  ITA_death_before_surrender:0 "Death before Surrender"
+  ITA_death_before_surrender:0 "Смерть перед капитуляцией"
 
-  ITF_death_before_surrender:0 "Death before Surrender"
+  ITF_death_before_surrender:0 "Смерть перед капитуляцией"
 
-  ITA_emmanuel_figurehead:0 "Figurehead King Emmanuel"
+  ITA_emmanuel_figurehead:0 "Фигура короля Эммануила"
   ITA_emmanuel_figurehead_desc:0 ""
 
-  ITA_grand_council_of_fascism:0 "Grand Council of Fascism"
-  ITA_grand_council_of_fascism_desc:0 "The Grand Council of Fascism has been responsible for much of the running of the country and is supportive of Fascism. They however hold alot of power and should not be considered loyal, if we are in a tricky prediciment."
+  ITA_grand_council_of_fascism:0 "Великий совет фашизма"
+  ITA_grand_council_of_fascism_desc:0 "Великий совет фашизма отвечает за большую часть управления страной и поддерживает фашизм. Однако они обладают большой властью и не должны считаться лояльными, если мы окажемся в затруднительном положении."
 
-  gioventu_italiana_del_littorio:0 "Gioventu Italiana Littorio"
+  gioventu_italiana_del_littorio:0 "Итальянская молодежь Литторио"
   gioventu_italiana_del_littorio_desc:0 ""
 
-  ITA_intense_modernization_effort:0 "Intense Modernization Effort"
+  ITA_intense_modernization_effort:0 "Интенсивная модернизация"
   ITA_intense_modernization_effort_desc:0 ""
 
-  balkan_dominance:0 "Balkan Dominance"
+  balkan_dominance:0 "Балканское доминирование"
   balkan_dominance_desc:0 ""
 
-  mediterrarian_dominance:0 "Mediterrarian Dominance"
+  mediterrarian_dominance:0 "Средиземноморское доминирование"
   mediterrarian_dominance_desc:0 ""
 
-  ITA_poor_education_system:0 "Poor Education System"
+  ITA_poor_education_system:0 "Плохая система образования"
   ITA_poor_education_system_desc:0 ""
 
   ITA_iir:0 "IIR"
-  ITA_iir_desc:0 "Institute for Industrial Reconstruction"
+  ITA_iir_desc:0 "Институт индустриальной реконструкции"
 
-  ITA_industry_wide_naval_production:0 "Industry Wide Naval Rearmament"
+  ITA_industry_wide_naval_production:0 "Широкомасштабное военно-морское перевооружение"
   ITA_industry_wide_naval_production_desc:0 ""
-  ITA_industry_wide_naval_production_instant_desc:0 "\n§RGoing above partial mobalization will remove the dependency on Industry Wide Naval Rearmament§!"
+  ITA_industry_wide_naval_production_instant_desc:0 "\n§RПереход к частичной мобилизации устранит зависимость от отраслевого военно-морского перевооружения§!"
 
-  ITA_modernization:0 "Fleet Modernization"
+  ITA_modernization:0 "Модернизация флота"
   ITA_modernization_desc:0 ""
 
-  ITA_roman_heritage:0 "Roman Heritage"
+  ITA_roman_heritage:0 "Римское наследие"
   ITA_roman_heritage_desc:0 ""
-  ITA_roman_division_names_list:0 "Unlockes the Roman Division Name List"
+  ITA_roman_division_names_list:0 "Разблокирует именной список римских дивизий"
 
-  ITA_alpini_idea:0 "Alpini Training Programmes"
+  ITA_alpini_idea:0 "Программы альпийской подготовки"
   ITA_alpini_idea_desc:0 ""
 
-  rome_central_bank:0 "Rome Central Bank"
+  rome_central_bank:0 "Центральный банк Рима"
 
-  ITA_aeronautic_funding:0 "Aeronautic Funding"
+  ITA_aeronautic_funding:0 "Финансирование авиации"
   ITA_aeronautic_funding_desc:0 ""
 
-  ITA_decima_flottiglia_mas:0 "Decima Flottiglia MAS"
+  ITA_decima_flottiglia_mas:0 "10-я флотилия МАС"
   ITA_decima_flottiglia_mas_desc:0 ""
 
-  ITA_inadequte_army:0 "Inadequate Army"
+  ITA_inadequte_army:0 "Неудовлетворительная армия"
   ITA_inadequte_army_desc:0 ""
 
-  ITA_inadequte_army_2:0 "Inadequate Army"
+  ITA_inadequte_army_2:0 "Неудовлетворительная армия"
   ITA_inadequte_army_2_desc:0 ""
 
-  ITA_inadequte_army_3:0 "Inadequate Army"
+  ITA_inadequte_army_3:0 "Неудовлетворительная армия"
   ITA_inadequte_army_3_desc:0 ""
 
-  ITA_inadequte_army_4:0 "Inadequate Army"
+  ITA_inadequte_army_4:0 "Неудовлетворительная армия"
   ITA_inadequte_army_4_desc:0 ""
 
-  ITA_inadequte_airforce:0 "Inadequate Airforce"
+  ITA_inadequte_airforce:0 "Неудовлетворительные ВВС"
   ITA_inadequte_airforce_desc:0 ""
 
-  ITA_inadequte_airforce_2:0 "Inadequate Airforce"
+  ITA_inadequte_airforce_2:0 "Неудовлетворительные ВВС"
   ITA_inadequte_airforce_2_desc:0 ""
 
-  ITA_inadequte_airforce_3:0 "Inadequate Airforce"
+  ITA_inadequte_airforce_3:0 "Неудовлетворительные ВВС"
   ITA_inadequte_airforce_3_desc:0 ""
 
-  ITA_inadequte_airforce_4:0 "Inadequate Airforce"
+  ITA_inadequte_airforce_4:0 "Неудовлетворительные ВВС"
   ITA_inadequte_airforce_4_desc:0 ""
 
-  ITA_inadequte_navy:0 "Inadequate Navy"
+  ITA_inadequte_navy:0 "Неудовлетворительные ВМФ"
   ITA_inadequte_navy_desc:0 ""
 
-  ITA_inadequte_navy_2:0 "Inadequate Navy"
+  ITA_inadequte_navy_2:0 "Неудовлетворительные ВМФ"
   ITA_inadequte_navy_2_desc:0 ""
 
-  ITA_inadequte_navy_3:0 "Inadequate Navy"
+  ITA_inadequte_navy_3:0 "Неудовлетворительные ВМФ"
   ITA_inadequte_navy_3_desc:0 ""
 
-  ITA_inadequte_navy_4:0 "Inadequate Navy"
+  ITA_inadequte_navy_4:0 "Неудовлетворительные ВМФ"
   ITA_inadequte_navy_4_desc:0 ""
 
-  ITA_rebuild_the_nation:0 "Rebuild the Nation"
+  ITA_rebuild_the_nation:0 "Восстановить нацию"
   ITA_rebuild_the_nation_desc:0 ""
 
-  ITA_national_revitalization:0 "National Revitalization"
+  ITA_national_revitalization:0 "Национальное возрождение"
   ITA_national_revitalization_desc:0 ""
 
   ITA_ger_treaty:0 "Германо-итальянский договор о взаимопомощи"

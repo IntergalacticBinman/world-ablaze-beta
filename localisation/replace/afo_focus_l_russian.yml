@@ -1524,382 +1524,382 @@
 
   FRN_create_infantry_unit:0 "French Algeria will recieve a infantry template available for us to recruit"
 
-  ITA_bonifica_integrale_tt:0 " The £faction_ita_proletariat Proletariat become more §GHappy§! increasing §YStability§! by §G5%§!"
+  ITA_bonifica_integrale_tt:0 " £faction_ita_proletariat Пролетариат станет §GСчастливой§! увеличивает §YСтабильность§! на §G5%§!"
 
-  ITA_dismiss_mussolini_tt:0 " The £faction_ita_bourgeoisie Bourgeoisie become §Gmuch more Happy§! and increasing their §Ginfluence§! aswell as §Gremoving any negative modifiers§!"
+  ITA_dismiss_mussolini_tt:0 " £faction_ita_bourgeoisie Буржуазия станет §Gгораздо более счастливой§! и повышая их §Gвлияние§! а также §Gудаление любых негативных модификаторов§!"
 
-  ITA_an_army_to_conquer_europe:0 "An Army to Conquer Europe"
-  ITA_an_army_to_conquer_europe_desc:0 "War is coming to Europe. Regardless of who shoots first, we must be prepared to fight. We will create defense plans against each of our neighbors and will begin making reserve divisions ready. War will come to Europe, but Italy will never fall!"
+  ITA_an_army_to_conquer_europe:0 "Армия для завоевания Европы"
+  ITA_an_army_to_conquer_europe_desc:0 "Война идет в Европу. Независимо от того, кто выстрелит первым, мы должны быть готовы к войне. Мы создадим планы обороны против каждого из наших соседей и начнем приводить в готовность резервные дивизии. Война придет в Европу, но Италия никогда не падет!"
 
-  ITA_german_rd_treaty_tt:0 "§YWill Unlock the P44 Pantera for Research§!"
+  ITA_german_rd_treaty_tt:0 "§YРазблокирует P44 Pantera для исследования§!"
 
-  ITA_8_million_bayonetts:0 "8 Million Bayonets"
+  ITA_8_million_bayonetts:0 "8 миллионов штыков"
   ITA_8_million_bayonetts_desc:0 ""
 
-  ITA_realization_of_modern_warfare:0 "Realization of Modern Warfare"
+  ITA_realization_of_modern_warfare:0 "Реализация современной войны"
   ITA_realization_of_modern_warfare_desc:0 ""
 
-  ITA_island_fortifications:0 "Island Fortifications"
+  ITA_island_fortifications:0 "Островные фортификационные сооружения"
   ITA_island_fortifications_desc:0 ""
 
-  ITA_improve_the_alpine_line:0 "Improve the Alpine Line"
+  ITA_improve_the_alpine_line:0 "Улучшение Альпийской линии"
   ITA_improve_the_alpine_line_desc:0 ""
 
-  ITA_internal_defenses:0 "Internal Defences"
+  ITA_internal_defenses:0 "Внутренняя оборона"
   ITA_internal_defenses_desc:0 ""
 
-  ITA_exploit_ethiopia:0 "Exploit Ethiopia"
+  ITA_exploit_ethiopia:0 "Эксплуатация Эфиопии"
   ITA_exploit_ethiopia_desc:0 ""
 
-  ITA_develop_ethiopia:0 "Develop Ethiopia"
+  ITA_develop_ethiopia:0 "Развивать Эфиопию"
   ITA_develop_ethiopia_desc:0 ""
 
-  ITA_raising_an_ethiopian_army:0 "Reviving the Ethiopian Army"
+  ITA_raising_an_ethiopian_army:0 "Восстановление эфиопской армии"
   ITA_raising_an_ethiopian_army_desc:0 ""
-  ITA_ethiopian_divisions:0 "Re-establishes the Ethiopian Army with §Y8 18-width Light Infantry Divisions§!"
-  ITA_blackshirt_divisions:0 "Deploys §Y5 27-Width Blackshirt Divisions§!"
+  ITA_ethiopian_divisions:0 "Воссоздает эфиопскую армию с §Y8 18 шириной дивизий легкой пехоты§!"
+  ITA_blackshirt_divisions:0 "Развертывает §Y5 Дивизии чернорубашечников шириной 27§!"
 
-  ITA_gateway_into_the_balkans:0 "Gateway into the Balkans"
+  ITA_gateway_into_the_balkans:0 "Ворота на Балканы"
   ITA_gateway_into_the_balkans_desc:0 ""
 
-  ITA_institute_for_industrial_reconstruction:0 "Institute for Industrial Reconstruction"
-  ITA_institute_for_industrial_reconstruction_desc:0 "The Istituto per la Ricostruzione Industriale (Institute for Industrial Reconstruction) or IRI was put into effect by the Facist Regime in 1933 and has protected our people from the worst effects of the Great Depression. Three years later, it controls almost half of all industries and saved our nation from total catastrophe."
+  ITA_institute_for_industrial_reconstruction:0 "Институт реконструкции промышленности"
+  ITA_institute_for_industrial_reconstruction_desc:0 "Институт промышленной реконструкции (Istituto per la Ricostruzione Industriale или IRI) был введен в действие фашистским режимом в 1933 году и защитил наш народ от самых тяжелых последствий Великой депрессии. Три года спустя он контролировал почти половину всех отраслей промышленности и спас нашу нацию от полной катастрофы."
 
-  ITA_develop_danieli_steelworks:0 "Develop Danieli Steelworks"
+  ITA_develop_danieli_steelworks:0 "Развивать сталелитейные заводы Danieli"
   ITA_develop_danieli_steelworks_desc:0 ""
 
-  ITA_experiments_in_hydro_power:0 "Experiments in Hydropower"
+  ITA_experiments_in_hydro_power:0 "Эксперименты в гидроэнергетике"
   ITA_experiments_in_hydro_power_desc:0 ""
 
-  ITA_invest_in_danieli_industrial_complexs:0 "Invest in Danieli Industrial Complex's"
-  ITA_invest_in_danieli_industrial_complexs_desc:0 "By investing in established companies and focusing on our industrial heartland we can catch to the other majors much faster"
+  ITA_invest_in_danieli_industrial_complexs:0 "Инвестировать в промышленный комплекс Danieli"
+  ITA_invest_in_danieli_industrial_complexs_desc:0 "Инвестируя в уже существующие компании и концентрируясь на нашем промышленном центре, мы сможем гораздо быстрее догнать других крупных компаний"
 
-  ITA_focus_on_the_centres_of_industry:0 "Focus on the Centres of Industry"
+  ITA_focus_on_the_centres_of_industry:0 "Ориентация на промышленные центры"
   ITA_focus_on_the_centres_of_industry_desc:0 ""
 
-  ITA_centre_for_military_modernization:0 "Centre for Military Modernization"
-  ITA_centre_for_military_modernization_desc:0 "In order to achieve a capable military to achieve or territorial ambitions, we have to invest in modernizing our military to take on any threat we come across"
+  ITA_centre_for_military_modernization:0 "Центр по модернизации вооруженных сил"
+  ITA_centre_for_military_modernization_desc:0 "Чтобы добиться боеспособных вооруженных сил для реализации территориальных амбиций, мы должны инвестировать в модернизацию наших вооруженных сил, чтобы противостоять любой угрозе, с которой мы столкнемся"
 
-  ITA_development_of_synthetic_oil:0 "Development of Synthetic Oil"
+  ITA_development_of_synthetic_oil:0 "Технология синтетической нефти"
   ITA_development_of_synthetic_oil_desc:0 ""
 
-  ITA_focus_on_rural_industrialization:0 "Focus on Rural Industrialization"
-  ITA_focus_on_rural_industrialization_desc:0 "Most of our economy is still based in agriculture. By investing in these areas we can help achieve industrialization across the country and bring prosperity to the south"
+  ITA_focus_on_rural_industrialization:0 "Фокус на сельской индустриализации"
+  ITA_focus_on_rural_industrialization_desc:0 "Большая часть нашей экономики по-прежнему основана на сельском хозяйстве. Инвестируя в эти области, мы можем помочь добиться индустриализации по всей стране и принести процветание на юг"
 
-  ITA_develop_the_heel:0 "Develop the Heel"
+  ITA_develop_the_heel:0 "Развитие Калабрии"
   ITA_develop_the_heel_desc:0 ""
 
-  ITA_develop_sicily:0 "Develop Sicily"
+  ITA_develop_sicily:0 "Развитие Сицилии"
   ITA_develop_sicily_desc:0 ""
 
-  ITA_reinvigour_the_capital:0 "Re-invigour the Capital"
+  ITA_reinvigour_the_capital:0 "Вновь вдохнуть жизнь в столицу"
   ITA_reinvigour_the_capital_desc:0 ""
 
-  ITA_bonifica_integrale:0 "Bonifica Integrale"
+  ITA_bonifica_integrale:0 "Битва за землю"
   ITA_bonifica_integrale_desc:0 ""
 
-  ITA_retool_the_civilian_industry:0 "Retool the Civilian Industry"
+  ITA_retool_the_civilian_industry:0 "Переоснащение гражданской промышленности"
   ITA_retool_the_civilian_industry_desc:0 ""
 
-  ITA_nationalize_the_air_industries:0 "Nationalize the Air Industries"
+  ITA_nationalize_the_air_industries:0 "Национализация авиационной промышленности"
   ITA_nationalize_the_air_industries_desc:0 ""
 
-  ITA_standardise_our_war_material:0 "Standardise our War Material"
+  ITA_standardise_our_war_material:0 "Стандартизировать наши военные материалы"
   ITA_standardise_our_war_material_desc:0 ""
 
-  ITA_education_reform:0 "Education Reform"
+  ITA_education_reform:0 "Реформа образования"
   ITA_education_reform_desc:0 ""
 
-  ITA_trade_and_tariffs:0 "Trade and Tariffs"
-  ITA_trade_and_tariffs_desc:0 "Autarky? Only fools believe that an economy will survive in isolation! We must open up our markets immediately so that our people will enjoy the luxuries the world has to offer. It'll also make it easier for us to expand our own manufacturing sector."
+  ITA_trade_and_tariffs:0 "Торговля и тарифы"
+  ITA_trade_and_tariffs_desc:0 "Автаркия? Только глупцы верят, что экономика выживет в изоляции! Мы должны немедленно открыть наши рынки, чтобы наши люди могли наслаждаться роскошью, которую может предложить весь мир. Это также облегчит нам расширение собственного производственного сектора."
 
-  ITA_autarky:0 "Autarky"
+  ITA_autarky:0 "Автаркия"
   ITA_autarky_desc:0 ""
 
-  ITA_libyan_development:0 "Libyan Development"
+  ITA_libyan_development:0 "Развитие Ливии"
   ITA_libyan_development_desc:0 ""
 
-  ITA_libyan_citizenship:0 "Libyan Citizenship"
+  ITA_libyan_citizenship:0 "Ливийское гражданство"
   ITA_libyan_citizenship_desc:0 ""
-  ITL_create_infantry_unit:0 "Italian Libya will recieve a infantry template available for us to recruit"
+  ITL_create_infantry_unit:0 "Итальянская Ливия получит шаблон пехоты, доступный для вербовки"
 
-  ITA_fortify_africa:0 "Fortify Africa"
+  ITA_fortify_africa:0 "Укрепление Африки"
   ITA_fortify_africa_desc:0 ""
 
-  ITA_centres_for_army_research:0 "Centres for Army Research"
+  ITA_centres_for_army_research:0 "Центры армейских исследований"
   ITA_centres_for_army_research_desc:0 ""
 
-  ITA_military_modernization:0 "Military Modernization"
+  ITA_military_modernization:0 "Военная модернизация"
   ITA_military_modernization_desc:0 ""
-  ITA_finished_modernization:0 "§RIntense Modernization Effort will cancel when at war§!\nThe state of the Italian Armed Forces is...distressing. Our soliders use outdated equipment and lack the training of our neighbors. If war is to come again, Italy must be made ready. The first step is to direct our industrial base to focus on modernization, even if it does damage our economy a bit."
+  ITA_finished_modernization:0 "§RИнтенсивные усилия по модернизации будут отменены во время войны§!\nСостояние итальянских вооруженных сил... удручающее. Наши солидеры используют устаревшее оборудование и не имеют такой подготовки, как наши соседи. Если войне суждено повториться, Италия должна быть готова. Первый шаг - направить нашу промышленную базу на модернизацию, даже если это немного повредит нашей экономике."
 
-  ITA_blackshirt_recruitment:0 "Blackshirt Recruitment"
+  ITA_blackshirt_recruitment:0 "Вербовка чернорубашечников"
   ITA_blackshirt_recruitment_desc:0 ""
 
-  ITA_gioventu_italiana_del_littorio:0 "Gioventu Italiana Del Littorio"
+  ITA_gioventu_italiana_del_littorio:0 "Итальянская молодежь Литторио"
   ITA_gioventu_italiana_del_littorio_desc:0 ""
 
-  ITA_arrest_the_king:0 "Arrest the King"
+  ITA_arrest_the_king:0 "Арестовать короля"
   ITA_arrest_the_king_desc:0 ""
 
-  ITA_dictator_of_italy:0 "Dictator of Italy"
+  ITA_dictator_of_italy:0 "Диктатор Италии"
   ITA_dictator_of_italy_desc:0 ""
 
-  ITA_roman_divisions:0 "Roman Divisions"
+  ITA_roman_divisions:0 "Римские дивизии"
   ITA_roman_divisions_desc:0 ""
 
-  ITA_infantry_modernization:0 "Infantry Modernization"
-  ITA_infantry_modernization_desc:0 "Our soldiers need new weapons and support equipment to ensure their superiority on the battlefield. Furthermore, we should direct our general staff to formulate new strategies that takes advantage of modern developments."
+  ITA_infantry_modernization:0 "Модернизация пехоты"
+  ITA_infantry_modernization_desc:0 "Наши солдаты нуждаются в новом оружии и вспомогательном оборудовании, чтобы обеспечить свое превосходство на поле боя. Кроме того, мы должны поручить нашему генеральному штабу сформулировать новые стратегии, которые используют преимущества современных разработок."
 
-  ITA_artillery_modernization:0 "Artillery Modernization"
-  ITA_artillery_modernization_desc:0 "It's not enough to have large cannons on the battlefield if they're constantly outclassed by enemy weaponry. We will begin an emergency program to upgrade our artillery systems. Furthermore, we should direct our general staff to formulate new strategies that takes advantage of modern developments."
+  ITA_artillery_modernization:0 "Модернизация артиллерии"
+  ITA_artillery_modernization_desc:0 "Недостаточно иметь большие пушки на поле боя, если их постоянно превосходит вражеское оружие. Мы начнем чрезвычайную программу по модернизации наших артиллерийских систем. Кроме того, мы должны поручить нашему генеральному штабу сформулировать новые стратегии, использующие преимущества современных разработок."
 
-  ITA_multipurpose_guns:0 "Multipurpose Guns"
+  ITA_multipurpose_guns:0 "Многофункциональное оружие"
   ITA_multipurpose_guns_desc:0 ""
 
-  ITA_continue_the_development_of_the_l3:0 "Continue the Development of the L3"
+  ITA_continue_the_development_of_the_l3:0 "Продолжать разработку L3"
   ITA_continue_the_development_of_the_l3_desc:0 ""
 
-  ITA_modern_tank_development:0 "Modern Tank Development"
+  ITA_modern_tank_development:0 "Разработка современных танков"
   ITA_modern_tank_development_desc:0 ""
 
-  ITA_self_proppelled_guns:0 "Self-propelled Guns"
+  ITA_self_proppelled_guns:0 "Самоходные артиллерийские установки"
   ITA_self_proppelled_guns_desc:0 ""
 
-  ITA_scout_vehicles:0 "Scout Vehicles"
+  ITA_scout_vehicles:0 "Машины разведки"
   ITA_scout_vehicles_desc:0 ""
 
-  ITA_fund_military_excercises:0 "Fund Military Exercises"
+  ITA_fund_military_excercises:0 "Финансировать военные учения"
   ITA_fund_military_excercises_desc:0 ""
 
-  ITA_army_mechanization:0 "Army Mechanization"
+  ITA_army_mechanization:0 "Механизация армии"
   ITA_army_mechanization_desc:0 ""
-  ITA_army_mechanization_tt:1 "Gains a §YMedium Tank Division Template§!.\n"
+  ITA_army_mechanization_tt:1 "Получает §YШаблон дивизии средних танков§!.\n"
 
-  ITA_rebuild_the_alpini:0 "Rebuild the Alpini"
+  ITA_rebuild_the_alpini:0 "Восстановить альпийских стрелков Alpini"
   ITA_rebuild_the_alpini_desc:0 ""
-  ITA_elite_mountaineers_training_effect:0 "Enables §HElite Mountain Warfare Training§!\n§HMountaineers\n    Mountains§!\n      Attack: §G+10%§!\n      Defense: §G+10%§!\n      Movement: §G+10%§!\n"
-  GRE_mountain_training_effect:0 "Enables §HMountain Warfare Training§!\n§HInfantry\n    Mountains§!\n      Attack: §G+5%§!\n      Defense: §G+5%§!\n      Movement: §G+5%§!\n§HMarines\n    Mountains§!\n      Attack: §G+5%§!\n      Defense: §G+5%§!\n      Movement: §G+5%§!\n§HMountaineers\n    Mountains§!\n      Attack: §G+5%§!\n      Defense: §G+5%§!\n      Movement: §G+5%§!\n§HParatroopers\n    Mountains§!\n      Attack: §G+5%§!\n      Defense: §G+5%§!\n      Movement: §G+5%§!\n"
+  ITA_elite_mountaineers_training_effect:0 "Включает §HЭлитная боевая подготовка в горах§!\n§HГорная пехота\n    Горы§!\n      Атака: §G+10%§!\n      Защита: §G+10%§!\n      Передвижение: §G+10%§!\n"
+  GRE_mountain_training_effect:0 "Включает §HБоевая подготовка в горах§!\n§HПехота\n    Горы§!\n      Атака: §G+5%§!\n      Защита: §G+5%§!\n      Передвижение: §G+5%§!\n§HМорская пехота\n    Горы§!\n      Атака: §G+5%§!\n      Защита: §G+5%§!\n      Передвижение: §G+5%§!\n§HГорная пехота\n    Горы§!\n      Атака: §G+5%§!\n      Защита: §G+5%§!\n      Передвижение: §G+5%§!\n§HПарашютисты\n    Горы§!\n      Атака: §G+5%§!\n      Защита: §G+5%§!\n      Передвижение: §G+5%§!\n"
 
-  ITA_paracadutisti:0 "Paracadutisti"
+  ITA_paracadutisti:0 "Подготовка парашютистов"
   ITA_paracadutisti_desc:0 ""
 
-  ITA_revive_the_arditi:0 "Revive the Arditi"
-  ITA_revive_the_arditi_desc:0 ""
-  ITA_revive_the_arditi_tt:0 "Gain an elite §YArditi Division Template and unit§!\n"
+  ITA_revive_the_arditi:0 "Возродить Ардити"
+  ITA_revive_the_arditi_desc:0 "Ардити — штурмовые подразделения в итальянской армии, появившиеся во время Первой мировой войны"
+  ITA_revive_the_arditi_tt:0 "Получение элиты §YШаблон и подразделение дивизии Ардити§!\n"
 
-  ITA_issue_fighter_contracts:0 "Issue Fighter Contracts"
+  ITA_issue_fighter_contracts:0 "Заключить контракты на поставку истребителей"
   ITA_issue_fighter_contracts_desc:0 ""
 
-  ITA_issue_bomber_contracts:0 "Issue Bomber Contracts"
-  ITA_issue_bomber_contracts_desc:0 "The key to winning the next air-war is the complete destruction of the enemies industrial base."
+  ITA_issue_bomber_contracts:0 "Заключить контракты на поставку бомбардировщиков"
+  ITA_issue_bomber_contracts_desc:0 "Ключом к победе в следующей воздушной войне является полное уничтожение промышленной базы противника."
 
-  ITA_issue_general_contracts:0 "Issue General Contracts"
-  ITA_issue_general_contracts_desc:0 "In order to win the next air-war, we need an all-round airforce that can do everything."
+  ITA_issue_general_contracts:0 "Заключить договоры общего характера"
+  ITA_issue_general_contracts_desc:0 "Для того чтобы выиграть следующую воздушную войну, нам нужны универсальные ВВС, которые могут делать все."
 
-  ITA_radar_ventures:0 "Radar Ventures"
-  ITA_radar_ventures_desc:0 "This ground breaking technology will function as an early warning system against enemy air-raids and is much more reliable than ground observers."
+  ITA_radar_ventures:0 "Радарная техника"
+  ITA_radar_ventures_desc:0 "Эта революционная технология будет функционировать как система раннего предупреждения о воздушных налетах противника и является гораздо более надежной, чем наземные наблюдатели."
 
-  ITA_quality_over_quantity:0 "Quality Over Quantity"
-  ITA_quality_over_quantity_desc:0 "We must not sacrifice the quality of our aircraft in order to produce more."
+  ITA_quality_over_quantity:0 "Качество превыше количества"
+  ITA_quality_over_quantity_desc:0 "Мы не должны жертвовать качеством наших самолетов для того, чтобы производить больше."
 
-  ITA_quantity_over_quality:0 "Quantity Over Quality"
-  ITA_quantity_over_quality_desc:0 "Facing the reality of our industrial base, we must sacrifice quality to gain numerical parity with our enemies"
+  ITA_quantity_over_quality:0 "Количество превыше качества"
+  ITA_quantity_over_quality_desc:0 "Столкнувшись с реальностью нашей промышленной базы, мы должны пожертвовать качеством, чтобы добиться численного паритета с нашими врагами"
 
-  ITA_picchiatello:0 "Picchiatello"
+  ITA_picchiatello:0 "Итальянские штурмовики"
   ITA_picchiatello_desc:0 ""
 
-  ITA_bombardieri:0 "Bombardieri"
+  ITA_bombardieri:0 "Итальянские бомбардировщики"
   ITA_bombardieri_desc:0 ""
 
-  ITA_cooperate_with_the_regia_marina:0 "Cooperate With the Regia Marina"
-  ITA_cooperate_with_the_regia_marina_desc:0 "The Regia Marina has made it clear that they need new designs and they approached us to fulfil this demand."
+  ITA_cooperate_with_the_regia_marina:0 "Запрос от Regia Marina"
+  ITA_cooperate_with_the_regia_marina_desc:0 "Королевские военно-морские силы Италии (Regia Marina) дали понять, что им нужен новый проект, и они обратились к нам, чтобы мы выполнили это требование"
 
-  ITA_begin_carrier_trials:0 "Begin Carrier Trials"
-  ITA_begin_carrier_trials_desc:0 "Seeing how naval airpower is a major asset in any modern engagement, we must procure our own carrier in order to stay competitive."
+  ITA_begin_carrier_trials:0 "Начать испытания авианосца"
+  ITA_begin_carrier_trials_desc:0 "Учитывая, что военно-воздушные силы являются основным средством в любой современной операции, мы должны приобрести собственный авианосец, чтобы оставаться конкурентоспособными."
 
-  ITA_develop_series_5_fighters:0 "Develop Series 5 Fighters"
-  ITA_develop_series_5_fighters_desc:0 "Our enemies have recently started to produce fighters that are superior to ours, we must innovate in order to keep our edge."
+  ITA_develop_series_5_fighters:0 "Разработка истребителей 5-й серии"
+  ITA_develop_series_5_fighters_desc:0 "Наши враги недавно начали производить истребители, превосходящие наши, и мы должны внедрять инновации, чтобы сохранить наше преимущество.."
 
-  ITA_approach_reggiane_for_a_jet_aircraft:0 "Approach Reggiane for a Jet Aircraft"
-  ITA_approach_reggiane_for_a_jet_aircraft_desc:0 "Reggiane has stated that they are interested in prototyping an Italian-designed jet aircraft, we should give them the clearance to go ahead with the project."
+  ITA_approach_reggiane_for_a_jet_aircraft:0 "Подготовка реактивного самолета Reggiane"
+  ITA_approach_reggiane_for_a_jet_aircraft_desc:0 "Reggiane заявили, что они заинтересованы в создании прототипа реактивного самолета итальянской разработки, мы должны дать им разрешение на продолжение проекта."
 
-  ITA_lessons_from_the_spanish_civil_war:0 "Lessons from the Spanish Civil War"
-  ITA_lessons_from_the_spanish_civil_war_desc:0 "The CR.32 performed smashingly in the Spanish civil war. Biplanes are clearly the future and we must immediately start production on an improved version of the CR.32."
+  ITA_lessons_from_the_spanish_civil_war:0 "Уроки гражданской войны в Испании"
+  ITA_lessons_from_the_spanish_civil_war_desc:0 "CR.32 отлично показал себя в гражданской войне в Испании. Очевидно, что за бипланами будущее, и мы должны немедленно начать производство улучшенной версии CR.32."
 
-  ITA_analyse_war_reports:0 "Analyse War Reports"
-  ITA_analyse_war_reports_desc:0 "We learned a lot from the Spanish civil war, and we must now review our tactics and adjust them where necessary."
+  ITA_analyse_war_reports:0 "Анализировать военные отчеты"
+  ITA_analyse_war_reports_desc:0 "Мы многому научились во время гражданской войны в Испании, и сейчас мы должны пересмотреть нашу тактику и скорректировать ее там, где это необходимо."
 
-  ITA_continue_naval_rearmament:0 "Continue Naval Rearmament"
-  ITA_continue_naval_rearmament_desc:0 "The British have a significant presence in the Mediterranean, we must increase our numbers to be able to compete with them."
+  ITA_continue_naval_rearmament:0 "Продолжать военно-морское перевооружение"
+  ITA_continue_naval_rearmament_desc:0 "Британцы имеют значительное присутствие в Средиземноморье, мы должны увеличить нашу численность, чтобы иметь возможность конкурировать с ними."
 
-  ITA_scale_down_naval_rearmament:0 "Scale Down Naval Rearmament"
-  ITA_scale_down_naval_rearmament_desc:0 "Our current navy is large enough to protect our interests in the Mediterranean, we should allocate funds elsewhere."
+  ITA_scale_down_naval_rearmament:0 "Сокращение масштабов военно-морского перевооружения"
+  ITA_scale_down_naval_rearmament_desc:0 "Наш нынешний флот достаточно велик для защиты наших интересов в Средиземноморье, мы должны выделять средства на другие направления."
 
-  ITA_workhorse_of_the_fleet:0 "Workhorse of the Fleet"
-  ITA_workhorse_of_the_fleet_desc:0 "We need capital ships quickly, battleships are too much of an investment for a modern navy, heavy cruisers are the future."
+  ITA_workhorse_of_the_fleet:0 "Рабочая лошадка для флота"
+  ITA_workhorse_of_the_fleet_desc:0 "Нам срочно нужны капитальные корабли, линкоры - слишком большая инвестиция для современного флота, будущее за тяжелыми крейсерами."
 
-  ITA_battleship_primacy:0 "Battleship Primacy"
-  ITA_battleship_primacy_desc:0 "The battleship is still a valuable albeit vulnerable asset in any navy, it is time we start development on a new generation of battleships."
+  ITA_battleship_primacy:0 "Главенство линкоров"
+  ITA_battleship_primacy_desc:0 "Линкор по-прежнему является ценным, хотя и уязвимым активом любого флота, пора начать разработку нового поколения линкоров."
 
-  ITA_modernize_the_fleet:0 "Modernize the Fleet"
-  ITA_modernize_the_fleet_desc:0 "Our fleet largely consists of WW1 vintage, in order to compete with Britain in the Mediterranean, we must modernise our fleet."
+  ITA_modernize_the_fleet:0 "Модернизировать флот"
+  ITA_modernize_the_fleet_desc:0 "Наш флот в основном состоит из судов времен Первой мировой войны, чтобы конкурировать с Великобританией в Средиземном море, мы должны модернизировать наш флот."
 
-  ITA_contract_ansaldo:0 "Contract Ansaldo"
-  ITA_contract_ansaldo_desc:0 "Ansaldo can pave the way for the construction fo a modern Italian Navy"
+  ITA_contract_ansaldo:0 "Контракт Ansaldo"
+  ITA_contract_ansaldo_desc:0 "Ansaldo может проложить путь к строительству современного итальянского военно-морского флота"
 
-  ITA_hold_naval_wargames:0 "Hold Naval Wargames"
-  ITA_hold_naval_wargames_desc:0 "Simulating combat encounters will help us improve our strategies and tactics, staging wargames will provide us with this practical experience."
+  ITA_hold_naval_wargames:0 "Провести военно-морские игры"
+  ITA_hold_naval_wargames_desc:0 "Моделирование боевых столкновений поможет нам улучшить наши стратегии и тактику, постановка военных игр даст нам этот практический опыт."
 
-  ITA_expand_taranto_dockyards:0 "Expand Taranto Dockyards"
-  ITA_expand_taranto_dockyards_desc:0 "Taranto is located in a very strategic region, a perfect base to exert our naval dominance over the Mediterranean"
+  ITA_expand_taranto_dockyards:0 "Расширить верфи Таранто"
+  ITA_expand_taranto_dockyards_desc:0 "Таранто расположен в очень стратегически важном регионе, идеальной базе для обеспечения нашего военно-морского доминирования в Средиземноморье"
 
-  ITA_form_the_decima_flottiglia_mas:0 "Form the Decima Flottiglia MAS"
-  ITA_form_the_decima_flottiglia_mas_desc:0 "In order to occupy strategic areas around the Mediterranean, we must train a good naval commando force to achieve these objectives."
+  ITA_form_the_decima_flottiglia_mas:0 "Сформировать 10-ю флотилию MAC"
+  ITA_form_the_decima_flottiglia_mas_desc:0 "Для того чтобы занять стратегические районы вокруг Средиземного моря, мы должны подготовить хорошие морские силы коммандос для достижения этих целей."
 
-  ITA_triumph_in_africa:0 "Triumph in Africa"
-  ITA_triumph_in_africa_desc:0 "With our recent victory over the primitive nation of Ethiopia, a celebration is in order."
+  ITA_triumph_in_africa:0 "Триумф в Африке"
+  ITA_triumph_in_africa_desc:0 "В связи с нашей недавней победой над примитивной нацией Эфиопии, необходимо устроить праздник."
 
-  ITA_leave_the_league_of_nations:0 "Leave the League of Nations"
-  ITA_leave_the_league_of_nations_desc:0 "The league of Nations are the shackles that are holding us back, we must leave this ineffective organisation immediately."
+  ITA_leave_the_league_of_nations:0 "Выйти из Лиги Наций"
+  ITA_leave_the_league_of_nations_desc:0 "Лига Наций - это оковы, которые сдерживают нас, мы должны немедленно покинуть эту неэффективную организацию."
 
-  ITA_align_with_german_politics:0 "Align with German Politics"
-  ITA_align_with_german_politics_desc:0 "Germany is ideologically comparable to us, an alliance will strengthen that bond"
+  ITA_align_with_german_politics:0 "Согласование с политикой Германии"
+  ITA_align_with_german_politics_desc:0 "Германия идеологически сопоставима с нами, союз укрепит эту связь"
 
-  ITA_assert_imperial_claims:0 "Assert Imperial Claims"
-  ITA_assert_imperial_claims_desc:0 "In order to reclaim our position of dominance in the Mediterranean, we must conquer some strategically vital areas."
+  ITA_assert_imperial_claims:0 "Утверждение имперских претензий"
+  ITA_assert_imperial_claims_desc:0 "Для того чтобы вернуть себе господствующее положение в Средиземноморье, мы должны завоевать некоторые стратегически важные области."
 
-  ITA_break_out_of_the_mediterranean_prison:0 "Break out of the Mediterranean Prison"
-  ITA_break_out_of_the_mediterranean_prison_desc:0 "The Italian navy must free itself from the shackles of British domination, we must control the access to the Mediterranean"
+  ITA_break_out_of_the_mediterranean_prison:0 "Выбраться из средиземноморской тюрьмы"
+  ITA_break_out_of_the_mediterranean_prison_desc:0 "Итальянский флот должен освободиться от оков британского господства, мы должны контролировать выход в Средиземное море"
 
-  ITA_dismiss_mussolini:0 "Dismiss Mussolini"
-  ITA_dismiss_mussolini_desc:0 "Terrified of civil war, the King allowed Mussolini to create a government in his name to bring order and greatness to Italy. Instead, Mussolini has oppressed the people and created a horrid dictatorship. The King has decided that this mistake must be rectified and Mussolini must step down! Civil war may come, but Italia bows to no one!"
+  ITA_dismiss_mussolini:0 "Отстранить Муссолини"
+  ITA_dismiss_mussolini_desc:0 "Испугавшись гражданской войны, король позволил Муссолини создать правительство от его имени, чтобы принести порядок и величие Италии. Вместо этого Муссолини угнетал народ и создал ужасную диктатуру. Король решил, что эта ошибка должна быть исправлена, и Муссолини должен уйти в отставку! Гражданская война может наступить, но Италия не склонится ни перед кем!"
 
-  ITA_ambitions_of_italy:0 "Ambitions of Italy"
+  ITA_ambitions_of_italy:0 "Амбиции Италии"
   ITA_ambitions_of_italy_desc:0 ""
 
-  ITA_rebuild_the_nation:0 "Rebuild the Nation"
-  ITA_rebuild_the_nation_desc:0 "Italy must never be subject to the whims of a vulgar despot again. The nation must be rebuilt, starting with her industry and focusing on the needs of the people. We will be a center of production and innovation!"
+  ITA_rebuild_the_nation:0 "Восстановить нацию"
+  ITA_rebuild_the_nation_desc:0 "Италия никогда больше не должна подчиняться прихотям вульгарного деспота. Нация должна быть восстановлена, начиная с ее промышленности и сосредотачиваясь на нуждах народа. Мы станем центром производства и инноваций!"
 
-  ITA_integrate_former_enemies:0 "Integrate Former Enemies"
+  ITA_integrate_former_enemies:0 "Интегрировать бывших врагов"
   ITA_integrate_former_enemies_desc:0 ""
 
-  ITA_reverse_the_brain_drain:0 "Reverse the Brain Drain"
-  ITA_reverse_the_brain_drain_desc:0 "The fascist oppression forced many great minds to leave Italy to other nations around the globe. Because of that, our nation has lagged behind our neighbors scientifically. We must ensure their rights so that they can return and use their minds for Italia!"
+  ITA_reverse_the_brain_drain:0 "Остановить отток утечку мозгов"
+  ITA_reverse_the_brain_drain_desc:0 "Фашистский гнет заставил многих великих умов уехать из Италии в другие страны мира. Из-за этого наша страна отстала от своих соседей в научном плане. Мы должны обеспечить их права, чтобы они могли вернуться и использовать свои умы на благо Италии!"
 
-  ITA_attract_foreign_capital:0 "Attract Foreign Capital"
+  ITA_attract_foreign_capital:0 "Привлечь иностранный капитал"
   ITA_attract_foreign_capital_desc:0 ""
 
-  ITA_ratify_the_stresa_front:0 "Ratify the Stresa Front"
-  ITA_ratify_the_stresa_front_desc:0 "Mussolini promised the people of Italy greatness, instead, we were isolated and looked at by the nations of Europe as a rogue, criminal state. Now that we have regained control of the government, we can return to our place as the Crown of Western Civilization! Our first step is reconnection with France with a military alliance."
+  ITA_ratify_the_stresa_front:0 "Ратифицировать Стрезский фронт"
+  ITA_ratify_the_stresa_front_desc:0 "Муссолини обещал народу Италии величие, но вместо этого мы были изолированы и рассматривались странами Европы как государство-изгой, преступное государство. Теперь, когда мы восстановили контроль над правительством, мы можем вернуться на свое место в качестве короны западной цивилизации! Наш первый шаг - воссоединение с Францией в рамках военного альянса."
 
-  ITA_mediterranean_dominance:0 "Mediterranean Dominance"
+  ITA_mediterranean_dominance:0 "Доминирование в Средиземном море"
   ITA_mediterranean_dominance_desc:0 ""
 
-  ITA_plan_new_colonies:0 "Plan New Colonies"
-  ITA_plan_new_colonies_desc:0 "We must establish new governing entities in order to better control our empire. All of Africa and the Middle East shall be split into colonial governments in order to alleviate the burden of direct control.\n§RThese decisions will no longer be available, and all existing colonies will be annexed, if we establish the Novus Imperium Romanum."
+  ITA_plan_new_colonies:0 "План создания новых колоний"
+  ITA_plan_new_colonies_desc:0 "Мы должны создать новые управляющие структуры, чтобы лучше контролировать нашу империю. Вся Африка и Ближний Восток должны быть разделены на колониальные правительства, чтобы облегчить бремя прямого контроля.\n§RЭти решения больше не будут доступны, а все существующие колонии будут аннексированы, если мы создадим новую Римскую империю."
 
-  ITA_balkan_dominance:0 "Balkan Dominance"
-  ITA_balkan_dominance_desc:0 "The Balkans are a constant whirlwind of conflict and corruption. Not content with fighting a war between themselves, they've dragged the entire world to the brink of destruction! They need to be lead by a strong hand, be it peacefully or by more aggressive means…"
+  ITA_balkan_dominance:0 "Балканское доминирование"
+  ITA_balkan_dominance_desc:0 "Балканы - это постоянный вихрь конфликтов и коррупции. Не довольствуясь войной между собой, они поставили весь мир на грань уничтожения! Они нуждаются в сильной руке, будь то мирным или более агрессивным путем…"
 
-  ITA_italian_integrity:0 "Italian Integrity"
+  ITA_italian_integrity:0 "Итальянская целостность"
   ITA_italian_integrity_desc:0 ""
 
-  ITA_natural_borders_of_italy:0 "Natural Borders of Italy"
+  ITA_natural_borders_of_italy:0 "Естественные границы Италии"
   ITA_natural_borders_of_italy_desc:0 ""
-  ITA_natural_borders_of_italy_tt:0 "§YAll territories of the Natural borders of Italy are under Direct or subjugated control and the Mediterranean Prison is broken§!"
+  ITA_natural_borders_of_italy_tt:0 "§YВсе территории естественных границ Италии находятся под прямым или подчиненным контролем§!"
 
-  ITA_the_corpo_truppe_volontarie:0 "The Corpo Truppe Volontarie"
+  ITA_the_corpo_truppe_volontarie:0 "Добровольческий десантный корпус"
   ITA_the_corpo_truppe_volontarie_desc:0 ""
 
-  ITA_stage_an_incident_at_gibralter:0 "Stage an Incident at Gibraltar"
+  ITA_stage_an_incident_at_gibralter:0 "Инсценировать инцидент в Гибралтаре"
   ITA_stage_an_incident_at_gibralter_desc:0 ""
 
-  ITA_emperor_of_egypt:0 "Emperor of Egypt"
+  ITA_emperor_of_egypt:0 "Император Египта"
   ITA_emperor_of_egypt_desc:0 ""
 
-  ITA_sword_of_italy:0 "Sword of Italy"
-  ITA_sword_of_italy_desc:0 "As Caesar wielded his Legions to conquer the world, we now move against any adversary. We stand united and strong. Italy will no longer be a footnote in modern history, but a great nation that stands should to shoulder with the empires of old."
+  ITA_sword_of_italy:0 "Меч Италии"
+  ITA_sword_of_italy_desc:0 "Как Цезарь вел свои легионы на завоевание мира, так и мы теперь движемся на любого противника. Мы едины и сильны. Италия больше не будет сноской в современной истории, а станет великой нацией, стоящей плечом к плечу с империями древности."
 
-  ITA_move_towards_the_jewel_of_the_east:0 "Move towards the Jewel of the East"
+  ITA_move_towards_the_jewel_of_the_east:0 "Движение к жемчужине Востока"
   ITA_move_towards_the_jewel_of_the_east_desc:0 ""
 
-  ITA_yugoslav_alliance:0 "Yugoslav Alliance"
-  ITA_yugoslav_alliance_desc:0 "A war on continental Europe would surely bring the eyes of Britain and France upon us, but we can bring the Balkans to our sphere through diplomacy and trade. After all, Rome wasn’t built in a day and fighting a two front war would only end in defeat."
+  ITA_yugoslav_alliance:0 "Югославский союз"
+  ITA_yugoslav_alliance_desc:0 "Война в континентальной Европе, несомненно, привлечет к нам внимание Британии и Франции, но мы можем привлечь Балканы в нашу сферу с помощью дипломатии и торговли. В конце концов, Рим не был построен за один день, и война на два фронта закончится поражением."
 
-  ITA_dissolve_yugoslavia:0 "Dissolve Yugoslavia"
+  ITA_dissolve_yugoslavia:0 "Распустить Югославию"
   ITA_dissolve_yugoslavia_desc:0 ""
 
-  ITA_claims_on_yugoslavia:0 "Claims on Yugoslavia"
+  ITA_claims_on_yugoslavia:0 "Претензии к Югославии"
   ITA_claims_on_yugoslavia_desc:0 ""
 
-  ITA_alliance_for_vojvodina:0 "Alliance for Vojvodina"
+  ITA_alliance_for_vojvodina:0 "Альянс за Воеводину"
   ITA_alliance_for_vojvodina_desc:0 ""
 
-  ITA_protection_for_czechoslovakian_arms:0 "Protection for Czech Arms"
-  ITA_protection_for_czechoslovakian_arms_desc:0 "Not too long ago, the Czechs toiled under German tyranny, now they once again come under the threat of German imperialism. We shouldn't create a full fledged alliance, but we can offer protection, for a price, of course."
+  ITA_protection_for_czechoslovakian_arms:0 "Защита чешского вооружения"
+  ITA_protection_for_czechoslovakian_arms_desc:0 "Не так давно чехи трудились под немецкой тиранией, теперь они снова находятся под угрозой немецкого империализма. Мы не должны создавать полноценный альянс, но мы можем предложить защиту, за определенную плату, конечно."
 
-  ITA_bulgarian_occupation:0 "Bulgarian Occupation"
-  ITA_bulgarian_occupation_desc:0 "Bulgaria was an integral part of the Roman Empire, the northern border of the Balkans. In order to secure our holdings in this area, this strategically important region is of the utmost importance to conquer."
+  ITA_bulgarian_occupation:0 "Оккупация Болгарии"
+  ITA_bulgarian_occupation_desc:0 "Болгария была неотъемлемой частью Римской империи, северной границей Балкан. Чтобы обезопасить наши владения в этой области, этот стратегически важный регион крайне важно завоевать."
 
   ITA_alliance_for_thrace:0 "Alliance for Thrace"
   ITA_alliance_for_thrace_desc:0 ""
 
-  ITA_reconcile_with_romania:0 "Reconcile with Romania"
+  ITA_reconcile_with_romania:0 "Примирение с Румынией"
   ITA_reconcile_with_romania_desc:0 ""
 
-  ITA_fate_of_central_europe:0 "Fate of Central Europe"
+  ITA_fate_of_central_europe:0 "Судьба Центральной Европы"
   ITA_fate_of_central_europe_desc:0 ""
 
-  ITA_fate_of_eastern_europe:0 "Fate of Eastern Europe"
+  ITA_fate_of_eastern_europe:0 "Судьба Восточной Европы"
   ITA_fate_of_eastern_europe_desc:0 ""
 
-  ITA_demand_istanbul:0 "Demand Istanbul"
+  ITA_demand_istanbul:0 "Требовать Стамбул"
   ITA_demand_istanbul_desc:0 ""
 
-  ITA_novus_imperium_romanum:0 "Novus Imperium Romanum"
+  ITA_novus_imperium_romanum:0 "Новая Римская Империя"
   ITA_novus_imperium_romanum_desc:0 ""
-  roman_restore_roman_empire_category_tt:0 "Unlocks §YRestore the Roman Empire§! decisions."
+  roman_restore_roman_empire_category_tt:0 "Разблокировать §YВосстановить Римскую империю§! решение."
 
-  ITA_integrate_the_empire:0 "Integrate the Empire"
+  ITA_integrate_the_empire:0 "Интеграция империи"
   ITA_integrate_the_empire_desc:0 ""
 
-  ITA_protector_of_the_balkans:0 "Protector of the Balkans"
-  ITA_protector_of_the_balkans_desc:0 "The people of the Balkans are not beasts to be conquered, but lost people to be lead to greatness. There will be place in our New Rome for them. Our new empire will be one built with our subjects, not against them."
-  integrate_balkans_as_protector_tt:0 "§YUnlocks decisions to puppet Balkan Allies§!"
+  ITA_protector_of_the_balkans:0 "Покровитель Балкан"
+  ITA_protector_of_the_balkans_desc:0 "Балканские народы - это не звери, которых нужно покорить, а потерянные люди, которых нужно привести к величию. Для них найдется место в нашем Новом Риме. Наша новая империя будет построена вместе с нашими подданными, а не против них."
+  integrate_balkans_as_protector_tt:0 "§YРазблокирует решения о марионетках балканских государств§!"
 
-  ITA_rekindling_roman_sentiments:0 "Rekindling Roman Sentiments"
+  ITA_rekindling_roman_sentiments:0 "Возрождение римских настроений"
   ITA_rekindling_roman_sentiments_desc:0 ""
 
-  ITA_italia_irredenta:0 "Italia Irredenta"
-  ITA_italia_irredenta_desc:0 "Italy must be made whole, literally. Any territory that is Italian must be lead by Italians! We will reach out to our citizens and remind them of our strength and heritage. Together, we will defend our lands and lead our nation to greatness!"
+  ITA_italia_irredenta:0 "Ирредентизм"
+  ITA_italia_irredenta_desc:0 "Италия должна быть целой, в буквальном смысле. Любой территорией, которая является итальянской, должны руководить итальянцы! Мы обратимся к нашим гражданам и напомним им о нашей силе и наследии. Вместе мы защитим наши земли и приведем нашу нацию к величию!"
 
-  ITA_treaty_with_the_allies:0 "Treaty With the Allies"
-  ITA_treaty_with_the_allies_desc:0 "Not long ago, Italy stood side by side with the French and British and brought down tyranical empires that held Italian lands. We must reach out again to rekindle this relationship to ensure that our soldiers and pilots work together. Or at least learn how their weapons work..."
+  ITA_treaty_with_the_allies:0 "Договор с союзниками"
+  ITA_treaty_with_the_allies_desc:0 "Не так давно Италия стояла бок о бок с французами и британцами и свергла тиранические империи, которые владели итальянскими землями. Мы должны снова наладить эти отношения, чтобы наши солдаты и пилоты работали вместе. Или хотя бы узнали, как работает их оружие..."
 
-  ITA_heartland_of_the_med:0 "Heartland of the Med"
+  ITA_heartland_of_the_med:0 "Сердце Средиземноморья"
   ITA_heartland_of_the_med_desc:0 ""
 
-  ITA_conquer_yugoslavia:0 "Conquer Yugoslavia"
-  ITA_conquer_yugoslavia_desc:0 "Yugoslavia is home to many Italic peoples, we must once more integrate these into our national borders."
+  ITA_conquer_yugoslavia:0 "Завоевание Югославии"
+  ITA_conquer_yugoslavia_desc:0 "Югославия является родиной многих итальянских народов, мы должны еще раз интегрировать их в наши национальные границы."
 
-  ITA_conquer_spain:0 "Conquer Spain"
-  ITA_conquer_spain_desc:0 "Spain is a strategic region from which to harass anyone trying to enter our sea, it is vital to the survival of our nation that this territory be controlled by us."
+  ITA_conquer_spain:0 "Завоевание Испании"
+  ITA_conquer_spain_desc:0 "Испания - это стратегический регион, из которого можно преследовать любого, кто пытается войти в наше море, и для выживания нашей нации жизненно важно, чтобы эта территория была под нашим контролем."
 
-  ITA_conquer_portugal:0 "Conquer Portugal"
-  ITA_conquer_portugal_desc:0 "Portugal isn't of any strategic value, but should they decide to turn against us they would give our enemies a large foothold from which to conquer Spain"
+  ITA_conquer_portugal:0 "Завоевание Португалии"
+  ITA_conquer_portugal_desc:0 "Португалия не представляет никакой стратегической ценности, но если они решат выступить против нас, то дадут нашим врагам большой плацдарм для завоевания Испании"
 
-  ITA_explotation_of_annexed_nations:0 "If successful, will result in a §GSignificant Reduction of Economy Fatigue§!\n"
+  ITA_explotation_of_annexed_nations:0 "В случае успеха это приведет к §GСущественное снижение экономической усталости§!\n"
 
-  ITA_italian_medium_tanks:0 "Modern Medium Tanks"
+  ITA_italian_medium_tanks:0 "Современные средние танки"
   ITA_italian_medium_tanks_desc:0 ""
 
-  ITA_italian_heavy_tanks:0 "Modern Heavy Tanks"
+  ITA_italian_heavy_tanks:0 "Современные тяжелые танки"
   ITA_italian_heavy_tanks_desc:0 ""
 
-  adequate_army:0 "Does not have national spirit §YInadequate Army§!"
-  adequate_airforce:0 "Does not have national spirit §YInadequate Airforce§!"
-  adequate_navy:0 "Does not have national spirit §YInadequate Navy§!"
+  adequate_army:0 "Не имеет национального духа §YНеполноценная армия§!"
+  adequate_airforce:0 "Не имеет национального духа §YНеполноценные ВВС§!"
+  adequate_navy:0 "Не имеет национального духа §YНеполноценные ВМФ§!"
 
   JAP_purge_the_kodoha_faction_tt:0 "The £faction_jap_kodoha §YKodoha§! faction become §LEliminated§! removing all of their modifiers\n"
 
@@ -2783,8 +2783,8 @@
   SOV_great_patriotic_war:0 "Великая Отечественная война"
   SOV_great_patriotic_war_desc:0 "Враг у ворот, мы должны собрать каждый дюйм наших сил, чтобы отразить захватчиков или столкнуться с полным уничтожением."
 
-  SOV_peoples_militia:0 "Form the Peoples Militia"
-  SOV_peoples_militia_desc:0 "An army of volunteers is ready to muster in our national emergency. We should assign officers and organize them into divisions"
+  SOV_peoples_militia:0 "Сформировать народное ополчение"
+  SOV_peoples_militia_desc:0 "Армия добровольцев готова к мобилизации в чрезвычайной ситуации. Мы должны назначить офицеров и организовать их в дивизии"
 
   SOV_organized_partisans:0 "Организовать наших партизан"
   SOV_organized_partisans_desc:0 "Когда к нам вторгнутся, мы должны позволить народу создать организованное сопротивление, которое будет включать в себя саботаж инфраструктуры и заводов, которые приобретает враг. Это может быть просто план, но мы никогда не знаем, когда он может оказаться полезным."
@@ -2904,10 +2904,10 @@
   ENG_domestic_reforms_desc:0 ""
 
   home_guard_focus_tt:0 "\nНабирает мужчин в качестве резервных сил на случай чрезвычайных ситуаций §YОтечественная гвардия§! в резервный пул.\n"
-  home_guard_tt:0 "Deploys §G30§! §YHome Guard Light Infantry Divisions§! in your capital.\n"
-  home_guard_late_tt:0 "Deploys §G30§! §YHome Guard Heavy Infantry Divisions§! in your capital.\n"
-  home_guard_deployed:0 "Home Guard Deployed"
-  home_guard_late_deployed:0 "Home Guard Deployed"
+  home_guard_tt:0 "Развернуть §G30§! §YДивизии легкой пехоты национальной гвардии§! в вашей столице.\n"
+  home_guard_late_tt:0 "Развернуть §G30§! §YДивизии тяжелой пехоты национальной гвардии§! в вашей столице.\n"
+  home_guard_deployed:0 "Развертывание национальной гвардии"
+  home_guard_late_deployed:0 "Развертывание национальной гвардии"
 
   ENG_secure_sweden:0 "Обеспечение безопасности Швеции"
   ENG_secure_sweden_desc:0 "Швеция является жизненно важным торговым партнером для Германии. Если показать шведскому народу, что мы являемся оплотом обороны в Скандинавии, их можно убедить присоединиться к нашей борьбе и разорвать связи с Германией."
