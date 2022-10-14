@@ -2989,7 +2989,7 @@ technologies = {
 		supply_consumption_factor = -0.1
 		max_planning = 0.05
 		land_reinforce_rate = 0.05
-		minimum_training_level = 0.2
+		minimum_training_level = 0.15
 		category_all_infantry = {
 			breakthrough = 0.05
 		}
