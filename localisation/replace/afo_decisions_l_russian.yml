@@ -135,7 +135,7 @@
     invest_in_turkish_state_building_desc:0 "[TUR.GetAdjective] Во многих регионах страны недостаточно развита критическая инфраструктура; это то, что мы можем исправить."
     invest_in_turkish_state_light_industry:1 "[TUR.GetFlag]Invest in [TUR.GetAdjective] Легкая промышленность"
     invest_in_turkish_state_light_industry_desc:0 "[TUR.GetAdjective] легкая промышленность слабо развита во многих регионах страны; это то, что мы можем исправить."
-    invest_in_turkish_state_heavy_industry:1 "[TUR.GetFlag]Invest in [TUR.GetAdjective] Тяжелая промаленномть"
+    invest_in_turkish_state_heavy_industry:1 "[TUR.GetFlag]Invest in [TUR.GetAdjective] Тяжелая промышленность"
     invest_in_turkish_state_heavy_industry_desc:0 "[TUR.GetAdjective] тяжелая промышленность слабо развита во многих регионах страны; это то, что мы можем исправить."
 
     TUR_fortify_the_east_ttt:0 "Добавляет §Y5 наземных фортов§! на восточные границы §Y[352.GetName]§!.\n"
@@ -1551,7 +1551,7 @@
     ryuho_ship_conversion:0 "Ryuho Ship Conversion"
     ryuho_ship_conversion_desc:0 "Convert merchant ships into carriers"
 
-    GER_internal_factions:0 "Internal Factions"
+    GER_internal_factions:0 "Внутренние фракции"
     GER_internal_factions_desc:1 "SS и Wehrmacht соперничают за превосходство в немецкой армии, и оба не потерпят параллельной командной структуры, нам придется тщательно ориентироваться, чтобы предотвратить враждебные действия, или просто выбрать одну сторону и очистить другую. Немецкий народ жаждет чтобы Германия обрела свой законный статус великой державы, и с помощью промышленников мы сможем сделать это реальностью\n\n"
 
     GER_whermacht_name_text:0 "Wehrmacht"
