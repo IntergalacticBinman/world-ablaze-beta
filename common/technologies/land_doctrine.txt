@@ -2064,6 +2064,9 @@ technologies = {
 		mot_recon = {
 			recon = 1
 		}
+		mech_recon = {
+			recon = 1
+		}
 		mobile_recon = {
 			recon = 1
 		}

@@ -365,6 +365,7 @@ technologies = {
 		enable_subunits = {
 			recon
 			mot_recon
+			mech_recon
 			mobile_recon
 			armored_car_recon
 			armoured_recon
@@ -433,6 +434,10 @@ technologies = {
 			recon = 2
 		}
 
+		mech_recon = {
+			recon = 2
+		}
+
 		mobile_recon = {
 			recon = 2
 		}
@@ -496,6 +501,10 @@ technologies = {
 			recon = 2
 		}
 
+		mech_recon = {
+			recon = 2
+		}
+
 		mobile_recon = {
 			recon = 2
 		}
@@ -556,6 +565,10 @@ technologies = {
 		}
 
 		mot_recon = {
+			recon = 2
+		}
+
+		mech_recon = {
 			recon = 2
 		}
 

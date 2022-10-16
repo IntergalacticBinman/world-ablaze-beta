@@ -23,7 +23,7 @@ sub_units = {
 		combat_width = 0
 
 		#Size Definitions
-		max_strength = -0.8
+		#max_strength = -0.8
 		max_organisation = 20
 		default_morale = 0.3
 		manpower = 500
@@ -166,6 +166,89 @@ sub_units = {
 		same_support_type = recon # blocks adding other recon types to template
 	}
 
+	mech_recon = { #half-tracks
+		sprite = infantry
+		map_icon_category = infantry
+		priority = 0
+		ai_priority = 0
+		active = no
+
+		type = {
+			infantry
+			support
+		}
+
+		group = support
+
+		categories = {
+			category_front_line
+			category_support_battalions
+			category_army
+			category_recon
+		}
+
+
+		combat_width = 0
+
+		#Size Definitions
+		max_organisation 	= 20
+		default_morale 		= 0.3
+		manpower 			= 500
+		training_time 		= 120
+
+		#Misc Abilities
+		weight 				= 0.1
+		supply_consumption 	= 0.02
+		recon 				= 2
+		can_be_parachuted = no
+
+		# Support nerfs to combat abilities
+		defense = -0.09
+		breakthrough = -0.5
+		soft_attack = -0.9
+		hard_attack = -0.9
+        armor_value = -1.0
+
+		essential = {
+			infantry_equipment
+			support_equipment
+			mechanized_equipment
+		}
+
+		transport = mechanized_equipment
+		need = {
+			infantry_equipment = 30
+			support_equipment = 40
+			mechanized_equipment = 15
+		}
+
+		forest = {
+			movement = 0.08
+		}
+		hills = {
+			movement = 0.10
+		}
+		mountain = {
+			movement = 0.10
+		}
+		jungle = {
+			movement = 0.12
+		}
+		marsh = {
+			movement = 0.15
+		}
+		marsh_forest = {
+			movement = 0.12
+		}
+		desert = {
+			movement = 0.05
+		}
+		river = {
+			movement = 0.1
+		}
+		same_support_type = recon # blocks adding other recon types to template
+	}	
+
 	mobile_recon = {
 		sprite = infantry
 		map_icon_category = infantry
@@ -216,6 +299,7 @@ sub_units = {
 
 		need = {
 			scout_car_equipment = 15
+			infantry_equipment = 30
 			support_equipment = 40
 		}
 
@@ -297,6 +381,7 @@ sub_units = {
 
 		need = {
 			armoured_car_equipment = 15
+			infantry_equipment = 30
 			support_equipment = 40
 		}
 
@@ -378,6 +463,7 @@ sub_units = {
 
 		need = {
 			light_tank_chassis = 15
+			infantry_equipment = 30
 			support_equipment = 40
 		}
 

@@ -195,6 +195,8 @@
   recon_desc:0 "Recon"
   mot_recon:0 "Motorized Recon"
   mot_recon_desc:0 "Motorized Recon"
+  mech_recon:0 "Mechanized Recon"
+  mech_recon_desc:0 "Mechanized Recon"
   mobile_recon:0 "Scout Car Recon"
   mobile_recon_desc:0 "Scout Car Recon"
   armored_car_recon:0 "Armoured Car Recon"
