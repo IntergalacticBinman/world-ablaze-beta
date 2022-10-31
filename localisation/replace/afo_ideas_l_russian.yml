@@ -10,6 +10,9 @@
   leslie_morshead:0 "Leslie Morshead"
   leslie_morshead_desc:0 ""
 
+  CAN_conscription_crisis:0 "Conscription Crisis Among French Canadians"
+  CAN_conscription_crisis_mended:0 "Conscription Crisis Mended"
+
   BEL_paul_emile_janson:0 "Paul-Emile Janson"
   BEL_paul_emile_janson_desc:0 ""
 
@@ -35,13 +38,6 @@
   desire_for_independance:0 "Стремление к независимости"
   desire_for_independance_desc:0 ""
 
-  RAJ_desire_for_independance_1:0 "Desire for Independance"
-  RAJ_desire_for_independance_1_desc:0 ""
-  RAJ_desire_for_independance_2:0 "Desire for Independance"
-  RAJ_desire_for_independance_2_desc:0 ""
-  RAJ_desire_for_independance_3:0 "Desire for Independance"
-  RAJ_desire_for_independance_3_desc:0 ""
-
   oil_mismanagment:0 "Oil Mismanagment"
   oil_mismanagment_desc:0 ""
 
@@ -58,6 +54,9 @@
   MTG_naval_treaty_heavy_cruiser_limit_reached:0 "Достигнут предел тяжелых крейсеров"
   MTG_naval_treaty_battleship_limit_reached:0 "Достигнут предел линкоров"
   MTG_naval_treaty_carrier_limit_reached:0 "Достигнут предел авианосцев"
+
+  AUS_fatherland_Front:0 "Fatherland Front"
+  AUS_fatherland_Front_desc:0 ""
 
   BEL_horror_of_the_great_war:0 "Horror of the Great War"
   BEL_horror_of_the_great_war_desc:0 ""
@@ -149,6 +148,44 @@
   motti_tactics_corps_spirit:0 "Motti Tactics"
   motti_tactics_corps_spirit_desc:0 ""
 
+  guerilla_warfare_corps_spirit:0 "Guerilla Warfare"
+  guerilla_warfare_corps_spirit_desc:0 "While hiding from the enemy may be cowardly, it is also highly effective."
+
+  strategic_reserve_spirit:0 "Strategic Reserves"
+  strategic_reserve_spirit_desc:0 "Wars are fought by men, and when they're gone, their sons."
+
+  reserve_officers_spirit:0 "Officer Training Camps"
+
+  elastic_defense_tactic_chance_tt:0 "Additional §YElastic Defense§! Tactic chance in battle: §G+100%§!"
+  guerilla_warfare_tactic_chance_tt:0 "Additional §YGuerrilla Tactics§! Tactic chance in battle: §G+200%§!"
+  infantry_charge_tactic_chance_tt:0 "Additional §YInfiltration Assault§! Tactic chance in battle: §G+100%§!"
+  delay_tactic_chance_tt:0 "Additional §YDelay§! Tactic chance in battle: §G+100%§!"
+  relentless_assault_tactic_chance_tt:0 "Additional §YRelentless Assault§! Tactic chance in battle: §G+100%§!"
+  barrage_tactic_chance_tt:0 "Additional §YSuppressive Barrage§! Tactic chance in battle: §G+100%§!"
+  blitz_tactic_chance_tt:0 "Additional §YBlitz§! Tactic chance in battle: §G+100%§!"
+  overwhelming_firepower_tactic_chance_tt:0 "Additional §YOverwhelming Firepower§! Tactic chance in battle: §G+100%§!"
+  shock_tactic_chance_tt:0 "Additional §YShock§! Tactic chance in battle: §G+100%§!"
+  planned_attack_tactic_chance_tt:0 "Additional §YWell-Planned Attack§! Tactic chance in battle: §G+100%§!"
+  human_wave_tactic_chance_tt:0 "Additional §YMass Charge§! Tactic chance in battle: §G+100%§!"
+  ambush_tactic_chance_tt:0 "Additional §YAmbush§! Tactic chance in battle: §G+100%§!"
+  human_wave_tactic_chance_tt_2:0 "Additional §YMass Charge§! Tactic chance in battle: §G+200%§!"
+
+
+  meticulous_preparation_spirit_2_tt:1 "New Officers: §G50% chance§! to begin with the §Y"Organizer"§! trait."
+  theatre_training_academy_spirit_tt:0 "New Officers: §G50% chance§! to begin with the §Y"Brilliant Strategist"§! or §Y"Inflexible Strategist"§! trait."
+  best_of_the_best_spirit_tt:1 "New Officers: §G50% chance§! to begin with the §Y"Skilled Staffer"§! trait."
+  great_war_legacy_spirit:0 "Great War Legacy"
+  great_war_legacy_spirit_desc:0 "There's no better way to predict the future than to be stuck in the past."
+  great_war_legacy_spirit_tt:0 "New Officers: §G100% chance§! to begin with the §Y"Old Guard"§! trait and §G50% chance§! to begin with the §Y"Cavalry Officer"§!, §Y"Engineer Officer"§!, or §Y"War Hero"§! traits."
+  great_war_legacy_spirit_2_tt:0 "Officers: §Y50% chance§! of §R-1 Attack§! on level up."
+  superior_firepower_academy_spirit:1 "Engineering and Artillery Schools"
+  superior_firepower_academy_spirit_tt:1 "§G50% chance§! that new officers are created with the §Y"Engineer Officer"§! or §Y"Bearer of Artillery"§! trait."
+
+  army_spirits_academy_tt:0 "Has unlocked one §YTier 1 Land Doctrine§!."
+  army_spirits_academy_gw_tt:0 "Has unlocked all of the §YGreat War Land Doctrines§!"
+  army_spirits_army_tt:0 "Has unlocked one §YTier 1 Land Doctrine§!."
+  army_spirits_division_tt:0 "Has unlocked one §YTier 2 Land Doctrine§!."
+
   valtion_lentokonetehdas:0 "Valtion Lentokonetehdas"
   valtion_lentokonetehdas_desc:0 ""
 
@@ -211,6 +248,10 @@
   arms_industry_reorganization:0 "Реорганизация индустрии вооружений"
   arms_industry_reorganization_desc:0 ""
 
+  german_fusiliers:0 "Тактика егерей"
+  german_fusiliers_desc:0 ""
+  german_fusiliers_tt:0 "Легкая пехота получит §G+10%§! скорость движения, §G+15%§! Защита, §G+25%§! здоровье §G+10§! организация"
+
   sissi_tactics:0 "Sissi Tactics"
   sissi_tactics_desc:0 ""
   sissi_tactics_tt:0 "Light Infantry will gain a §G+10%§! Movement Speed and a §G+50%§! breakthrough"
@@ -248,6 +289,9 @@
   internal_conflict:0 "Internal Conflict"
   war_torn_country:0 "War Torn Country"
   Recovering_from_war:0 "Recovering From War"
+
+  local_logistics:0 "Local Logistics"
+  local_logistics_desc:0 ""
 
   CHI_high_peoples_support_civil_war:0 "High Peoples Support"
   CHI_high_peoples_support_civil_war_desc:0 ""
@@ -449,23 +493,25 @@
   alexander_von_falkenhausen_desc:0 ""
   Germany_withdraws_support:0 "Германия прекращает поддержку"
 
-  AST_wool_industry:0 "Wool Industry Funds"
-  AST_wool_industry_desc:0 ""
+  BUL_second_national_catastrophe_wa_tt:0 "Will be removed if Greater Bulgaria is restored:\nHas full control of §YSofia§!, §YPlovdiv§!, §YStruma Valley§!, §YBurgas§!, §YDanubian Plain§!, §YDobrudja§!, §YPirot§!, §YCentral Macedonia§!, §YThrace§!."
 
-  RAJ_quit_india_resolution_curbed:0 "Quit India Resolution"
-  RAJ_quit_india_resolution_curbed_desc:0 ""
-
-  RAJ_riots_in_the_streets:0 "Riots In the Streets"
-  RAJ_riots_in_the_streets_desc:0 ""
-
-  HUN_balkan_opposition:0 "Balkan Opposition"
-  HUN_balkan_opposition_desc:0 ""
+  HUN_bitter_loser:0 "Bitter Loser"
+  HUN_bitter_loser_desc:0 ""
 
   HUN_societal_inequality:0 "Societal Inequality"
   HUN_societal_inequality_desc:0 ""
 
   HUN_societal_inequality_1:0 "Societal Inequality"
   HUN_societal_inequality_1_desc:0 ""
+
+  HUN_fears_of_the_great_war:0 "Fears of the Great War"
+
+  HUN_economic_crisis:0 "Economic Crisis"
+
+  HUN_fears_of_the_great_war_tt:0 "Will reduce §RStability by -30%§! if at war with the allies. §YWill be removed if is in a faction/same government with France or the UK or if one of the countries has capitulated§!"
+
+  HUN_balkan_opposition:0 "Balkan Opposition"
+  HUN_balkan_opposition_desc:0 ""
 
   HUN_lothar_rendulic:0 "Dr. Lothar Rendulic"
   HUN_viktor_seebauer:0 "Viktor Seebauer"
@@ -496,7 +542,7 @@
   royal_twenty_centres2:0 "Королевские двадцать центров"
   royal_twenty_centres2_desc:0 "Великая депрессия привела к большому количеству безработных. Чтобы вернуть население к работе, мы создали трудовые лагеря с минимальной оплатой в обмен на труд. Однако нас сильно критиковали за плохие условия труда и зарплату.."
 
-  royal_canadian_army_headquarters:0 "Штаб Королевской канадской армии"
+  CAN_royal_canadian_army_headquarters:0 "Штаб Королевской канадской армии"
 
   crown_corporations:0 "Королевские корпорации"
   crown_corporations2:0 "Королевские корпорации"
@@ -504,6 +550,84 @@
   CAN_ernest_james_renaud:0 "Ernest James Renaud"
 
   CAN_howard_reid:0 "Howard Reid"
+
+  AST_emergency_shipbuilding:0 "Emergency Shipbuilding"
+
+  AST_great_depression:0 "Great Depression"
+
+  AST_sw_pacific_command:0 "S.W. Pacific Command"
+
+  AST_unemployment_relief_works:0 "Unemployment Relief Works"
+  AST_unemployment_relief_works_2:0 "Unemployment Relief Works"
+  AST_unemployment_relief_works_3:0 "Unemployment Relief Works"
+
+  AST_assisted_migration:0 "Assisted Migration"
+
+  AST_australian_vigor:0 "Australian Vigor"
+
+  AST_military_college:0 "Australian Military College"
+
+  AST_mobile_artillery:0 "Mobile Artillery"
+
+  AST_m_su:0 "M special Unit"
+
+  AST_commonwealth_aircraft_corporation:0 "Commonwealth Aircraft Corporation"
+  AST_commonwealth_aircraft_corporation_1:0 "Commonwealth Aircraft Corporation"
+
+  AST_tugan_aircraft:0 "Tugan Aircraft"
+  AST_tugan_aircraft_1:0 "Tugan Aircraft"
+
+  AST_wool_industry:0 "Wool Industry Funds"
+  AST_wool_industry_desc:0 ""
+
+  AST_political_instablity:0 "Political Instability"
+  AST_political_instablity_desc:0 ""
+
+  AST_political_instablity_2:0 "Political Instability"
+  AST_political_instablity_2_desc:0 ""
+
+  AST_political_instablity_3:0 "The Premier's Plan"
+  AST_political_instablity_3_desc:0 ""
+
+  AST_political_instablity_4:0 "The Premier's Plan"
+  AST_political_instablity_4_desc:0 ""
+
+  AST_underfunded_military:0 "Underfunded Military"
+  AST_underfunded_military_desc:0 ""
+
+  AST_underfunded_military_2:0 "Underfunded Military"
+  AST_underfunded_military_2_desc:0 ""
+
+  AST_underfunded_military_3:0 "Underfunded Military"
+  AST_underfunded_military_3_desc:0 ""
+
+  AST_underfunded_military_4:0 "Underfunded Military"
+  AST_underfunded_military_4_desc:0 ""
+
+  RAJ_jewel_of_the_empire:0 "Jewel of the Empire"
+
+  RAJ_jewel_of_the_empire_2:0 "Jewel of the Empire"
+
+  RAJ_indian_national_congress:0 "Indian National Congress"
+
+  RAJ_indian_national_congress_angry:0 "Indian National Congress"
+
+  RAJ_indian_national_congress_imprisoned:0 "Indian National Congress Imprisoned"
+
+  RAJ_tax_evation:0 "Tax Evation"
+
+  RAJ_quit_india_resolution_curbed:0 "Quit India Resolution"
+  RAJ_quit_india_resolution_curbed_desc:0 ""
+
+  RAJ_riots_in_the_streets:0 "Riots In the Streets"
+  RAJ_riots_in_the_streets_desc:0 ""
+
+  RAJ_indian_ordnance_service_dynamic_modifier:0 "Indian Ordnance Service"
+
+  RAJ_sandhurst_military_acadamy:0 "Sandhurst Military Acadamy"
+
+  RAJ_famine_2:0 "Famine"
+  RAJ_famine_2_desc:0 "Incompetence, indifference and blatant corruption in the colonial government and the Indian railroads have turned a difficult situation into a full-blown catastrophe. The country will suffer from this for months to come."
 
   leonard_w_murray:0 "Leonard W.Murray"
 
@@ -547,19 +671,23 @@
 
   giovanni_messe_2:0 "Giovanni Messe"
 
-  ITA_retooling_the_industry:0 "Переоснащение промышленности"
+  victor_emmanuel:0 "Victor Emmanuel"
 
-  standaradized_war_material:0 "Стандартизированные военные материалы"
+  ITA_inadequate_military_dynamic_modifier:0 "Inadequate Military"
 
-  ITA_reverse_the_brain_drain:0 "Обратить отток мозгов назад"
+  ITA_retooling_the_industry:0 "Retooling The Industry"
 
-  mediterrarian_tariffs:0 "Средиземноморские торговые тарифы"
+  standaradized_war_material:0 "Standardized War Material"
 
-  ITA_death_before_surrender:0 "Смерть перед капитуляцией"
+  ITA_reverse_the_brain_drain:0 "Reverse the Brain Drain"
 
-  ITF_death_before_surrender:0 "Смерть перед капитуляцией"
+  mediterrarian_tariffs:0 "Mediterrarian Trade Tariffs"
 
-  ITA_emmanuel_figurehead:0 "Фигура короля Эммануила"
+  ITA_death_before_surrender:0 "Death before Surrender"
+
+  ITF_death_before_surrender:0 "Death before Surrender"
+
+  ITA_emmanuel_figurehead:0 "Figurehead King Emmanuel"
   ITA_emmanuel_figurehead_desc:0 ""
 
   ITA_grand_council_of_fascism:0 "Великий совет фашизма"
@@ -605,43 +733,7 @@
   ITA_decima_flottiglia_mas:0 "10-я флотилия МАС"
   ITA_decima_flottiglia_mas_desc:0 ""
 
-  ITA_inadequte_army:0 "Неудовлетворительная армия"
-  ITA_inadequte_army_desc:0 ""
-
-  ITA_inadequte_army_2:0 "Неудовлетворительная армия"
-  ITA_inadequte_army_2_desc:0 ""
-
-  ITA_inadequte_army_3:0 "Неудовлетворительная армия"
-  ITA_inadequte_army_3_desc:0 ""
-
-  ITA_inadequte_army_4:0 "Неудовлетворительная армия"
-  ITA_inadequte_army_4_desc:0 ""
-
-  ITA_inadequte_airforce:0 "Неудовлетворительные ВВС"
-  ITA_inadequte_airforce_desc:0 ""
-
-  ITA_inadequte_airforce_2:0 "Неудовлетворительные ВВС"
-  ITA_inadequte_airforce_2_desc:0 ""
-
-  ITA_inadequte_airforce_3:0 "Неудовлетворительные ВВС"
-  ITA_inadequte_airforce_3_desc:0 ""
-
-  ITA_inadequte_airforce_4:0 "Неудовлетворительные ВВС"
-  ITA_inadequte_airforce_4_desc:0 ""
-
-  ITA_inadequte_navy:0 "Неудовлетворительные ВМФ"
-  ITA_inadequte_navy_desc:0 ""
-
-  ITA_inadequte_navy_2:0 "Неудовлетворительные ВМФ"
-  ITA_inadequte_navy_2_desc:0 ""
-
-  ITA_inadequte_navy_3:0 "Неудовлетворительные ВМФ"
-  ITA_inadequte_navy_3_desc:0 ""
-
-  ITA_inadequte_navy_4:0 "Неудовлетворительные ВМФ"
-  ITA_inadequte_navy_4_desc:0 ""
-
-  ITA_rebuild_the_nation:0 "Восстановить нацию"
+  ITA_rebuild_the_nation:0 "Rebuild the Nation"
   ITA_rebuild_the_nation_desc:0 ""
 
   ITA_national_revitalization:0 "Национальное возрождение"
@@ -733,8 +825,10 @@
   market_socialism:0 "Рыночный социализм"
   market_socialism_desc:0 ""
 
-  gaz_automobile_plants:0 "GAZ Automobile Plants"
+  gaz_automobile_plants:0 "GAZ Автомобильный завод"
   gaz_automobile_plants_desc:0 ""
+
+ SOV_gosproyektstroy_1_tt:0 ""
 
   sov_weak_industry:0 "Слаборазвитая промышленность"
   sov_weak_industry_desc:0 "Наша великая промышленность остается слабой до тех пор, пока мы не завершим пятилетний план и не введем нашу нацию в современную эпоху."
@@ -800,6 +894,12 @@
 
   GER_mefo_bills_instant_desc:0 "\n§RПереход к войне или гражданской экономике устранит зависимость от счетов MEFO, а также отсрочит требование их оплаты до окончания войны.§!"
 
+  GER_army_exhausted:0 "Армия измотана"
+  GER_army_exhausted_desc:0 ""
+
+  GER_anti_comintern_pact:0 "Антикоминтерновский пакт"
+  GER_anti_comintern_pact_desc:0 ""
+
   GER_safeguard_the_balkans:0 "Защитить Балканы"
   GER_safeguard_the_balkans_desc:0 ""
 
@@ -830,6 +930,12 @@
   GER_reichkommissariats_governments:0 "Рейхскомиссариат"
   GER_reichkommissariats_governments_desc:0 "Создание различных рейхскомиссариатов поможет справиться с сопротивлением.."
 
+  GER_okh:0 "OKH"
+  GER_okh_desc:0 "ОKH(нем. Oberkommando des Heeres) — верховное командование сухопутных сил вермахта с 1936 по 1945 год. Под руководством Гитлера фактически являлось командованием Восточно-европейского театра военных действий, в то время как ОКВ командовало Западно-европейским театром"
+
+  GER_okw:0 "OKW"
+  GER_okw_desc:0 "OKW (нем. Oberkommando der Wehrmacht) — Верховное командование вермахта, центральный элемент управленческой структуры вооружённых сил Германии в 1938—1945 годах."
+
   ENG_king_edward_nazi:0 "Edward VIII"
   ENG_king_edward_nazi_desc:0 "Нацистский король."
 
@@ -845,8 +951,30 @@
   GER_werwolf:0 "Werwolf тактика"
   GER_werwolf_desc:0 "Werwolf (ополчение) были запланированной немецкой группой сопротивления, которая будет сражаться против оккупационных сил, когда война будет проиграна.."
 
-  GER_ita_treaty:0 "Германо-итальянский договор о взаимопомощи"
-  GER_ita_treaty_desc:0 ""
+  GER_ineffective_air_minstry:0 "Неэффективная авиационная промышленность"
+  GER_ineffective_air_minstry_desc:0 ""
+
+  GER_ineffective_air_minstry_2:0 "Неэффективная авиационная промышленность"
+  GER_ineffective_air_minstry_2_desc:0 ""
+
+  GER_ita_treaty:0 "Договор о взаимопомощи"
+  GER_ita_hun_treaty:0 "Договор о взаимопомощи"
+  GER_ita_hun_rom_treaty:0 "Договор о взаимопомощи"
+  GER_ita_hun_rom_bul_treaty:0 "Договор о взаимопомощи"
+  GER_ita_hun_rom_bul_yug_treaty:0 "Договор о взаимопомощи"
+  GER_hun_treaty:0 "Договор о взаимопомощи"
+  GER_hun_rom_treaty:0 "Договор о взаимопомощи"
+  GER_hun_rom_bul_treaty:0 "Договор о взаимопомощи"
+  GER_hun_rom_bul_yug_treaty:0 "Договор о взаимопомощи"
+  GER_ita_rom_treaty:0 "Договор о взаимопомощи"
+  GER_ita_rom_bul_treaty:0 "Договор о взаимопомощи"
+  GER_ita_rom_bul_yug_treaty:0 "Договор о взаимопомощи"
+  GER_ita_hun_bul_treaty:0 "Договор о взаимопомощи"
+  GER_ita_hun_bul_yug_treaty:0 "Договор о взаимопомощи"
+  GER_ita_hun_rom_yug_treaty:0 "Договор о взаимопомощи"
+
+  swiss_franc_agreement_GER:0 "German Trade Agreement"
+  swiss_franc_agreement_POR:0 "German Trade Agreement"
 
   GER_total:0 "Поставки продовольствия с оккупированных территорий"
   GER_total_desc:0 ""
@@ -1011,20 +1139,20 @@
 
   intermixing_of_industries:0 "Смешение отраслей"
 
-  ger_daf:0 "Deutsche Arbeitsfront"
+  ger_daf:0 "Немецкий трудовой фронт"
 
-  ger_rls:0 "Reichsarbeitsdienst"
+  ger_rls:0 "Трудовая служба Рейха"
 
   bletchley_park:0 "Блетчли Парк"
 
-  sour_loser_2:0 "Горький неудачник"
-  sour_loser_2_desc:0 "Горечь от поражения в Великой войне доминирует в политике этой нации."
+  GER_bitter_loser_2:0 "Горький неудачник"
+  GER_bitter_2_desc:0 "Горечь от поражения в Великой войне доминирует в политике этой нации."
 
-  sour_loser_3:0 "Горький неудачник"
-  sour_loser_3_desc:0 "Горечь от поражения в Великой войне доминирует в политике этой нации."
+  GER_bitter_loser_3:0 "Горький неудачник"
+  GER_bitter_loser_3_desc:0 "Горечь от поражения в Великой войне доминирует в политике этой нации."
 
-  sour_loser_4:0 "Горький неудачник"
-  sour_loser_4_desc:0 "Горечь от поражения в Великой войне доминирует в политике этой нации."
+  GER_bitter_loser_4:0 "Горький неудачник"
+  GER_bitter_loser_4_desc:0 "Горечь от поражения в Великой войне доминирует в политике этой нации."
 
   coal_liquidization:0 "Ликвидация угля"
 
@@ -1035,7 +1163,7 @@
 
   ENG_empty_the_gold_reserves_idea:0 "Опустошить золотые резервы"
 
-  ENG_commonwealth_free_trade_zone:0 "Зона свободной торговли стран Содружества"
+  ENG_commonwealth_free_trade_zone:0 "Commonwealth Free trade zone"
 
   ENG_tizard:0 "Миссия Тизарда"
 
@@ -1057,6 +1185,12 @@
 
   ENG_the_war_to_end_all_wars_2:0 "Война, чтобы положить конец всем войнам"
   ENG_the_war_to_end_all_wars_2_desc:0 "С недавней памятью о Великой войне и люди, и лидеры страны не хотят посылать еще одно поколение умирать в окопах.."
+
+  ENG_the_war_to_end_all_wars_3:0 "Война, чтобы положить конец всем войнам"
+  ENG_the_war_to_end_all_wars_3_desc:0 "С недавней памятью о Великой войне и люди, и лидеры страны не хотят посылать еще одно поколение умирать в окопах.."
+
+  ENG_the_war_to_end_all_wars_4:0 "Война, чтобы положить конец всем войнам"
+  ENG_the_war_to_end_all_wars_4_desc:0 "С недавней памятью о Великой войне и люди, и лидеры страны не хотят посылать еще одно поколение умирать в окопах.."
 
   integrated_colony:0 "Интегрированная колония"
   USA_wpa_idea:0 "WPA"
@@ -1159,6 +1293,8 @@
   unreliable_torpedoes_2:0 "Ненадежные торпеды"
   unreliable_torpedoes_2_desc:0 ""
 
+	rocket_artillery:0 "Ракетная артиллерия"
+
   foreign_technologies:0 "Зарубежные технологии"
   major_technologies:0 "Основные национальные технологии"
   major_technologies_research:0 "Основные национальные технологии"
@@ -1176,6 +1312,18 @@
   ###################################################################################################################################################################################################################################################################
   ###################################################################################################################################################################################################################################################################
 
+
+  global_organizations:0 "Глобальная организация"
+  national_character:0 "Национальный характер"
+  joint_chief_of_staff:0 "Объединенный начальник штаба"
+
+  foreign_minister:0 "Министр иностранных дел"
+  interior_minister:0 "Министр внутренних дел"
+  economic_minister:0 "Министр экономики"
+  transport_minister:0 "Министр транспорта"
+  intelligence_minister:0 "Министр разведки"
+
+  USA_foreign_minister:0 "Государственный секретарь"
 
   ministry_of_culture:0 "Министерство культуры"
   ministry_of_defence:0 "Министерство обороны"
@@ -1257,8 +1405,7 @@
 
   conscript_men_into_the_factories:0 "Призыв мужчин на заводы"
 
-  extreme_economic_mobilisation_sov:0 "Сверхмобилизованная промышленность"
-  extreme_economic_mobilisation_ger:0 "Сверхмобилизованная промышленность"
+  extreme_economic_mobilisation:0 "Сверхмобилизованная промышленность"
 
   no_economic_policy:0 "Нет экономической политики"
   ministry_of_business_cost_factor:0 "Стоимость экономической политики"
@@ -1337,9 +1484,6 @@
   sorel_industries:0 "Sorel Industries"
   manfred_weiss_s_and_m_works:0 "Manfred Weiss S&M Works"
   potez:0 "Potez"
-  daimler:0 "Daimler"
-  krupp_tank:0 "Krupp"
-  alkett:0 "Alkett"
   lavochkin:0 "Lavochkin"
   petlyakov:0 "Petlyakov"
   vauxhaul_motors_eng:0 "Vauxhaul Motors"
@@ -1355,11 +1499,42 @@
   reggiane:0 "Reggiane"
   breda_aircraft:0 "Breda"
   cant:0 "CANT"
+  kawanishi:0 "Kawanishi"
   kawasaki_aircraft:0 "Kawasaki Aircraft"
   FRA_foreign_legion:0 "Foreign Legion"
   FRA_foreign_legion_desc:0 "The French Foreign Legion was an elite unit, composed of volunteers from all around the globe."
   ig_farben:0 "IG Farben"
   ig_farben_desc:0 "IG Farben are keenly interested in Industrial research."
+
+  porsche:0 "Porsche"
+  henschel:0 "Henschel"
+  GER_MAN:0 "MAN"
+  daimler:0 "Daimler"
+  krupp_tank:0 "Krupp"
+  alkett:0 "Alkett"
+  porsche_2:0 "Porsche"
+  henschel_2:0 "Henschel"
+  GER_MAN_2:0 "MAN"
+  daimler_2:0 "Daimler"
+  krupp_tank_2:0 "Krupp"
+  alkett_2:0 "Alkett"
+  porsche_3:0 "Porsche"
+  henschel_3:0 "Henschel"
+  GER_MAN_3:0 "MAN"
+  daimler_3:0 "Daimler"
+  krupp_tank_3:0 "Krupp"
+  alkett_3:0 "Alkett"
+
+  messerschmitt_2:0 "Messerschmitt"
+  focke_wulf_2:0 "Focke Wulf"
+  junkers_2:0 "Junkers"
+  heinkel_2:0 "Heinkel"
+  dornier_2:0 "Dornier"
+  messerschmitt_3:0 "Messerschmitt"
+  focke_wulf_3:0 "Focke Wulf"
+  junkers_3:0 "Junkers"
+  heinkel_3:0 "Heinkel"
+  dornier_3:0 "Dornier"
 
   krupp_lost:0 "Krupp обанкротился"
   daimler_lost:0 "Daimler обанкротился"

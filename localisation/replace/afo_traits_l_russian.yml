@@ -1,12 +1,148 @@
 ﻿l_russian:
- army_chief_amateur_1:0 "Brilliant Amateur\n(Incompetent)"
- SS_officer_trait:0 "Waffen SS Officer"
- SS_officer_trait_desc:0 "Waffen SS Officers favour brutal and fanatic methods."
- SS_officer_trait_ai:0 "Waffen SS Officer"
- SS_officer_trait_ai_desc:0 "Waffen SS Officers favour brutal and fanatic methods."
- FRA_emperor_of_the_french:0 "Emperor of the French"
- FRA_emperor_of_the_french_desc:0 "Commanded directly on the battlefield by their Emperor, the troops are more willing to fight harder."
- sinister_secretary:0 "Sinister Secretary"
- corrupt_kleptocrat:0 "Corrupt Kleptocrat"
- humble:0 "Humble"
- reichsmarschall:0 "Reichsmarschall"
+
+  intellectual:0 "Умный"
+
+  nationalist:0 "Националист"
+
+  information_controller:0 "Контролер информации"
+
+  army_chief_amateur_1:0 "Гениальный дилетант\n(Некомпетентный)"
+  SS_officer_trait:0 "Офицер Waffen SS"
+  SS_officer_trait_desc:0 "Офицеры Ваффен СС предпочитали жестокие и фанатичные методы."
+  SS_officer_trait_ai:0 "Офицер Waffen SS"
+  SS_officer_trait_ai_desc:0 "Офицеры Ваффен СС предпочитали жестокие и фанатичные методы."
+
+  FRA_emperor_of_the_french:0 "Император Франции"
+  FRA_emperor_of_the_french_desc:0 "Командуя на поле боя непосредственно своим императором, войска готовы сражаться более упорно."
+
+  sinister_secretary:0 "Зловещий секретарь"
+
+  corrupt_kleptocrat:0 "Коррупционер-клептократ"
+
+  deputy_fuhrer:0 "Заместитель фюрера"
+
+  humble:0 "Скромный"
+
+  incompetent:0 "Некомпетентный"
+
+  reichsmarschall:0 "Рейхсмаршал"
+
+  patriot:0 "Патриот"
+
+  recruiter:0 "Рекрутер"
+
+  economist:0 "Экономист"
+
+  vicious_tongue:0 "Злобный язык"
+
+  silver_tongue:0 "Серебряный язык"
+
+  expert_foreign_minister:0 "Эксперт МИД"
+
+  iron_grip:0 "Железная хватка"
+
+  apartheidist:0 "Апартеидист"
+
+  businessman:0 "Бизнесмен"
+
+  communist_militia_leader:1 "Лидер коммунистического ополчения"
+
+  chinese_unionist:0 "Китайский унионист"
+
+  public_servant:0 "Государственный служащий"
+
+  red_economist:0 "Красный экономист"
+
+  reconciler:0 "Примиритель"
+
+  peaceful_nationalist:0 "Мирный националист"
+
+  private_of_industry:0 "Рядовой промышленник"
+
+  private_of_manufacturing:0 "Частное производство"
+
+  lieutenant_of_manufacturing:0 "Лейтенант производства"
+
+  captain_of_manufacturing:0 "Капитан по производству"
+
+  tenacious_industrialist:0 "Упорный промышленник"
+
+  resistance_broker:0 "Брокер сопротивления"
+
+  industry_vampire:0 "Промышленный вампир"
+  industry_vampire_tt:0 "Будет увеличиваться §YЭкономическая усталость§! на §R1%§! каждые 4 месяца"
+
+  industrialist:0 "Индустриалист"
+
+  anti_appeaser:0 "Против уступчивости"
+
+  corrupt:0 "Коррумпированный"
+
+  anti_corruption:0 "Борьба с коррупцией"
+
+  loyal_communist:0 "Преданный коммунист"
+
+  honest:0 "Честный"
+
+  press_censor:0 "Цензор прессы"
+
+  negotiator:0 "Переговорщик"
+
+  orderly:0 "Заказчик"
+
+  transport_expert:0 "Транспортный эксперт"
+
+  radical_economist:0 "Радикальный экономист"
+
+  welfare_proponent:0 "Сторонник благополучия"
+
+  economic_negotiator:0 "Экономический переговорщик"
+
+  economic_liberalist:0 "Экономический либерал"
+
+  economic_organizer:0 "Организатор экономики"
+
+  peace_advocate:0 "Защитник мира"
+
+  head_of_zaibatsu:0 "Глава Дзайбацу"
+
+  communications_wizard:0 "Мастер коммуникаций"
+
+  self_determinist:0 "Самоопределитель"
+
+  military_governor:0 "Военный губернатор"
+
+  economic_healer:0 "Лекарь экономики"
+  economic_healer_tt:0 "Уменьшит §YЭкономическая усталость§! на §G1%§! каждые 4 месяца"
+
+  new_blood:0 "Новая кровь"
+  new_blood_desc:0 "Блестящий командир, доказавший свою состоятельность и быстро поднявшийся по служебной лестнице.."
+
+  intensive_trainer:0 "Интенсивный тренер"
+  intensive_trainer_desc:0 "Командир, который готовит своих людей по самым высоким стандартам."
+
+  smallscale_commander:0 "Командир корпуса"
+  smallscale_commander_desc:0 "Отсутствие опыта командования крупными формированиями. §GЧерта исчезает после достижения уровня4§!"
+
+  flexible_tactician:0 "Гибкий тактик"
+  flexible_tactician_desc:0 "Быстро адаптируясь к погодным условиям, этот командир покорит даже саму природу."
+
+  chairman_of_china:0 "Председатель Китая"
+
+  director_of_the_state:0 "Директор региона"
+
+  premier_of_examination:0 "Премьер экспертизы"
+
+  president_of_legislation:0 "Президент по законодательству"
+
+  steel_corporatist:0 "Стальная корпорация"
+
+  oil_corporatist:0 "Нефтяная корпорация"
+
+  viceroy:0 "Наместник короля"
+
+  princley_states:0 "Туземное княжества"
+
+  ################ IMPRISON
+
+  gandhi_imprisoned_flag:0 "Находится в тюрьме"

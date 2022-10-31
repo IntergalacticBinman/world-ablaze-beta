@@ -32,6 +32,8 @@
   economy_fatigue_increase_workers_wages:0 "Увеличить заработную плату рабочих"
 
   economy_fatigue_civilian_economy_mission:0 "Восстановление экономики"
+  economy_fatigue_industry_vampire_mission:0 "Каннибализация промышленности"
+  economy_fatigue_civilian_economy_mission:0 "Реконструкция экономики"
   economy_fatigue_low_economic_mobilisation_mission:0 "Устойчивая экономика"
   economy_fatigue_partial_economic_mobilisation_mission:0 "Ухудшающаяся экономика"
   economy_fatigue_war_economy_mission:0 "Ухудшение состояния экономики"
@@ -61,8 +63,7 @@
   partial_economic_mobilisation_desc:0 "§RЛегкое увеличение§! Экономической усталости на §R1%§! каждые §R8 недель§!.\n"
   war_economy_desc:0 "§RУвеличение§! Экономической усталости на §R1%§! каждые §R5 недель§!.\n"
   tot_economic_mobilisation_desc:0 "§RЗначительное увеличение§! Экономической усталости на §R1%§! каждые §R3 недель§!.\n"
-  extreme_economic_mobilisation_ger_desc:0 "§RДраматическое увеличение§! Экономической усталости на §R1%§! каждые §R12 дней§!.\n"
-  extreme_economic_mobilisation_sov_desc:0 "§RДраматическое увеличение§! Экономической усталости на §R1%§! каждые §R12 дней§!.\n"
+  extreme_economic_mobilisation_desc:0 "§RДраматическое увеличение§! Экономической усталости на §R1%§! каждые §R12 дней§!.\n"
 
   free_trade_desc:0 "§GЛегкое уменьшение§! Экономической усталости на §G1%§! каждые §G10 недель§!.\n"
   closed_economy_desc:0 "§RЛегкое увеличение§! Экономической усталости на §R1%§! каждые §R10 недель§!.\n"

@@ -3,17 +3,17 @@
 #################################################################################### AIR ####################################################################################
 
 
-    fighter_equipment_4:0 "Современный истребитель"
-    fighter_equipment_4_short:0 "Современный истребитель"
+    fighter_equipment_4:0 "Modern Fighter"
+    fighter_equipment_4_short:0 "Modern Fighter"
     fighter_equipment_4_desc:0 ""
 
-    cv_fighter_equipment_4:0 "Современный палубный истребитель"
-    cv_fighter_equipment_4_short:0 "Современный палубный истребитель"
+    cv_fighter_equipment_4:0 "Modern Carrier Fighter"
+    cv_fighter_equipment_4_short:0 "Modern Carrier Fighter"
     cv_fighter_equipment_4_desc:0 ""
 
-    category_fighter_multirole:0 "Многофункциональный истребитель"
-    category_strike_bomber:0 "Ударный бомбардировщик"
-    category_attacker:0 "Тяжелый штурмовик"
+    category_fighter_multirole:0 "Multirole Fighter"
+    category_strike_bomber:0 "Strike Bomber"
+    category_attacker:0 "Attacker"
 
 
 #################################################################################### AST Australia
@@ -1793,6 +1793,7 @@
     eng_scout_plane_equipment_1:0 "Bristol Fighter"
     eng_scout_plane_equipment_1_short:0 "Bristol Fighter"
     eng_scout_plane_equipment_1_desc:0 "\n§RThis is a brand new model and will not retain efficiency§"
+    eng_scout_plane_1:0 "Bristol Fighter"
 
     eng_scout_plane_equipment_2:0 "Botha"
     eng_scout_plane_equipment_2_short:0 "Botha"

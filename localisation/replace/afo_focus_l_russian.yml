@@ -1203,11 +1203,337 @@
 
   HUN_assault_gun_focus_desc:0 "Rather than focus on full-fledged tanks, we will instead rely on assault guns to aid our infantry in affecting breakthroughs, as a more cost-effective alternative."
 
+AST_reform_the_economy:0 "Reform the Economy"
+  AST_reform_the_economy_desc:0 ""
+
+  AST_invest_in_manufacturing:0 "Invest in Manufacturing"
+  AST_invest_in_manufacturing_desc:0 ""
+
+  AST_industrialize_urban_centres:0 "Industrialize Urban Centres"
+  AST_industrialize_urban_centres_desc:0 ""
+
+  AST_expand_bhp_steelworks:0 "Expand BHP Steelworks"
+  AST_expand_bhp_steelworks_desc:0 ""
+
+  AST_unemployment_relief_works_act:0 "Unemployment Relief Works Act"
+  AST_unemployment_relief_works_act_desc:0 ""
+
+  AST_the_premiers_plan:0 "The Premiers Plan"
+  AST_the_premiers_plan_desc:0 ""
+
+  AST_loan_appropiation_bill:0 "Loan Appropiation Bill"
+  AST_loan_appropiation_bill_desc:0 ""
+  AST_unemployment_relief_works_act_dd_flag:0 "Has completed focus §YUnemployment Relief Works Act§!"
+  AST_unemployment_relief_works_act_dd_tt:0 "Current days are: [?AST_unemployment_relief_works_act_dd_flag:days|Y0]"
+
+  AST_maintain_industry_tariffs:0 "Maintain Industry Tariffs"
+  AST_maintain_industry_tariffs_desc:0 ""
+  AST_loan_appropiation_bill_dd_flag:0 "Has completed focus §YLoan Appropiation Bill§!"
+  AST_loan_appropiation_bill_dd_tt:0 "Current days are: [?AST_loan_appropiation_bill_dd_flag:days|Y0]"
+
+  AST_merge_the_banks:0 "Merge the Banks"
+  AST_merge_the_banks_desc:0 ""
+  AST_maintain_industry_tariffs_dd_flag:0 "Has completed focus §YMaintain Industry Tariffs§!"
+  AST_maintain_industry_tariffs_dd_tt:0 "Current days are: [?AST_maintain_industry_tariffs_dd_flag:days|Y0]"
+
+  AST_expand_mining_operations:0 "Expand Mining Operations"
+  AST_expand_mining_operations_desc:0 ""
+
+  AST_reorganize_the_department_of_defense:0 "Reorganize the Department of Defense"
+  AST_reorganize_the_department_of_defense_desc:0 ""
+
+  AST_form_the_department_of_supply_and_development:0 "Form the Department of Supply and Development"
+  AST_form_the_department_of_supply_and_development_desc:0 ""
+
+  AST_form_the_department_of_munitions:0 "Form the Department of Munitions"
+  AST_form_the_department_of_munitions_desc:0 ""
+
+  AST_expand_the_lithgow_small_arms_factory:0 "Expand the Lithgow Small Arms Factory"
+  AST_expand_the_lithgow_small_arms_factory_desc:0 ""
+
+  AST_divert_domestic_production:0 "DiverT Domestic Production"
+  AST_divert_domestic_production_desc:0 ""
+
+  AST_integrate_tugan_aircraft_into_the_cac:0 "Integrate Tugan Aircraft into CAC"
+  AST_integrate_tugan_aircraft_into_the_cac_desc:0 ""
+  AST_integrate_tugan_aircraft_into_the_cac_tt:0 "Have §G400§! Deployed §YFighters§!.\n"
+
+  AST_expand_cac_facilities:0 "Expand CAC Facilities"
+  AST_expand_cac_facilities_desc:0 ""
+
+  AST_nationalize_daf:0 "Nationalize DAF"
+  AST_nationalize_daf_desc:0 ""
+  AST_nationalize_daf_tt:0 "Have §G600§! Deployed §YFighters§! and §G200§! §YAttackers§!\n"
+
+  AST_further_british_cooperation:0 "Further British Cooperation"
+  AST_further_british_cooperation_desc:0 ""
+
+  AST_secure_modern_equipment:0 "Secure Modern Equipment"
+  AST_secure_modern_equipment_desc:0 ""
+
+  AST_rats_of_tobruk_effect_africa:0 "Gain and §YElite Infantry Division§! in Cairo"
+  AST_rats_of_tobruk_effect_australia:0 ""
+
+  AST_abandon_the_singapore_strategy:0 "Gain and §YElite Infantry Division§! in Sydney"
+  AST_abandon_the_singapore_strategy_desc:0 ""
+
+  AST_closer_ties_with_the_netherlands:0 "Closer Ties with the Netherlands"
+  AST_closer_ties_with_the_netherlands_desc:0 ""
+
+  AST_working_with_the_rnn:0 "Working with the RNN"
+  AST_working_with_the_rnn_desc:0 ""
+
+  AST_liason_to_the_dutch_military:0 "Liason to the Dutch Military"
+  AST_liason_to_the_dutch_military_desc:0 ""
+
+  AST_defend_the_dutch_colonies:0 "Defend the Dutch Colonies"
+  AST_defend_the_dutch_colonies_desc:0 ""
+
+  AST_closer_ties_with_the_usa:0 "Closer Ties with the USA"
+  AST_closer_ties_with_the_usa_desc:0 ""
+
+  AST_secure_lend_lease:0 "Secure Lend Lease"
+  AST_secure_lend_lease_desc:0 ""
+
+  AST_security_guarantees:0 "Security Guarantees"
+  AST_security_guarantees_desc:0 ""
+
+  AST_form_abdacom:0 "Form Abdacom"
+  AST_form_abdacom_desc:0 ""
+
+  AST_integrate_dutch_forces:0 "Integreate Dutch Forces"
+  AST_integrate_dutch_forces_desc:0 ""
+
+  AST_south_west_pacific_command:0 "South West Pacific Command"
+  AST_south_west_pacific_command_desc:0 ""
+
   AST_nationalize_the_wool_industry:0 "Nationalize the Wool Industry"
   AST_nationalize_the_wool_industry_desc:0 ""
 
   AST_approve_land_grants:0 "Approve Land Grants"
   AST_approve_land_grants_desc:0 ""
+
+AST_rural_renovation_and_maintenance_works_act:0 "Rural Renovation and Maintenance Works Act"
+  AST_rural_renovation_and_maintenance_works_act_desc:0 ""
+
+  AST_reform_agricultural_laws:0 "Reform Agricultural Laws"
+  AST_reform_agricultural_laws_desc:0 ""
+
+  AST_urban_housing_trusts:0 "Urban Housing Trusts"
+  AST_urban_housing_trusts_desc:0 ""
+
+  AST_invest_in_external_territories:0 "Invest in External Territories"
+  AST_invest_in_external_territories_desc:0 ""
+
+  AST_partial_railway_standardization:0 "Partial Railway Standardization"
+  AST_partial_railway_standardization_desc:0 ""
+
+  AST_organise_rural_war_and_sewage_works:0 "Organize Rural War and Sewage Works"
+  AST_organise_rural_war_and_sewage_works_desc:0 ""
+
+  AST_expand_urban_road_works:0 "Expand Urban Road Works"
+  AST_expand_urban_road_works_desc:0 ""
+
+  AST_lower_interest_rates:0 "Lower Interest Rates"
+  AST_lower_interest_rates_desc:0 ""
+
+  AST_resume_assisted_migration:0 "Resume Assisted Migration"
+  AST_resume_assisted_migration_desc:0 ""
+
+  AST_strengthen_ties_with_the_uk:0 "Strengthen Ties with the UK"
+  AST_strengthen_ties_with_the_uk_desc:0 ""
+
+  AST_policy_of_imperial_defence:0 "Policy of Imperial Defence"
+  AST_policy_of_imperial_defence_desc:0 ""
+
+  AST_national_security_act:0 "National Security Act"
+  AST_national_security_act_desc:0 ""
+
+  AST_rearmament:0 "Rearmament"
+  AST_rearmament_desc:0 ""
+
+  AST_civil_construction_corps:0 "Civil Construction Corps"
+  AST_civil_construction_corps_desc:0 ""
+
+  AST_allied_works_council:0 "Allied Works Council"
+  AST_allied_works_council_desc:0 ""
+
+  AST_csir:0 "CSIR"
+  AST_csir_desc:0 ""
+
+  AST_recruit_billy_hughes:0 "Recruit Billy Hughes"
+  AST_recruit_billy_hughes_desc:0 ""
+
+  AST_squash_the_squander_bugs:0 "Squash the Squander Bugs"
+  AST_squash_the_squander_bugs_desc:0 ""
+
+  AST_nationalize_key_industries:0 "Nationalize Key Industries"
+  AST_nationalize_key_industries_desc:0 ""
+
+  AST_additional_militia_training:0 "Additional Militia Training"
+  AST_additional_militia_training_desc:0 ""
+
+  AST_raise_additional_brigades:0 "Raise Additional Brigades"
+  AST_raise_additional_brigades_desc:0 ""
+
+  AST_darwin_mobile_force:0 "Darwin Mobile Force"
+  AST_darwin_mobile_force_desc:0 ""
+
+  AST_conduct_military_exercises:0 "Conduct Military Exercises"
+  AST_conduct_military_exercises_desc:0 ""
+
+  AST_exercises_with_the_british_army:0 "Exercises with the British Army"
+  AST_exercises_with_the_british_army_desc:0 ""
+
+  AST_jungle_warfare_centre:0 "Jungle Warfare Centre"
+  AST_jungle_warfare_centre_desc:0 ""
+
+	AST_z_special_unit_tt:0 "Will add §Y10 Resistance§! to every Indonesian state controlled by the East Asian Co-prosperity Sphere.\n\n"
+
+  AST_restore_the_military_college:0 "Restore the Military College"
+  AST_restore_the_military_college_desc:0 ""
+
+  AST_reestablish_the_school_of_military_engineering:0 "Re-establish the School of Military Engineering"
+  AST_reestablish_the_school_of_military_engineering_desc:0 ""
+
+  AST_revive_the_aif:0 "Revive the AIF"
+  AST_revive_the_aif_desc:0 ""
+
+  AST_expand_the_aif:0 "Expand the AIF"
+  AST_expand_the_aif_desc:0 ""
+
+  AST_unconventional_warfare:0 "Unconventional Warfare"
+  AST_unconventional_warfare_desc:0 ""
+
+  AST_amphibious_training:0 "Amphibious Training"
+  AST_amphibious_training_desc:0 ""
+
+  AST_royal_australian_artillery:0 "Royal Australian Artillery"
+  AST_royal_australian_artillery_desc:0 ""
+
+  AST_extreme_logistical_training:0 "Extreme Logistical Training"
+  AST_extreme_logistical_training_desc:0 ""
+
+  AST_pacific_garrison:0 "Pacific Garrison"
+  AST_pacific_garrison_desc:0 ""
+  AST_pacific_garrison_desc_tt: "\nGains a §YMarine Division Template§!\n\n"
+
+  AST_womens_army_service:0 "Womens Army Service"
+  AST_womens_army_service_desc:0 ""
+
+  AST_pioneer_advanced_recon:0 "Pioneer Advanced Recon"
+  AST_pioneer_advanced_recon_desc:0 ""
+
+  AST_sentinal_tank_project:0 "Sentinal Tank Project"
+  AST_sentinal_tank_project_desc:0 ""
+
+  AST_first_armoured_division:0 "First Armoured Division"
+  AST_first_armoured_division_desc:0 ""
+  AST_first_armoured_division_tt:0 "\nGains a §YMedium Tank Division Template§!\n\n"
+
+  AST_enlist_evelyn_owen:0 "Enlist Evelyn Owen"
+  AST_enlist_evelyn_owen_desc:0 ""
+
+  AST_mobile_artillery:0 "Mobile Artillery"
+  AST_mobile_artillery_desc:0 ""
+
+  AST_expand_number_one_flying_training_school_raaf:0 "Expand No.1 Flight School"
+  AST_expand_number_one_flying_training_school_raaf_desc:0 ""
+
+  AST_expand_the_air_fleet:0 "Expand the Air Fleet"
+  AST_expand_the_air_fleet_desc:0 ""
+
+  AST_focus_on_oversea_defence:0 "Focus on Oversea Defence"
+  AST_focus_on_oversea_defence_desc:0 ""
+
+  AST_focus_on_local_defence:0 "Focus on Local Defence"
+  AST_focus_on_local_defence_desc:0 ""
+
+  AST_establish_the_department_of_aircraft_production:0 "Establish the D. of Aircraft Production"
+  AST_establish_the_department_of_aircraft_production_desc:0 ""
+
+  AST_establish_the_commonwealth_aircraft_corporation:0 "Establish the CAC"
+  AST_establish_the_commonwealth_aircraft_corporation_desc:0 ""
+
+  AST_recruit_lawrence_wackett:0 "Recruit Lawrence Wackett"
+  AST_recruit_lawrence_wackett_desc:0 ""
+  AST_recruit_lawrence_wackett_tt:0 "All Air Designers will give a §Y+10% research speed§!"
+
+  AST_reorganize_the_flying_training_school_raaf:0 "Re-organize the Flying Training School RAAF"
+  AST_reorganize_the_flying_training_school_raaf_desc:0 ""
+
+  AST_ground_crew_oversea_training:0 "Ground Crew Oversea Training"
+  AST_ground_crew_oversea_training_desc:0 ""
+
+  AST_develop_the_ran_airforce:0 "Develop the RAN Airforce"
+  AST_develop_the_ran_airforce_desc:0 ""
+
+  AST_expand_our_eastern_bases:0 "Expand our Eastern Bases"
+  AST_expand_our_eastern_bases_desc:0 ""
+
+  AST_expand_our_northern_bases:0 "Expand our Northern Bases"
+  AST_expand_our_northern_bases_desc:0 ""
+
+  AST_expand_our_western_bases:0 "Expand our Western Bases"
+  AST_expand_our_western_bases_desc:0 ""
+
+  AST_expand_morts_dock_and_cockatoo_island_shipyards:0 "Expand Morts Dock and Cockatoo island Shipyards"
+  AST_expand_morts_dock_and_cockatoo_island_shipyards_desc:0 ""
+
+  AST_australian_refit_yards:0 "Australian Refit Yards"
+  AST_australian_refit_yards_desc:0 ""
+
+  AST_establish_the_kangaroo_point_shipyards:0 "Establish the Kangaroo Point Shipyards"
+  AST_establish_the_kangaroo_point_shipyards_desc:0 ""
+
+  AST_requisition_the_williamstown_dockyards:0 "Requisition the Williamstown Dockyards"
+  AST_requisition_the_williamstown_dockyards_desc:0 ""
+
+  AST_build_the_nsw_state_dockyard:0 "Build the NSW State Dockyard"
+  AST_build_the_nsw_state_dockyard_desc:0 ""
+
+  AST_privatize_government_dockyards:0 "Privatize Government Dockyards"
+  AST_privatize_government_dockyards_desc:0 ""
+
+  AST_training_exercises_with_the_royal_navy:0 "Training Exercises with the Royal Navy"
+  AST_training_exercises_with_the_royal_navy_desc:0 ""
+
+  AST_naval_best_practices:0 "Naval Best Practices"
+  AST_naval_best_practices_desc:0 ""
+
+  AST_recommission_the_hmas_adelaide:0 "Recommission the HMAS Adelaide"
+  AST_recommission_the_hmas_adelaide_desc:0 ""
+
+  AST_study_new_british_designs:0 "Study New British Designs"
+  AST_study_new_british_designs_desc:0 ""
+
+  AST_upgrading_the_scrap_iron_flotilla:0 "Upgrading the Scrap Iron Flotilla"
+  AST_upgrading_the_scrap_iron_flotilla_desc:0 ""
+  AST_upgrading_the_scrap_iron_flotilla_tt:0 "Will lay down §Y2 Tribal Class Destroyers§! and §Y5 J/K/N Class Destroyers§! with various stages of completetion"
+
+  AST_request_heavy_cruiser_transfers:0 "Request Heavy Cruiser Transfers"
+  AST_request_heavy_cruiser_transfers_desc:0 ""
+
+  AST_evolution_of_the_ran:0 "Evolution of the RAN"
+  AST_evolution_of_the_ran_desc:0 ""
+
+  AST_naval_auxillary_patrols:0 "Naval Auxillary Patrols"
+  AST_naval_auxillary_patrols_desc:0 ""
+
+  AST_royal_australian_naval_college:0 "Royal Australian Naval College"
+  AST_royal_australian_naval_college_desc:0 ""
+
+  AST_protect_oversea_commerce:0 "Protect Oversea Commerce"
+  AST_protect_oversea_commerce_desc:0 ""
+
+  AST_domestic_frigate_designs:0 "Domestic Frigate Designs"
+  AST_domestic_frigate_designs_desc:0 ""
+
+  AST_asw:0 "ASW"
+  AST_asw_desc:0 ""
+
+  AST_seek_and_destroy_doctrine:0 "Seek and Destroy doctrine"
+  AST_seek_and_destroy_doctrine_desc:0 ""
 
   CAN_modernize_the_navy:0 "Modernize the Navy"
   CAN_modernize_the_navy_desc:0 ""
@@ -1281,8 +1607,285 @@
   AST_anzac_co_investments:0 "ANZAC Co-Investments"
   AST_anzac_command_desc:0 ""
 
+RAJ_empower_the_congress:0 "Empower to the Congress"
+  RAJ_empower_the_congress_desc:0 ""
+
+  RAJ_curb_the_congress:0 "Curb the Congress"
+  RAJ_curb_the_congress_desc:0 ""
+  RAJ_curb_the_congress_tt:0 "§YWill unlock decisions to counter the INC and enforce British Rule§!"
+
+  RAJ_government_of_india_act:0 "Government of India Act"
+  RAJ_government_of_india_act_desc:0 ""
+  RAJ_government_of_india_act_tt:0 "§YWill seperate Burma from the British Raj§!"
+
+  RAJ_establish_the_reserve_bank_of_india:0 "Establish Reserve Bank of India"
+  RAJ_establish_the_reserve_bank_of_india_desc:0 ""
+
+  RAJ_establish_the_public_service_comission:0 "Establish Public Service Comission"
+  RAJ_establish_the_public_service_comission_desc:0 ""
+
+  RAJ_creation_of_the_federal_court:0 "Creation of the Federal Court"
+  RAJ_creation_of_the_federal_court_desc:0 ""
+
+  RAJ_collaborate_with_the_hindu_mahasabha:0 "Collaborate with the Hindu Mahasabha"
+  RAJ_collaborate_with_the_hindu_mahasabha_desc:0 ""
+  RAJ_collaborate_with_the_hindu_mahasabha_tt:0 "§YWill unlock decisions to establish Hindu Mahasabha governers to help enforce British Rule§!"
+
+  RAJ_enforce_the_caste_system:0 "Enforce the Caste System"
+  RAJ_enforce_the_caste_system_desc:0 ""
+
+  RAJ_commit_to_the_war_effort:0 "Commit to the War Effort"
+  RAJ_commit_to_the_war_effort_desc:0 ""
+
+  RAJ_august_offer:0 "August Offer"
+  RAJ_august_offer_desc:0 ""
+  RAJ_august_offer_tt:0 "§YWill result in the British Raj becoming a dominion upon war end§!"
+
+  RAJ_cripps_mission_tt:0 "§YThe Cripps Mission is aimed at getting the Indian population on board with the war effort§!"
+
+  RAJ_lahore_resolution:0 "Lahore Resolution"
+  RAJ_lahore_resolution_desc:0 ""
+  RAJ_lahore_resolution_tt:0 "§YThe Lahore resolution is aimed at getting the Muslim population on board with the war effort§!"
+  RAJ_lahore_resolution_event_tt:0 "§YWill result in the Pakistan seperating from India upon war end§!"
+
+  RAJ_appoint_wavell_as_viceroy:0 "Appoint Wavell as Viceroy"
+  RAJ_appoint_wavell_as_viceroy_desc:0 ""
+
+  RAJ_india_command:0 "India Command"
+  RAJ_india_command_desc:0 ""
+
+  RAJ_simla_conference:0 "Simla Conference"
+  RAJ_simla_conference_desc:0 ""
+
+  RAJ_manage_the_famine:0 "Manage the Famine"
+  RAJ_manage_the_famine_desc:0 ""
+
+  RAJ_early_rearmament:0 "Early Rearmament"
+  RAJ_early_rearmament_desc:0 ""
+
+  RAJ_donations_from_the_princley_states:0 "Donations from the Princley States"
+  RAJ_donations_from_the_princley_states_desc:0 ""
+
+  RAJ_indian_civil_service:0 "Reform the Indian Civil Service"
+  RAJ_indian_civil_service_desc:0 ""
+
+  RAJ_imperial_service_troops:0 "Imperial Service Troops"
+  RAJ_imperial_service_troops_desc:0 ""
+
+  RAJ_metropolitan_development:0 "Metropolitan Development"
+  RAJ_metropolitan_development_desc:0 ""
+
   RAJ_develop_the_capitals:0 "Develop the Capitals"
   RAJ_develop_the_capitals_desc:0 ""
+
+RAJ_land_fragmentation:0 "Land Fragmentation"
+  RAJ_land_fragmentation_desc:0 ""
+
+  RAJ_acomplish_urbanization:0 "Acomplish Urbanization"
+  RAJ_acomplish_urbanization_desc:0 ""
+
+  RAJ_bharat_aluminium:0 "Bharat Aluminium"
+  RAJ_bharat_aluminium_desc:0 ""
+
+  RAJ_strengthen_british_investors:0 "Strengthen British investors"
+  RAJ_strengthen_british_investors_desc:0 ""
+  RAJ_strengthen_british_investors_tt:0 "§RInvestment decisions are only available when the UK is not at war with any major country§!"
+
+  RAJ_indian_ordnance_service:0 "Ordnance Factory Board"
+  RAJ_indian_ordnance_service_desc:0 ""
+  RAJ_indian_ordnance_service_tt:0 "Factory Output: §G+5%§!, Dockyard Output: §G+5%§!, Stability: §R-5%§!"
+
+  RAJ_indian_ordnance_service_ic:0 "Indian Ordnance Service"
+
+  RAJ_expand_construction_services:0 "Expand Construction Services"
+  RAJ_expand_construction_services_desc:0 ""
+
+  RAJ_ordnance_factory_board:0 "Ordnance Factory Board"
+  RAJ_ordnance_factory_board_desc:0 ""
+  RAJ_ordnance_factory_board_tt:0 "Modifies §YIndian Ordance Service§! by Military Factory Construction Speed: §G+10%§!"
+
+  RAJ_kanpur_field_gun_factory:0 "Kanpur Field Gun factory"
+  RAJ_kanpur_field_gun_factory_desc:0 ""
+
+  RAJ_ordnance_factory_cossipore:0 "Ordnance Factory Cossipore"
+  RAJ_ordnance_factory_cossipore_desc:0 ""
+
+  RAJ_ordnance_factory_chandigarh:0 "Ordnance Factory Chandigarh"
+  RAJ_ordnance_factory_chandigarh_desc:0 ""
+
+  RAJ_ordnance_factory_avadi:0 "Ordnance Factory Avadi"
+  RAJ_ordnance_factory_avadi_desc:0 ""
+
+  RAJ_grey_iron_foundry:0 "Grey Iron Foundry"
+  RAJ_grey_iron_foundry_desc:0 ""
+
+  RAJ_rifle_factory_ishapore:0 "Rifle Factory Ishapore"
+  RAJ_rifle_factory_ishapore_desc:0 ""
+
+  RAJ_hv_factory_chennai:0 "HV Factory Chennai"
+  RAJ_hv_factory_chennai_desc:0 ""
+
+  RAJ_indian_engineering_association:0 "Indian Engineering Association"
+  RAJ_indian_engineering_association_desc:0 ""
+
+  RAJ_indian_statistical_institute:0 "Indian Statistical Institute"
+  RAJ_indian_statistical_institute_desc:0 ""
+  RAJ_indian_statistical_institute_tt:0 "Modifies §YIndian Ordance Service§! by Research speed: §G+2%§!"
+
+  RAJ_expand_civil_services:0 "Expand Civil Services"
+  RAJ_expand_civil_services_desc:0 ""
+  RAJ_expand_civil_services_tt:0 "Modifies §YIndian Ordance Service§! by Infrastructure construction speed: §G+10%§!"
+
+  RAJ_expand_engineering_services:0 "Expand Engineering Services"
+  RAJ_expand_engineering_services_desc:0 ""
+  RAJ_expand_engineering_services_tt:0 "Modifies §YIndian Ordance Service§! by Civilain Factory construction speed: §G+10%§!"
+
+  RAJ_digboi_refinery:0 "Digboi Refinery"
+  RAJ_digboi_refinery_desc:0 ""
+
+  RAJ_council_of_scientific_and_industrial_research:0 "Council of Scientific and Industrial Research"
+  RAJ_council_of_scientific_and_industrial_research_desc:0 ""
+
+  RAJ_diversify_the_ios:0 "Diversify the IOS"
+  RAJ_diversify_the_ios_desc:0 ""
+  RAJ_diversify_the_ios_tt:0 "Modifies §YIndian Ordance Service§! by Stability: §G+5%§!"
+
+  RAJ_expand_the_transportation_services:0 "Expand Transportation Services"
+  RAJ_expand_the_transportation_services_desc:0 ""
+  RAJ_expand_the_transportation_services_tt:0 "Modifies §YIndian Ordance Service§! by Railway Construction Speed: §G+10%§!"
+
+  RAJ_defence_r_and_d_organisation:0 "Defence R&D Organisation"
+  RAJ_defence_r_and_d_organisation_desc:0 ""
+
+  RAJ_lessons_from_the_north_west_frontier:0 "Lessons from the North West Frontier"
+  RAJ_lessons_from_the_north_west_frontier_desc:0 ""
+
+  RAJ_raise_additional_infantry:0 "Raise Additional Infantry"
+  RAJ_raise_additional_infantry_desc:0 ""
+
+  RAJ_british_army_exercices:0 "British Army Exercices"
+  RAJ_british_army_exercices_desc:0 ""
+
+  RAJ_the_british_standard:0 "The British Standard"
+  RAJ_the_british_standard_desc:0 ""
+
+  RAJ_equip_the_irregular_brigades:0 "Equip the Irregular Brigades"
+  RAJ_equip_the_irregular_brigades_desc:0 ""
+  RAJ_equip_the_irregular_brigades_tt:0 "§RDeploying Reserves while not a Dominion will lead to -5% Stability loss per 10 divisions.§!"
+
+  RAJ_modernize_the_gurkhas:0 "Modernize the Gurkha's"
+  RAJ_modernize_the_gurkhas_desc:0 ""
+
+  RAJ_revise_indian_defence_plans:0 "Revise Indian Defence plans"
+  RAJ_revise_indian_defence_plans_desc:0 ""
+
+  RAJ_indian_artillery_regiments:0 "Indian Artillery Regiments"
+  RAJ_indian_artillery_regiments_desc:0 ""
+
+  RAJ_modernize_the_cavalry:0 "Modernize the Cavalry"
+  RAJ_modernize_the_cavalry_desc:0 ""
+  RAJ_modernize_the_cavalry_tt:1 "Gains a §YArmoured Division Template§!.\n"
+
+  RAJ_prepare_armoured_units:0 "Prepare Armoured Units"
+  RAJ_prepare_armoured_units_desc:0 ""
+
+  RAJ_womens_auxiliary_corps:0 "Women's Auxiliary Corps"
+  RAJ_womens_auxiliary_corps_desc:0 ""
+
+  RAJ_mobalize_the_economy:0 "Mobalize the Economy"
+  RAJ_mobalize_the_economy_desc:0 ""
+
+  RAJ_sandhurst_military_acadamy:0 "Sandhurst Military Acadamy"
+  RAJ_sandhurst_military_acadamy_desc:0 ""
+
+  RAJ_address_the_officer_shortage:0 "Address the Officer Shortage"
+  RAJ_address_the_officer_shortage_desc:0 ""
+
+  RAJ_indian_state_forces:0 "Indian State Forces"
+  RAJ_indian_state_forces_desc:0 ""
+  RAJ_indian_state_forces_tt:0 "§GWill remove the Stability Penalty for deploying reserves§!"
+
+  RAJ_indian_tank_brigades:0 "Indian Tank Brigades"
+  RAJ_indian_tank_brigades_desc:0 ""
+
+  RAJ_directorate_of_military_intelligence:0 "Directorate of Military Intelligence"
+  RAJ_directorate_of_military_intelligence_desc:0 ""
+
+  RAJ_equip_the_chindits:0 "Equip the Chindits"
+  RAJ_equip_the_chindits_desc:0 ""
+  RAJ_equip_the_chindits_tt:0 "Unlocks Decisions to add Resistance and damage infrastructure in occupied §YIndian§!, §YBurmese§!, §YPakistani§! and §YBangladesh§! States"
+
+  RAJ_modernize_the_iaf:0 "Modernize the IAF"
+  RAJ_modernize_the_iaf_desc:0 ""
+
+  RAJ_iaf_pathfinders:0 "IAF Pathfinders"
+  RAJ_iaf_pathfinders_desc:0 ""
+
+  RAJ_iaf_cas_specialist:0 "IAF CAS Specialists"
+  RAJ_iaf_cas_specialist_desc:0 ""
+
+  RAJ_hindustan_aeronautics:0 "Hindustan Aeronautics"
+  RAJ_hindustan_aeronautics_desc:0 ""
+  RAJ_hindustan_aeronautics_tt:0 "Have §G200§! Deployed §YFighters§! and §G100§! §YCAS§!.\n"
+
+  RAJ_air_depot:0 "84th Air Depot"
+  RAJ_air_depot_desc:0 ""
+
+  RAJ_number_one_indian_service_flying_school:0 "No.1 Indian Service Flying School"
+  RAJ_number_one_indian_service_flying_school_desc:0 ""
+
+  RAJ_new_air_factories:0 "New Air Factories"
+  RAJ_new_air_factories_desc:0 ""
+  RAJ_new_air_factories_tt:0 "Have §G600§! Deployed §YFighters§! and §G300§! §YCAS§!.\n"
+
+  RAJ_expand_burmese_airbases:0 "Expand Burmese Airbases"
+  RAJ_expand_burmese_airbases_desc:0 ""
+
+  RAJ_expand_indian_airbases:0 "Expand Indian Airbases"
+  RAJ_expand_indian_airbases_desc:0 ""
+
+  RAJ_expand_pakistani_airbases:0 "Expand Pakistani Airbases"
+  RAJ_expand_pakistani_airbases_desc:0 ""
+
+  RAJ_strike_command:0 "Strike Command"
+  RAJ_strike_command_desc:0 ""
+
+  RAJ_fighter_command:0 "Fighter Command"
+  RAJ_fighter_command_desc:0 ""
+
+  RAJ_upgrade_the_western_railway:0 "Upgrade the Western Railway"
+  RAJ_upgrade_the_western_railway_desc:0 ""
+
+  RAJ_expand_the_scindia_shipyard:0 "Expand the Scindia Shipyard"
+  RAJ_expand_the_scindia_shipyard_desc:0 ""
+
+  RAJ_expand_the_mazagon_shipyard:0 "Expand the Mazagon Shipyard"
+  RAJ_expand_the_mazagon_shipyard_desc:0 ""
+
+  RAJ_bombay_marines:0 "Bombay Marines"
+  RAJ_bombay_marines_desc:0 ""
+  RAJ_bombay_marines_desc_tt: "\nGains a §YMarine Division Template§!\n\n"
+
+  RAJ_upgrade_the_eastern_railway:0 "Upgrade the Eastern Railway"
+  RAJ_upgrade_the_eastern_railway_desc:0 ""
+
+  RAJ_garden_reach_shipbuilders:0 "Garden Reach Shipbuilders"
+  RAJ_garden_reach_shipbuilders_desc:0 ""
+
+  RAJ_hindustan_shipyards:0 "Hindustan Shipyards"
+  RAJ_hindustan_shipyards_desc:0 ""
+
+  RAJ_build_a_green_water_navy:0 "Build a Green Water Navy"
+  RAJ_build_a_green_water_navy_desc:0 ""
+
+  RAJ_asw:0 "ASW"
+  RAJ_asw_desc:0 ""
+
+  RAJ_mine_warfare:0 "Mine Warfare"
+  RAJ_mine_warfare_desc:0 ""
+
+  RAJ_guarding_the_shipping_lanes:0 "Guarding the Shipping lines"
+  RAJ_guarding_the_shipping_lanes_desc:0 ""
 
   RAJ_state_arsenals:0 "State Arsenals"
   RAJ_state_arsenals_desc:0 ""
@@ -1523,6 +2126,12 @@
   FRA_ban_the_leagues_tt:0 "The £faction_fra_national_bloc §YNational Bloc§! attitude must be §RViolent§! or worse."
 
   FRN_create_infantry_unit:0 "French Algeria will recieve a infantry template available for us to recruit"
+
+  ITA_army_reform_tt:0 "Modify the §YItalian Army§! by\nDivision Organization: §G+5%§! \nOrg Recovery Speed: §G+5%§! \nTraining Time: §G+10%§! \nPlanning Speed: §G+10%§! \nArmy Experience Gain: §G+5%§! \n\n"
+
+  ITA_air_reform_tt:0 "Modify the §YItalian Airforce§! by\nAce Generation Chance: §G+10%§! \nAir Night Penalty: §G+7%§! \nAir Weather Penalty: §G+7%§! \nAir Mission Efficiency: §G+10%§! \n\n"
+
+  ITA_navy_reform_tt:0 "Modify the §YItalian Navy§! by\nNaval Coordination: §G+3%§! \nPositioning: §G+3%§! \nNaval Speed: §G+5%§! \n\n"
 
   ITA_bonifica_integrale_tt:0 " £faction_ita_proletariat Пролетариат станет §GСчастливой§! увеличивает §YСтабильность§! на §G5%§!"
 
@@ -2110,9 +2719,9 @@
   JAP_ensure_military_loyalty:0 "Ensure Military Loyalty"
   JAP_ensure_military_loyalty_desc:0 "While the army coup was a welcome one, we cannot afford any more rash actions from the Army. With so many army officers in governmental positions, we must take drastic action to remove their influence."
 
-  GER_issue_weapon_contracts_tt:1 " £faction_ger_industrialists §YIndustrialists§! станет более §GFriendly§! и §GInfluencial§!"
+  GER_issue_weapon_contracts_tt:1 " £faction_ger_industrialists §YIndustrialists§! станет более §GДружелюбнее§! и §GВлиятельнее§!"
 
-  GER_death_before_defeat_tt:0 "  £faction_ger_ss SS станет более §GInfluencial§! increasing increasing §YPolitical Power Gain§! by §G5%§!, and §YStability§! by §G5%§!"
+  GER_death_before_defeat_tt:0 "  £faction_ger_ss SS станет более §GВлиятельнее§! увеличивает §YПрирост политической власти§! на §G5%§!, и §YСтабильность§! на §G5%§!"
 
   GER_safeguard_the_balkans:0 "Защитить Балканы"
   GER_safeguard_the_balkans_desc0:0 "Балканы не зря известны как пороховая бочка Европы. Если коммунизм хочет закрепиться в Европе, он, скорее всего, начнет свое развитие именно там. Это необходимо предотвратить любой ценой."
@@ -2127,6 +2736,9 @@
   GER_appoint_hermann_goring:0 "Герман Гёринг"
   GER_appoint_hermann_goring_desc:0 "Герман Геринг - яркий пример члена НСДАП, который идеологически смотрит нам в глаза, хотя он не самый компетентный в экономической области. Мы сможем решить эту проблему, пока будем продолжать перевооружение на прочном фундаменте идеологической однородности.."
   GER_appoint_hermann_goring_tt:0 "§RВоенные облигации теперь завершаются в два раза быстрее, однако они дают только половину снижения усталости.§!"
+
+  GER_formation_of_the_reichswerke:0 "Образование Reichswerke"
+  GER_formation_of_the_reichswerke_desc:0 "Reichswerke Hermann Göring был промышленным конгломератом в нацистской Германии с 1937 по 1945 год. Он был основан для добычи и переработки местной железной руды из Зальцгиттера, которую частные сталелитейные заводы считали нерентабельной."
 
   GER_auxiliary_autobahn:0 "Расширение Автобанов"
   GER_auxiliary_autobahn_desc:0 "Теперь, когда мы сформировали централизованное кольцо инфраструктуры между нашими крупными городами, нам нужно соединить наши второстепенные города и новые территории, чтобы они стали частью нашего промышленного комплекса.."
@@ -2179,6 +2791,12 @@
   GER_coal_liquidization_schact:0 "Сжижение угля"
   GER_coal_liquidization_schact_desc:0 "Германии не хватает нефти, поэтому мы должны удвоить наши усилия в области синтетической нефти."
 
+  GER_monowitz_buna_werke:0 "Концентрационный лагерь Моновиц"
+  GER_monowitz_buna_werke_desc:0 ""
+
+  GER_synthetic_breakthroughs:0 "Прорыв в области синтетики"
+  GER_synthetic_breakthroughs_desc:0 "
+
   GER_trade_deal_with_sweden:0 "Торговый договор со Швецией"
   GER_trade_deal_with_sweden_desc:0 "Благодаря близкому соседству Швеция всегда была для Германии плодотворным торговым партнером. Эти отношения необходимо развивать и защищать."
 
@@ -2190,16 +2808,21 @@
 
   GER_deutsche_albriet_front:0 "Немецкий рабочий фронт"
   GER_deutsche_albriet_front_desc:0 "Организация представительства рабочих в рамках единой организации может позволить упростить политическую организацию и облегчить влияние, чтобы обеспечить контроль над рабочей политикой рабочих для предотвращения забастовок и повышения производительности труда"
+  GER_deutsche_albriet_front_dd_flag:0 "Has completed focus §YDeutsche Arbeitsfront§!"
+  GER_deutsche_albriet_front_dd_tt:0 "Current days are: [?GER_deutsche_albriet_front_dd_flag:days|Y0]"
+
+  GER_strength_through_joy:0 "Сила через радость"
+  GER_strength_through_joy_desc:0 ""
 
   GER_reichsarbeitsdienst:0 "Имперская служба труда"
-  GER_reichsarbeitsdienst_desc:0 "Служба труда рейха (Reichsarbeitsdienst/RAD) - это крупная организация, созданная для смягчения последствий безработицы для немецкой экономики, милитаризации рабочей силы и индоктринации ее нацистской идеологией. ."
+  GER_reichsarbeitsdienst_desc:0 "Служба труда рейха (Reichsarbeitsdienst/RAD) - это крупная организация, созданная для смягчения последствий безработицы для немецкой экономики, милитаризации рабочей силы и индоктринации ее нацистской идеологией. Во время войны RAD будет заниматься снабжением фронтовых войск продовольствием и боеприпасами, восстановлением разрушенных дорог, строительством и ремонтом аэродромов. ."
 
   GER_expand_domestic_mining:0 "Увеличение добычи полезных ископаемых"
   GER_expand_domestic_mining_desc:0 "Текущие горнодобывающие операции в наших регионах должны быть приспособлены к потерянным территориям и соответствовать требованиям автаркии. Мы будем использовать DAF и нашу новую инфраструктуру для обеспечения этого."
 
-  GER_explotation_of_acquired_resources:0 "Эксплуатация приобретенных ресурсов"
-  GER_explotation_of_acquired_resources_desc:0 "Теперь, когда мы получили новые территории, мы должны интегрировать горнодобывающие предприятия в нашу инфраструктурную систему и привлечь рабочую силу для обеспечения производительности и эксплуатации приобретенных ресурсов.."
-  GER_explotation_of_nations:0 "Разблокирует решения, позволяющие использовать экономику другой страны, чтобы §GСнизить экономическую усталость§!"
+  GER_exploitation_of_acquired_resources:0 "Эксплуатация приобретенных ресурсов"
+  GER_exploitation_of_acquired_resources_desc:0 "Теперь, когда мы получили новые территории, мы должны интегрировать горнодобывающие предприятия в нашу инфраструктурную систему и привлечь рабочую силу для обеспечения производительности и эксплуатации приобретенных ресурсов.."
+  GER_exploitation_of_nations:0 "Разблокирует решения, позволяющие использовать экономику другой страны, чтобы §GСнизить экономическую усталость§!"
 
   GER_continue_autarky:0 "Продолжение Автаркии"
   GER_continue_autarky_desc:0 "Автаркия - это единственный путь вперед, чтобы гарантировать, что мы не променяем наш промышленный потенциал на сельскохозяйственные угодья востока. Мы должны проглотить пилюлю, даже если это будет болезненно, чтобы Германия могла оставаться самодостаточной.."
@@ -2212,6 +2835,9 @@
 
   GER_issue_more_oil_contracts:0 "Расширение нефтянной отрасли "
   GER_issue_more_oil_contracts_desc:0 "Наша контрактная система правильно работает с I.G. farben, чтобы получить много синтетических ресурсов, теперь нам нужно расширить их дальше с более крупными контрактами и дать им вертикальную интеграцию ресурсов"
+
+  GER_uranprojekt:0 "Урановый проект"
+  GER_uranprojekt_desc:0 ""
 
   GER_kdf_wagen_scheme_mil:0 "Схема промышленного развития Рейха"
   GER_kdf_wagen_scheme_mil_desc:0 "Мы разработали схему для развития нашей военной промышленности, выпустив программу, чтобы убедить немцев купить наш Volkswagen или народный автомобиль будущего, но вместо этого использовать их деньги для финансирования нашей растущей военной промышленности"
@@ -2239,6 +2865,7 @@
 
   GER_organization_todt:0 " Организация Тодт"
   GER_organization_todt_desc:0 "Основание организации Тодта соединяют частные компании и государственные фирмы с рабочей силой, предоставляемой Reichsarbeitsdienst. Это поможет упорядочить крупные строительные проекты для Рейха."
+  GER_organization_todt_tt:0 "§RБудет отключен§! §YТолько добровольцы§!\n"
 
   GER_mobilize_the_workforce:0 "Мобилизация рабочей силы"
   GER_mobilize_the_workforce_desc:0 "Немецкий народ, должно быть, привык к упадку мира. Рейх больше не может позволить своим гражданам быть ленивыми и слабыми. Каждый гражданин должен принять участие в военных действиях.."
@@ -2250,6 +2877,29 @@
   GER_appoint_albert_speer_desc:0 "Альберт Шпеер займет пост министра экономики и будет "использовать" завоеванных нами людей, чтобы дополнить нашу промышленность до полной мощности. Работайте 24 часа в сутки, 365 дней в году"."
   todt_died:0 "Тодт умер"
 
+  GER_general_inspector:0 "Генеральный инспектор Panzertruppen"
+  GER_general_inspector_desc:0 "The increasing demands of the war require the creation of this new position, to be responsible for overseeing the development and procurement of tanks."
+  GER_general_inspector_tt:0 "§YAll Tank Designers will give a -5% production cost to Tank equipment§!"
+
+  GER_panzerprogramm:0 "Танковая программа"
+  GER_panzerprogramm_desc:0 "Наша армия должна быть усилена техникой любой ценой, даже если это мешает другим родам войск!"
+  GER_panzerprogramm_tt:0 "§YAll Tank Designers will give a further -10% production cost to Tank equipment§! §Rand a +15% production cost to Plane equipment§!"
+
+  GER_fighter_staff_comittee:0 "Jägerstab Committee"
+  GER_fighter_staff_comittee_desc:0 "В ответ на возросшие усилия противника в воздушной войне мы должны реорганизовать нашу авиационную промышленность под единым комитетом, чтобы обеспечить нашу окончательную победу"
+  GER_fighter_staff_comittee_tt:0 "§YAll Air Designers will give a -5% production cost to Plane equipment§!"
+
+  GER_jagernotprogram:0 "Аварийная истребительная программа"
+  GER_jagernotprogram_desc:0 "Мы не должны жалеть средств на расширение Люфтваффе, чтобы оно могло охранять небо Рейха!"
+  GER_jagernotprogram_tt:0 "§YAll Air Designers will give a further -10% production cost to Plane equipment§! §Rand a +15% production cost to Tank equipment§!"
+
+  GER_nero_decree:0 "Приказ Нерон"
+  GER_nero_decree_desc:0 ""
+  GER_nero_decree_tt:0 "§YРазблокирует решения для инфраструктуры выженная земля на контролируемых территориях, Non core§!"
+
+  GER_armament_staff_committee:0 "Rüstungsstab committee"
+  GER_armament_staff_committee_desc:0 "Успех предыдущих производственных программ должен быть применен и в других отраслях оружейной промышленности. Организация военной промышленности под единым руководством обеспечит, чтобы."
+
   GER_expand_kummersdorf_research_centre:0 "Расширить исследовательский центр в Куммерсдорфе"
   GER_expand_kummersdorf_research_centre_desc:0 "Kummersdorf всегда была центром оружейных разработок. Вкладывая больше средств в его оборудование и обучение персонала, мы можем значительно увеличить скорость разработки наших новейших проектов"
 
@@ -2260,27 +2910,29 @@
   GER_flak_towers:0 "ПВО установки"
   GER_flak_towers_desc:0 "Наша родина уязвима для крупномасштабных бомбардировок. Инвестируя в крупномасштабные программы по строительству зенитных башен, мы сможем уничтожить вражеские формирования, защищающие наши промышленные центры."
 
-  GER_realization_of_the_wehrmacht:0 "Восстановление полноценной армии"
-  GER_realization_of_the_wehrmacht_desc:0 "Германия десятилетиями лежала в состоянии покоя, не имея реальной армии. Сильная Германия требует сильной армии."
+  GER_realization_of_the_wehrmacht:0 "Реализация  Wehrmacht"
+  GER_realization_of_the_wehrmacht_desc:0 "В течение десятилетий Германия лежала в состоянии покоя без реальной армии, о которой можно было бы говорить. Сильная Германия требует сильной армии, и это должно начаться с создания эрзацгеера."
 
-  GER_selection_of_the_okw:0 "Верховное командование Вооружённых сил"
-  GER_selection_of_the_okw_desc:0 "The Oberkommando der Wehrmacht объединяет наши командные подразделения армии, флота и военно-воздушных сил. Для успешной работы этого высшего командования необходимо подобрать новых офицеров.."
-  GER_create_general_alfred_jodl_tt:0 "\nA §Y3 Общие навыки§! имя §YAАйфред Йодль§! появится"
+  GER_oberkommando_des_heeres:0 "Верховное командование сухопутных войск"
+  GER_oberkommando_des_heeres_desc:0 "Наша армия оказалась в новой эре технологий и тактики. Мы должны решить, какой путь выбрать."
 
-  GER_reestablish_jager_training:0 "Горно-стрелковые дивизии"
-  GER_reestablish_jager_training_desc:0 "Егеря, или легкая пехота, имеют особую историю в немецкой армии. Их традиции будут продолжены путем создания элитного и специализированного подразделения горной пехоты - Gebirgsjagers.."
-  GER_jager_training_tt:0 "Егеря имеют §G+10%§! Атака and a §G+25%§! Защита в лесах и горах.\n"
+  GER_blomberg_fritsch_affair:0 "Дело Фрича — Бломберга"
+  GER_blomberg_fritsch_affair_desc:0 "В условиях подготовки к войне армия должна быть подчинена. SS наконец-то собрали компромат на скандал с браком военного министра фон Бломберга и предполагаемую гомосексуальность командующего армией фон Фрича, достаточный для того, чтобы свалить обоих и гарантировать, что вермахт будут возглавлять только люди, преданные фюреру."
 
-  GER_fallschirmjager:0 "Воздушно-десантные войска"
-  GER_fallschirmjager_desc:0 "Создание элитного подразделения, способного проводить крупномасштабные воздушно-десантные операции и атаковать противника с непоколебимой преданностью и высокой степенью мастерства, необходимо для войн, которые стоят перед нами.."
+  GER_formation_of_the_okw:0 "Верховное командование вермахта OKW"
+  GER_formation_of_the_okw_desc:0 "Верховное командование вермахта объединяет командование армии, флота и ВВС. Для успешной работы этого высшего командования необходимо подобрать новых офицеров.."
+  GER_create_general_alfred_jodl_tt:0 "\nA §Y3 Skill General§! named §YAlfred Jodl§! will appear"
+
+  GER_fallschirmjager:0 "Парашютно-десантная дивизия"
+  GER_fallschirmjager_desc:0 "Создание элитного подразделения, способного проводить крупномасштабные воздушно-десантные операции и атаковать противника с непоколебимой преданностью и высокой степенью мастерства, необходимо для войн, которые стоят перед нами."
   GER_create_unit_fallschirmjager_tt:0 "Получить шаблон элитной воздушно-десантной дивизии.\n"
 
-  GER_marinestobtruppabteilung:0 "Морская пехота"
-  GER_marinestobtruppabteilung_desc:0 "Создание элитного батальона, способного проводить маломасштабные морские операции с высокой степенью мастерства, что необходимо для войн, которые стоят перед нами."
-  GER_create_unit_marinestobtruppabteilung_tt:0 "Получите шаблон батальона морской пехоты.\n"
+  GER_marinestobtruppabteilung:0 "Штурмовые батальоны морской пехоты"
+  GER_marinestobtruppabteilung_desc:0 "Создание элитного батальона, способного проводить небольшие морские операции с высокой степенью мастерства, что необходимо для войн, которые стоят перед нами."
+  GER_create_unit_marinestobtruppabteilung_tt:0 "Получить шаблон батальона морской пехоты.\n"
 
-  GER_the_heers_new_era:0 "Новая Эра"
-  GER_the_heers_new_era_desc:0 "Наша армия оказалась в новой эре технологий и тактики. Мы должны решить, какой путь выбрать."
+  GER_the_heers_new_era:0 "The Heers New Era"
+  GER_the_heers_new_era_desc:0 "Our army has found itself in a new era of technology and tactics. We must decide on which path to take."
 
   GER_war_of_movement:0 "Манёвренная война"
   GER_war_of_movement_desc:0 "Опыт Великой войны показал нам, что наступление, которое останавливается, - это наступление, которое проваливается. Бронетехника станет основой Манёвренной войны."
@@ -2294,221 +2946,395 @@
   GER_observations_from_spain:0 "Выводы из Испанской кампании"
   GER_observations_from_spain_desc:0 "Опыт победы в Испании стал хорошим источником знаний для наших теоретиков бронетехники."
 
-  GER_creation_of_the_panzertruppe:0 "Создание Механизированных корпусов"
-  GER_creation_of_the_panzertruppe_desc:0 "С поступлением в Wehrmacht все большего количества и разновидностей бронетехники стало очевидным, что необходимо создать новое специальное командование для наших бронетанковых сил."
-  GER_creation_of_the_panzertruppe_tt:0 "Разблокирует бесплатный шаблон механизированной Panzergrenadier дивизии."
 
-  GER_refinement_of_bewegungskrieg:0 "Улучшение тактики Манёвренной войны"
-  GER_refinement_of_bewegungskrieg_desc:0 "Хотя мы достигли успеха с панцерами, мы не достигли совершенства. Маневренную тактику следует постоянно изучать и совершенствовать."
+  HUN_integrate_war_economies_tt3:0 "§R[GER.GetName] must approve of the agreement for the bonuses to take effect.§!\n"
+  ROM_integrate_war_economies_tt3:0 "§R[GER.GetName] must approve of the agreement for the bonuses to take effect.§!\n"
+  SPR_integrate_war_economies_tt3:0 "§R[GER.GetName] must approve of the agreement for the bonuses to take effect.§!\n"
 
-  GER_a_mechanized_army:0 "Внедрение механизации в армию"
-  GER_a_mechanized_army_desc:0 "Война в движении - ключ к успеху. Вместо того чтобы ограничивать скорость наших танков скоростью пехоты, мы должны увеличить скорость пехоты, чтобы не отставать от танков.!"
+  GER_plan_the_first_generation:0 "План первого поколения"
+  GER_plan_the_first_generation_desc:0 "Although not ideal, light cheap tanks are necessary if we want to build up our tank forces."
 
-  GER_establish_combined_arms:0 "Объединение разных родов войск"
-  GER_establish_combined_arms_desc:0 "Хотя танки выглядят центром поля боя, они уязвимы и слабы, когда используются в одиночку. Их слабые стороны должны быть дополнены эффективной пехотой."
+  GER_order_the_sonderkraftfahrzeug:0 "Заказать специальный автотранспорт"
+  GER_order_the_sonderkraftfahrzeug_desc:0 "A war of movement is key to success. Instead of limiting our tanks to the speed of the infantry, we must increase the speed of the infantry to keep up with the tanks!"
 
-  GER_aggressive_artillery:0 "Наступательная Артиллерия"
-  GER_aggressive_artillery_desc:0 "Мобильные артиллерийские силы должны быть в состоянии идти в ногу с нашими бронетанковыми колоннами и постоянно поддерживать их. "
+  GER_plan_the_second_generation:0 "План второго поколения"
+  GER_plan_the_second_generation_desc:0 "This new generation of heavier medium tanks will finally provide us with a reliable workhorse for the Panzer Divisions."
 
-  GER_ussr_tractor_experiments:0 "Обмен технологиями с Советским Союзом"
+  GER_durchbruchwagen:0 "Танк прорыва"
+  GER_durchbruchwagen_desc:0 "The concept of a heavy breakthrough tank began in the 1930s with the Durchbruchswagen. Now that we have enough experience on our hands, we can finally convert this concept to reality."
+
+  GER_plan_the_third_generation:0 "План третьего поколения"
+  GER_plan_the_third_generation_desc:0 "With reports of other nations employing heavily armoured tanks, we must do the same but have an armament to match"
+
+  GER_formation_of_the_panzerwaffe:0 "Формирование танковых войск Panzerwaffe"
+  GER_formation_of_the_panzerwaffe_desc:0 ""
+
+  GER_refinement_of_bewegungskrieg:0 "Совершенствование маневренной войны"
+  GER_refinement_of_bewegungskrieg_desc:0 "Though we have achieved success with out panzers, we have not achieved perfection. Bewegungskrieg, should be continually studied and improved on."
+
+  GER_creation_of_the_panzertruppe:0 "Создание Panzertruppe"
+  GER_creation_of_the_panzertruppe_desc:0 "With the induction of greater amounts and varieties of armored vehicles into the Wehrmacht, it has become apparent that a new dedicated command for our armored forces must be established. "
+  GER_creation_of_the_panzertruppe_tt:0 "Unlocks a free mechanized Panzergrenadier division template."
+
+  GER_integration_of_enigma:0 "Интеграция Энигмы"
+  GER_integration_of_enigma_desc:0 ""
+  lar_encryption_bonus_tt:0 "We will gain §G+1 Cryptology level§!"
+
+  GER_re_establish_jager_training:0 "Возобновить подготовку егерей"
+  GER_re_establish_jager_training_desc:0 "Jägers, or light infantry, have a special history in the German army. Their traditions will be carried on through the creation of an elite and specialized mountain infantry unit, the Gebirgsjägers."
+  GER_jager_training_tt:0 "Mountaineer's gain a §G+10%§! Attack and a §G+25%§! Defense in Forests and Mountains.\n"
+
+  GER_nebeltruppen:0 "Nebeltruppen"
+  GER_nebeltruppen_desc:0 "Nebelwerfer (нем. туманный метатель) — немецкие многозарядные ракетные установки калибра 150–320 мм периода Второй мировой войны. Основным назначением этого оружия было массированное нанесение ударов по надводным целям противника, например по группам пехоты."
+
+  GER_luftverteidigung:0 "Противовоздушная оборона"
+  GER_luftverteidigung_desc:0 ""
+
+  GER_establish_combined_arms:0 "Создание комбинированных сил"
+  GER_establish_combined_arms_desc:0 "Хотя танки выглядят центром поля боя, они уязвимы и слабы, когда используются в одиночку. Их слабые стороны должны быть дополнены эффективной пехотой"
+
+  GER_evolution_of_the_aufklarungs_battalions:0 "Развитие разведывательного батальона"
+  GER_evolution_of_the_aufklarungs_battalions_desc:0 "The heavy armoured car will be a cost-effective and highly versatile replacement of light tanks in our recon troops."
+
+  GER_german_fusiliers:0 "Немецкие фузилеры"
+  GER_german_fusiliers_desc:0 "В вермахте в 1943 году фузилёрными были названы разведывательные батальоны пехотных дивизий. Кроме того, были созданы фузилёрные разведывательные моторизованные полки в составе танковых корпусов. Также когда пехотные полки переименовывали в гренадерские, девяти полкам дали название фузилёрных, фузилёрными назывался также один из моторизованных полков (второй был гренадерским) в элитных танковых дивизиях «Фельдернхалле» и «Великая Германия»"
+
+  GER_sturmgeschutz:0 "Штурмовое оружие"
+  GER_sturmgeschutz_desc:0 "StuGs will be able to provide more mobile and direct fire support than traditional artillery."
+
+  GER_jagdpanzer:0 "Jagdpanzer"
+  GER_jagdpanzer_desc:0 "Установка мощных орудий в надстройках типа "каземат" обеспечит экономически эффективное уничтожение танков для наших войск."
+
+  GER_aggressive_artillery:0 "Агрессивная артиллерия"
+  GER_aggressive_artillery_desc:0 "Mobile artillery forces must be able to keep up with and continually support our armored columns. "
+
+  GER_ussr_tractor_experiments:0 "Тракторные эксперементы в СССР"
   GER_ussr_tractor_experiments_desc:0 "Хотя они наши враги, они одиноки, как и мы. Обменявшись технологиями бронетехники, мы сможем избавиться от зависимости от Запада."
 
-  GER_durchbruchwagen:0 "Машина прорыва"
-  GER_durchbruchwagen_desc:0 "Концепция тяжелого танка прорыва зародилась в 1930-х годах с Машиной прорыва. Теперь, когда у нас на руках достаточно опыта, мы можем, наконец, воплотить эту концепцию в реальность."
+  GER_land_wunderwaffe:0 "Наземное чудо-оружие"
+  GER_land_wunderwaffe_desc:0 "The Bolshevik hordes and capitalist machines will overwhelm us unless we can end this war. If we manage to develop and produce these Wunderwaffe, we will be able to turn the tides and achieve Endsieg."
 
-  GER_plan_the_third_generation:0 "План Третьего Поколения"
-  GER_plan_the_third_generation_desc:0 "Учитывая сообщения о том, что другие страны используют тяжелобронированные танки, мы должны сделать то же самое и иметь соответствующее вооружение."
+  GER_Entwicklung_tanks:0 "Разработка E-серия "
+  GER_Entwicklung_tanks_desc:0 "The next generation of tanks must be designed to be more deadly than the last, but we must take efforts to limit the cost of these new tanks. A common design with interchanging parts can greatly help this"
 
-  GER_land_wunderwaffe:0 "Наземное оружие возмездия"
-  GER_land_wunderwaffe_desc:0 "Большевистские полчища и капиталистические машины одолеют нас, если мы не сможем закончить эту войну. Если нам удастся разработать и произвести эти вундерваффе, мы сможем переломить ход событий и добиться конца войны.."
+  GER_cult_of_the_sturmtruppen:0 "Культ штурмовиков"
+  GER_cult_of_the_sturmtruppen_desc:0 "Sturmtruppen are infantry specially trained to assault and seize enemy fortifications without any regard to their own casualties. They will form the cornerstone of our offensive capabilities."
 
-  GER_Entwicklung_tanks:0 "Совершенно новые танковые разработки"
-  GER_Entwicklung_tanks_desc:0 "Следующее поколение танков должно быть спроектировано так, чтобы быть более смертоносным, чем предыдущее, но мы должны предпринять усилия, чтобы ограничить стоимость этих новых танков. Общая конструкция с взаимозаменяемыми деталями может значительно помочь в этом."
+  GER_total_sturmtruppen_prominence:0 "Полная популяризация штурмовиков"
+  GER_total_sturmtruppen_prominence_desc:0 "Our reliance on stormtroopers has pushed them to the forefront of our offensive doctrine. Tactics will be further improved to enable them in battle."
 
-  GER_cult_of_the_sturmtruppen:0 "Возрождение Штурмовых отрядов"
-  GER_cult_of_the_sturmtruppen_desc:0 "Штурмовики — это пехота, специально обученная для штурма и захвата вражеских укреплений без учета собственных потерь. Они станут краеугольным камнем наших наступательных возможностей."
+  GER_maximize_firepower:0 "Максимальное усиление огневой мощи"
+  GER_maximize_firepower_desc:0 "Artillery is the king of the battlefield. If a problem cannot be solved with raw firepower, then we are not using enough firepower."
 
-  GER_total_sturmtruppen_prominence:0 "Тактика обучение Штурмовых отрядов"
-  GER_total_sturmtruppen_prominence_desc:0 "Наша зависимость от штурмовиков выдвинула их на передний план нашей наступательной доктрины. Тактика будет и дальше совершенствоваться, чтобы задействовать их в бою."
+  GER_solving_the_armour_problem:0 "Решение проблемы бронетехники"
+  GER_solving_the_armour_problem_desc:0 "Our enemies have invested significant resources into armoured units. We can solve this problem through cheaper means such as tower anti-tank guns or tank destroyers that cost a fraction of their tanks."
 
-  GER_maximize_firepower:0 "Максимальная огневая мощь"
-  GER_maximize_firepower_desc:0 "Артиллерия - король поля боя. Если проблему нельзя решить с помощью огневой мощи, значит, мы используем недостаточно огневой мощи.."
+  GER_revive_the_freikorp:0 "Revive the Freikorps"
+  GER_revive_the_freikorp_desc:0 "The Freikorps is a paramilitary organization full of veterans from the Great War. The experience they provide is invaluable to our military."
+  GER_revive_the_freikorp_tt:0 "Gain an elite §YFreikorp Division Template§!"
 
-  GER_solving_the_armour_problem:0 "Решение проблемы нехватки бронированных частей "
-  GER_solving_the_armour_problem_desc:0 "Наши враги вложили значительные ресурсы в бронетанковые подразделения. Мы можем решить эту проблему более дешевыми средствами, такими как башенные противотанковые пушки или уничтожители танков, которые стоят в разы меньше их танков."
+  GER_call_upon_the_freikorp:0 "Call upon the Freikorps"
+  GER_call_upon_the_freikorp_desc:0 "Freikorps are mercenaries composed of military veterans. Most Freikorps members have been either purged or integrated into the SS. Many of become wary of the current government and their disregard of proper Prussian tradition."
+  GER_calling_upon_the_freikorp_tt:0 "Will spawn §Y24 elite Freikorp Infantry divisions§! in Frankfurt"
 
-  GER_revive_the_freikorp:0 "Возродить Патриотические организации"
-  GER_revive_the_freikorp_desc:0 "Фрайкорпс - это военизированная организация, состоящая из ветеранов Великой войны. Их опыт бесценен для наших военных.."
-  GER_revive_the_freikorp_tt:0 "Получение элиты §YFreikorp Division шаблон§!"
+  GER_organization_of_the_new_troops:0 "Organization of the New Troops"
+  GER_organization_of_the_new_troops_desc:0 "Additional support companies have been trained and allocated to our frontline divisions. They are to be improved if they are to stay relevant."
 
-  GER_call_upon_the_freikorp:0 "Мобилизация Патриотических сил"
-  GER_call_upon_the_freikorp_desc:0 "Фрайкорпс - это наемники, состоящие из военных ветеранов. Большинство членов Фрайкорпс были либо очищены, либо интегрированы в СС. Многие из них настороженно относятся к нынешнему правительству и его пренебрежению прусскими традициями.."
-  GER_calling_upon_the_freikorp_tt:0 "Получите §Y24 элитные Freikorp Infantry дивизии§! во Франкфурте-на-Майне"
+  GER_experimentations_with_armor:0 "Experimentations with Armour"
+  GER_experimentations_with_armor_desc:0 "While expensive, these armoured beasts do seem as if they could provide some use. We will invest some resources into developing an armoured corps of our own."
 
-  GER_organization_of_the_new_troops:0 "Организация новой армии"
-  GER_organization_of_the_new_troops_desc:0 "Дополнительные вспомогательные роты прошли обучение и были распределены по нашим передовым подразделениям. Их необходимо совершенствовать, чтобы они сохраняли свою актуальность."
+  GER_rebuild_our_officer_corp:0 "Rebuild our Officer Corp"
+  GER_rebuild_our_officer_corp_desc:0 "While our officers are experienced, they are old and lack the drive to innovate. Inducting newer officers will open our eyes to new tactics for our infantry."
 
-  GER_experimentations_with_armor:0 "Эксперименты с такнками"
-  GER_experimentations_with_armor_desc:0 "Хотя эти бронированные звери стоят дорого, кажется, что они могут быть полезны. Мы вложим некоторые ресурсы в разработку собственного бронетанкового корпуса."
+  GER_the_luftwaffe:0 "The Luftwaffe"
+  GER_the_luftwaffe_desc:0 "Due to the limitations of Versailles, we have been forced to prepare our air force in secret. Now that we are operating more openly, we can invest significant resources into research and development of new planes and tactics."
 
-  GER_rebuild_our_officer_corp:0 "Реорганизация офицерского состава"
-  GER_rebuild_our_officer_corp_desc:0 "Хотя наши офицеры опытны, они стары и им не хватает стремления к инновациям. Привлечение новых офицеров откроет нам глаза на новые тактики для нашей пехоты.."
+  GER_the_great_sky_war:0 "The Great Sky War"
+  GER_the_great_sky_war_desc:0 "The skies of the Great War were a source of ample experience on the strengths and limitations of aircraft. Capitalizing on this knowledge will help greatly in preparing the Luftwaffe."
 
-  GER_luftwaffe_innovations:0 "Авиационные инновации"
-  GER_luftwaffe_innovations_desc:0 "Из-за ограничений, наложенных Версалем, мы были вынуждены готовить наши военно-воздушные силы втайне. Теперь, когда мы действуем более открыто, мы можем инвестировать значительные ресурсы в исследования и разработку новых самолетов и тактики."
+  GER_invest_in_GEMA:0 "Invest in GEMA"
+  GER_invest_in_GEMA_desc:0 "Gesellschaft für Elektroakustische und Mechanische Apparate"
 
-  GER_the_great_sky_war:0 "Новый формат воздушных боёв"
-  GER_the_great_sky_war_desc:0 "Небо Великой войны стало источником богатого опыта о сильных и слабых сторонах самолетов. Использование этих знаний в значительной степени поможет в подготовке Luftwaffe."
+  GER_bases_on_two_fronts:0 "Bases on Two Fronts"
+  GER_bases_on_two_fronts_desc:0 "Germany is surrounded by enemies on all sides. Just as our army must fight on two fronts, our air force must have the facilities to support them."
 
-  GER_invest_in_GEMA:0 "Вложение в GEMA"
-  GER_invest_in_GEMA_desc:0 "Общество электроакустических и механических аппаратов"
+  GER_aeronautic_funding:0 "Aeronautic Funding"
+  GER_aeronautic_funding_desc:0 "No expense may be spared in the buildup of our air force. More funding must be allocated so that we can field greater numbers of aircraft."
 
-  GER_bases_on_two_fronts:0 "Базы на два фронта"
-  GER_bases_on_two_fronts_desc:0 "Gгермания окружена врагами со всех сторон. Так же как наша армия должна сражаться на два фронта, наши военно-воздушные силы должны иметь возможности для их поддержки."
+  GER_passenger_planes:0 "\"Passenger\" Planes"
+  GER_passenger_planes_desc:0 "By purchasing long-range bombers and patrol planes secretly as "passenger" planes, we have been able to gain invaluable knowledge on their designs."
 
-  GER_aeronautic_funding:0 "Вложение в авиационную промышленность"
-  GER_aeronautic_funding_desc:0 "При наращивании наших военно-воздушных сил нельзя жалеть никаких средств. Необходимо выделять больше средств, чтобы мы могли использовать большее количество самолетов.."
+  GER_sturzbomber_programm:0 "Sturzbomber Programm"
+  GER_sturzbomber_programm_desc:0 "Dive bombing takes significant skill and training to pull off, but ensure near pinpoint accuracy. Our dive bombers will be the key to supporting our army in decisive battles."
 
-  GER_passenger_planes:0 "Пассажирские самолеты"
-  GER_passenger_planes_desc:0 "Приобретая дальние бомбардировщики и патрульные самолеты втайне как "пассажирские", мы смогли получить бесценные знания об их конструкции."
+  GER_continue_the_bf:0 "Continue the BF 109"
+  GER_continue_the_bf_desc:0 "The Messerschmitt Bf 109 has proven to be our best air superiority fighter. It remains uncontested in the skies and it should be continued to be improved and built."
 
-  GER_sturzbomber_programm:0 "Переосмысление поддержки с воздуха "
-  GER_sturzbomber_programm_desc:0 "Пикирующее бомбометание требует значительного мастерства и подготовки, но обеспечивает почти точную точность. Наши пикирующие бомбардировщики станут ключом к поддержке нашей армии в решающих сражениях."
+  GER_prioritize_the_fw:0 "Prioritize the FW 190"
+  GER_prioritize_the_fw_desc:0 "The Focke-Wulf 190 is less capable as an air superiority fighter but is able to serve as a support craft as well. The flexibility of this multirole suggests we should prioritize it over the Bf 109."
 
-  GER_air_bf:0 "Приоритет BF 109"
-  GER_air_bf_desc:0 "Messerschmitt Bf 109 доказал, что является нашим лучшим истребителем превосходства в воздухе. Он остается неоспоримым в небе, и его следует продолжать совершенствовать и строить."
+  GER_bomber_evolution:0 "Bomber Evolution"
+  GER_bomber_evolution_desc:0 ""
 
-  GER_air_fw:0 "Приоритет FW 190"
-  GER_air_fw_desc:0 "Focke-Wulf 190 менее эффективен в качестве истребителя превосходства в воздухе, но он также может служить в качестве самолета поддержки. Гибкость этого многоцелевого истребителя говорит о том, что мы должны отдать ему предпочтение перед Bf 109."
+  GER_reform_the_reichsluftfahrtministerium:0 "Reform the Ministry of Aviation"
+  GER_reform_the_reichsluftfahrtministerium_desc:0 ""
 
-  GER_improve_the_enigma_machine:0 "Улучшение Энигмы"
-  GER_improve_the_enigma_machine_desc:0 "По данным нашей разведки, союзники пытаются разгадать нашу энигму и расшифровать наши сообщения. Этого нельзя допустить."
-  lar_encryption_bonus_tt:0 "Мы получим §G+1 Криптологический уровень§!"
+  GER_establish_the_erprobungskommando:0 "Establish the Testing-command"
+  GER_establish_the_erprobungskommando_desc:0 ""
 
-  GER_v_bomb_project:0 "Проект V Bomb"
-  GER_v_bomb_project_desc:0 "Эти V-образные летающие бомбы способны достигать и уничтожать вражеские цели, не требуя плана их доставки. Это оружие позволит нам отомстить тем, кто попытается бомбить немецкую землю."
+  GER_ural_bombers:0 "Ural Bombers"
+  GER_ural_bombers_desc:0 ""
 
-  GER_support_for_qingdao:0 "Помощь за Циндао"
-  GER_support_for_qingdao_desc:0 "Циндао был немецкой позицией в наши имперские времена. В условиях войны Китая за выживание против Японии, они могут быть готовы расстаться с ним в обмен на военную помощь."
-  GER_support_for_qingdao_event:0 "§RТребуется, чтобы Китай принял§!\n"
+  GER_horten_project:0 "Horton Project"
+  GER_horten_project_desc:0 ""
 
-  GER_voluneers_in_the_kmt:0 "Добровольцы в помощь Китаю "
-  GER_voluneers_in_the_kmt_desc:0 "Недавнее сотрудничество с националистами дало правительству больше уверенности для набора еще одной группы дивизий, обученных в Германии"
-  GER_volunteers_in_kmt:0 "Появятся §Y5 Обученные немцами китайские дивизии§! in Chongqing"
+  GER_schwalbe_project:0 "Schwalbe Project"
+  GER_schwalbe_project_desc:0 ""
 
-  GER_collaborations_with_the_japanese:0 "Коллаборация с Японией"
-  GER_collaborations_with_the_japanese_desc:0 "Хотя Китай на протяжении десятилетий был союзником Германии, было бы наивно полагать, что он способен оказать нам какую-либо помощь. С другой стороны, военно-морской флот Японии достаточно велик, чтобы угрожать западным державам, и может помочь облегчить нам часть бремени."
+  GER_v_weapons_project:0 "V-Weapons Project"
+  GER_v_weapons_project_desc:0 "The V flying bombs are able to reach and destroy enemy targets without requiring a plan to deliver them. These weapons will allow us to enact vengeance on those who try to bomb German soil."
+  GER_v_weapons_project_tt:0 "Rocket sites will be deployed as close to Normandy as possible depending on current Axis territorial control"
 
-  GER_german_luftwaffe_assistance:0 "Немецкая авиация в Японию"
-  GER_german_luftwaffe_assistance_desc:0 "Японии не хватает промышленности, чтобы поддерживать большое количество самолетов, необходимых для победы на Тихом океане. Мы поможем им заполнить этот пробел нашими собственными самолетами."
+  GER_the_kriegsmarine:0 "The Kriegsmarine"
+  GER_the_kriegsmarine_desc:0 ""
 
-  GER_explotation_of_annexed_nations:0 "В случае успеха, вы получите §GЗначительное снижение экономической усталости§!\n"
+  GER_wolfpacks:0 "Wolfpacks"
+  GER_wolfpacks_desc:0 ""
 
-  GER_western_war_plans:0 "Планы Западной кампании"
-  GER_western_war_plans_desc:0 "Мы изначально не ожидали, что Великобритания и Франция сохранят свои обязательства по защите Польши. Теперь, когда у наших генералов есть время на подготовку, мы можем предпринять необходимые шаги для обеспечения безопасности Западной Европы."
+  GER_undersea_innovations:0 "Undersea Innovations"
+  GER_undersea_innovations_desc:0 ""
 
-  GER_subjugate_iraq:0 "Подчинить Ирак"
-  GER_subjugate_iraq_desc:0 "Иракский Народ сделал свой выбор-Это выбор правильный. Этот выбор-Германия"
+  GER_unrestricted_submarine_warfare:0 "Unrestricted Submarine Warfare"
+  GER_unrestricted_submarine_warfare_desc:0 ""
 
-  GER_pressure_iran:0 "Дабление на Иран"
-  GER_pressure_iran_desc:0 "После того как мы одержали ряд прекрасных побед в Африке и Ближнем Востоке, мы поправу можем называть себя влиятельным игроком в этих регионах..."
+  GER_operation_paukenschlag:0 "Operation Paukenschlag"
+  GER_operation_paukenschlag_desc:0 ""
 
-  GER_prepare_sealion:0 "Подготовка к Морскому льву"
-  GER_prepare_sealion_desc:0 "Время пить чай..."
+  GER_bases_in_norway:0 "Bases in Norway"
+  GER_bases_in_norway_desc:0 ""
 
-  GER_fate_of_yugoslavia_required_states_tt:0 "Требуется, чтобы ось контролировала все §YЮгославия§! регионы"
+  GER_expand_the_naval_dockyards:0 "Expand the Naval Dockyards"
+  GER_expand_the_naval_dockyards_desc:0 ""
 
-  GER_incentivize_bulgarian_involvement:0 "Стимулировать участие Болгарии"
-  GER_incentivize_bulgarian_involvement_desc:0 "Во многих отношениях Болгария похожа на нас, будучи разорванной на части в результате первой мировой войны. Они должны быть более чем готовы присоединиться к нам, если мы пообещаем вернуть их имперские территории."
+  GER_landwasserschleppers:0 "Landwasserschleppers"
+  GER_landwasserschleppers_desc:0 ""
 
-  GER_bases_in_france:0 "Базы во Франции"
-  GER_bases_in_france_desc:0 "С нашим быстрым успехом во Франции следующим шагом к господству в Западной Европе будет победа над Великобританией. Расширение баз во Франции позволит нам правильно разместить наши самолеты и подводные лодки, чтобы опередить Великобританию и заставить ее подчиниться.."
+  GER_schwimpanzers:0 "Schwimpanzers"
+  GER_schwimpanzers_desc:0 ""
 
-  GER_bases_in_the_uk:0 "Базы в Великобритании"
-  GER_bases_in_the_uk_desc:0 "Мы совершили невозможное и пересекли Ла-Манш. Расширяя наши базы в регионе, мы можем обезопасить наше военно-морское и воздушное присутствие от новых врагов."
+  GER_burn_the_naval_treaty:0 "Burn the Naval Treaty"
+  GER_burn_the_naval_treaty_desc:0 ""
 
-  GER_bases_in_greenland:0 "Базы в Гренландии"
-  GER_bases_in_greenland_desc:0 "Соединенные Штаты, бастион западного вырождения, лежали за Атлантическим океаном за пределами нашей досягаемости. Малонаселенный остров Гренландия находится на ключевой стратегической позиции, которую можно использовать для вторжения на восточное побережье и в Канаду."
+  GER_plan_z_tt:0 "§YUnlocks decisions to lay down ships with partial completion§!\n"
 
-  GER_approach_turkey:0 "Давление на Турцию"
-  GER_approach_turkey_desc:0 "Турция занимает ключевое географическое положение в качестве моста к нашим североафриканским владениям, ближневосточной нефти и южному подбрюшью России. Они сами позиционируют себя как нейтральные игроки, но, возможно, мы сможем повлиять на них, чтобы они передумали."
+  GER_modern_cruisers:0 "Modern Cruisers"
+  GER_modern_cruisers_desc:0 ""
 
-  GER_prepare_barbarossa:0 "Подготовка к плану Барбаросса"
-  GER_prepare_barbarossa_desc:0 "Наши враги на севере, юге и западе побеждены. Наш враг на востоке огромен, и наша армия и тыловое обеспечение должны подготовиться против них."
+  GER_naval_cooperation_with_japan:0 "Naval Cooperation with Japan"
+  GER_naval_cooperation_with_japan_desc:0 ""
 
-  GER_eastern_lebensraum:0 "Восточное Жизненное Пространство"
-  GER_eastern_lebensraum_desc:0 "не видел ничего, кроме победы, пока большевики тонули в собственной некомпетентности. Нам остается только выбить дверь, и вся эта гнилая конструкция рухнет."
-  GER_mol_rib_pact_des:0 "Уничтожить заклятых врагов СССР"
+  GER_next_gen_battlecruisers:0 "Next Gen Battlecruisers"
+  GER_next_gen_battlecruisers_desc:0 ""
 
-  GER_celebration_of_the_olympics:0 "Празднование Олимпийских Игр"
-  GER_celebration_of_the_olympics_desc:0 "Олимпийские игры имели оглушительный успех. Превосходство немецкой расы и нации было выставлено на всеобщее обозрение."
-  olympics_1936:0 "Олимпиада 1936 года состоялась"
+  GER_modern_carriers:0 "Modern Carriers"
+  GER_modern_carriers_desc:0 ""
 
-  GER_form_the_waffen_ss:0 "Waffen-SS"
-  GER_form_the_waffen_ss_desc:0 "The Waffen-SS это военное подразделение SS. Они верны партии и будут яростно сражаться в бою, защищая наши идеалы."
-  GER_formation_of_the_waffen_ss:0 "Разблокирует решения SS"
+  GER_foreign_training_staff:0 "Foreign Training Staff"
+  GER_foreign_training_staff_desc:0 ""
 
-  GER_recruit_from_the_hitler_youth:0 "Набор из Гитлерюгенд"
-  GER_recruit_from_the_hitler_youth_desc:0 "Гитлерюгенд обучает немецкую молодежь правильным идеалам нацистской партии. Из всех наших потенциальных рекрутов эти дети наиболее фанатичны и готовы пожертвовать собой ради Германии."
+  GER_equipment_shipments:0 "Equipment Shipments"
+  GER_equipment_shipments_desc:0 ""
 
-  GER_foreign_recruitment:0 "Набор иностранцев в SS"
-  GER_foreign_recruitment_desc:0 "На завоеванных территориях проживает много этнических немцев, которых мы можем привлечь на свою сторону. Кроме того, наша война против большевиков завоевала нам симпатии тех, кто выступает против Советского Союза."
-  GER_foreign_recruitment_ss:0 "Позволяет нанимать иностранцев для SS"
+  GER_pressure_spain:0 "Pressure Spain"
+  GER_pressure_spain_desc:0 ""
 
-  GER_volkssturm:0 "Народное ополчение"
-  GER_volkssturm_desc:0 "В нашей отчаянной защите Отечества мы можем поспешно призвать наших стариков и нашу молодежь в дивизии и заполнить бреши на передовой."
+  GER_integrate_spanish_war_economies:0 "Integrate Spain"
+  GER_integrate_spanish_war_economies_desc:0 ""
 
-  GER_death_before_defeat:0 "Победа или Смерть"
-  GER_death_before_defeat_desc:0 "Эта война - война на уничтожение. Либо мы уничтожим дегенеративных капиталистов и большевиков, либо они Германию. Никакой капитуляции быть не может."
-  death_before_defeat:0 "Смерть перед поражением"
+  GER_ultimatum_to_portugal:0 "Ultimatum to Portugal"
+  GER_ultimatum_to_portugal_desc:0 ""
 
-  GER_split_yugoslavia:0 "Раздел Югославии"
-  GER_split_yugoslavia_desc:0 "После завоевания Югославии мы должны поровну разделить страну между странами Оси"
+  GER_strongarm_sweden:0 "Strongarm Sweden"
+  GER_strongarm_sweden_desc:0 ""
 
-  GER_split_greece:0 "Раздел Греции"
-  GER_split_greece_desc:0 "После завоевания Греции мы должны поровну разделить страну между странами Оси"
+  GER_pact_of_steel:0 "Pact of Steel"
+  GER_pact_of_steel_desc:0 ""
 
-  GER_integrate_romanian_war_economies:0 "Интеграция Румынии"
-  GER_integrate_romanian_war_economies_desc:0 "Румыния оказалась в нашей сфере влияния и стала зависимой от немецкой экономики. Мы могли бы использовать это, чтобы установить контроль над их экономикой и забрать их ресурсы. Это потребует немецких инвестиций взамен, но получение всех прав на их нефть будет огромным подспорьем для нашей нефтяной ситуации"
+  GER_the_balkans_trade_treaty:0 "The Balkans Trade Treaty"
+  GER_the_balkans_trade_treaty_desc:0 ""
 
-  GER_integrate_hungarian_war_economies:0 "Интеграция Венгрии"
-  GER_integrate_hungarian_war_economies_desc:0 "Венгрия оказалась в нашей сфере влияния и стала зависимой от немецкой экономики. Мы можем использовать это для установления контроля над их экономикой и захвата их ресурсов. Это потребует немецких инвестиций взамен, но получение всех прав на венгерские ресурсы решит все наши проблемы с бокситами и поможет нашей ситуации с железом"
+  GER_the_march_south:0 "The March South"
+  GER_the_march_south_desc:0 ""
 
-  GER_proclaim_the_axis_powers:0 "Провозглашение новой силы в Европе"
-  GER_proclaim_the_axis_powers_desc:0 ""Несомненно, в этот момент ось европейской истории проходит через Берлин.""
+  GER_the_turkish_ultimatum:0 "The Turkish Ultimatum"
+  GER_the_turkish_ultimatum_desc:0 "Turkey exists at a key geographical position as a bridge to our North African holdings, Middle Eastern Oil, and the southern underbelly of Russia. They have positions themselves as a neutral player, but perhaps we can influence them to change their mind."
 
-  GER_condor_legion:0 "Легион Кондор"
-  GER_condor_legion_desc:0 "Националистический переворот Франсиско Франко благоприятствует нашим интересам в регионе. Мы должны послать им военную помощь, чтобы они одержали победу над коммунистами."
+  GER_swiss_franc_agreement:0 "Swiss Franc Agreement"
+  GER_swiss_franc_agreement_desc:0 ""
+  GER_swiss_franc_agreement_tt:0 "Has complete control of surrounding Switzerland\nNations with an armistice with Germany also counts to this condition"
 
-  GER_treaty_of_mutual_assistance:0 "Договор о взаимной помощи"
-  GER_treaty_of_mutual_assistance_desc:0 "Италия, родина фашизма, может служить для нас важным союзником. Мы должны первыми сделать шаг к улучшению наших отношений с ними."
+  GER_create_the_air_shield:0 "Create the Air Shield"
+  GER_create_the_air_shield_desc:0 ""
 
-  GER_puppet_italy:0 "Италия-марионетка"
-  GER_puppet_italy_desc:0 "Мы должны установить высшую власть в рамках союза оси и не можем больше позволить Италии действовать независимо от нас. Пришло время выдвинуть ультиматум. Чем больше проблем будет у Италии, тем выше наши шансы на успех"
+  GER_form_the_ostlegionen:0 "Form the Ostlegionen"
+  GER_form_the_ostlegionen_desc:0 ""
 
-  GER_puppet_hungary:0 "Венгрия-марионетка"
-  GER_puppet_hungary_desc:0 "Мы должны установить окончательную власть в рамках союза оси и не можем больше позволить Венгрии действовать независимо от нас. Пришло время выдвинуть ультиматум. Чем больше проблем будет у Венгрии, тем выше наши шансы на успех"
+  GER_one_battle_one_will_one_destiny:0 "One Battle, One Will, One Destiny!"
+  GER_one_battle_one_will_one_destiny_desc:0 ""
 
-  GER_puppet_romania:0 "Румания-марионетка"
-  GER_puppet_romania_desc:0 "Мы должны установить окончательную власть в рамках союза оси и не можем больше позволить Румынии действовать независимо от нас. Пришло время выдвинуть ультиматум. Чем больше проблем будет у Румынии, тем выше наши шансы на успех"
+  GER_secure_the_state:0 "Secure the State"
+  GER_secure_the_state_desc:0 ""
 
-  GER_puppet_bulgaria:0 "Болгария-марионетка"
-  GER_puppet_bulgaria_desc:0 "Мы должны установить окончательную власть в рамках союза оси и не можем больше позволить Болгарии действовать независимо от нас. Пришло время выдвинуть ультиматум. Чем больше проблем будет у Болгарии, тем выше наши шансы на успех."
+  GER_ss_high_command:0 "SS High Command"
+  GER_ss_high_command_desc:0 ""
 
-  GER_befriend_sweden:0 "Обезопасить экономические потоки со Швецией"
-  GER_befriend_sweden_desc:0 "Шведское железо жизненно важно для нашей военной машины, без него большинство наших металлургических заводов будут закрыты."
+  GER_subjugation_of_scandanavia:0 "Subjugation of Scandanavia"
+  GER_subjugation_of_scandanavia_desc:0 ""
 
-  GER_alliance_with_finland:0 "Союзная Финляндия"
-  GER_alliance_with_finland_desc:0 "Финляндия доказала, что является компетентной военной силой, даже когда сталкивается с непреодолимыми трудностями. Мы должны сотрудничать с ними в рамках подготовки к войне против Советского Союза.."
+  GER_subjugation_of_iberia:0 "Subjugation of Iberia"
+  GER_subjugation_of_iberia_desc:0 ""
 
-  GER_nationalist_spain_befriend:0 "Союзная Испания"
-  GER_nationalist_spain_befriend_desc:0 "Хотя мы все еще далеки от вступления в войну, мы можем улучшить отношения, обеспечив постоянную экономическую помощь, а также добровольческую армию"
+  GER_subjugation_of_the_balkans:0 "Subjugation of the Balkans"
+  GER_subjugation_of_the_balkans_desc:0 ""
 
-  GER_amphibious_assault_crafts:0 "Машины морского десанта"
-  GER_amphibious_assault_crafts_desc:0 "Чтобы одержать победу над Соединенными Штатами, нам необходимо улучшить специализированное оборудование для наших морских вторжений"
+  GER_assume_direct_control:0 "Assume Direct Control"
+  GER_assume_direct_control_desc:0 ""
 
-  GER_endsieg:0 "Война которая положет конец всем войнам"
-  GER_endsieg_desc:0 "Наше Жизненное пространство на Востоке в безопасности, у польского и чешского народов нет выбора, кроме как принять постоянный немецкий контроль и начать процесс ассимиляции. Это, несомненно, очень поможет в восстановлении нашей территории после великого завоевания востока, и теперь мы можем направить все наши усилия на устранение любых угроз на западе."
+  GER_operation_valkyrie:0 "Operation Valkyrie"
+  GER_operation_valkyrie_desc:0 ""
+
+  GER_peace_with_the_allies:0 "Peace with the Allies"
+  GER_peace_with_the_allies_desc:0 ""
+
+  GER_support_for_qingdao:0 "Support for Qingdao"
+  GER_support_for_qingdao_desc:0 "Qingdao was a German position in our imperial days. With China's war of survival against Japan, they may be willing to part with it in exchange for military aid."
+  GER_support_for_qingdao_event:0 "§RRequires China to accept§!\n"
+
+  GER_voluneers_in_the_kmt:0 "Volunteers in the KMT"
+  GER_voluneers_in_the_kmt_desc:0 "Recent cooperation with the Nationalists has given the governement more confidence to recruit another group of German-trained divisions."
+  GER_volunteers_in_kmt:0 "Spawns §Y5 German trained Chinese divisions§! in Chongqing"
+
+  GER_collaborations_with_the_japanese:0 "Collaborations with the Japanese"
+  GER_collaborations_with_the_japanese_desc:0 "Though China has been an ally of Germany for decades, we would be naive to think that they are capable of helping us in anyway. On the other hand, Japan's navy is large enough to threaten the Western powers and can help alleviate some of the burden on us."
+
+  GER_german_luftwaffe_assistance:0 "German Luftwaffe Assistance"
+  GER_german_luftwaffe_assistance_desc:0 "Japan's lacks the industry to support the large numbers of planes needed to win in the Pacific. We will help them fill some of this gap with our own planes."
+
+  GER_exploitation_of_annexed_nations:0 "If successful, will result in a §GMassive Reduction of Economy Fatigue§!\n"
+
+  GER_western_war_plans:0 "Western War Plans"
+  GER_western_war_plans_desc:0 "We had not initially expected the UK and France to maintain their committments to defending Poland. Now that our generals have had time to prepare, we can take the necessary steps to secure Western Europe."
+
+  GER_subjugate_iraq:0 "Subjugate Iraq"
+  GER_subjugate_iraq_desc:0 ""
+
+  GER_pressure_iran:0 "Pressure Iran"
+  GER_pressure_iran_desc:0 ""
+
+  GER_prepare_sealion:0 "Battle For Britain"
+  GER_prepare_sealion_desc:0 ""
+
+  GER_triumph_over_the_old_enemies:0 "Triumph over the Old Enemies"
+  GER_triumph_over_the_old_enemies_desc:0 ""
+
+  GER_fate_of_yugoslavia_required_states_tt:0 "Requires the Axis to control of all the §YYugoslav§! States"
+
+  GER_incentivize_bulgarian_involvement:0 "Incentivize Bulgarian Involvement"
+  GER_incentivize_bulgarian_involvement_desc:0 "In many ways, Bulgaria is like us, having been torn apart as a consequence of the first World War. They should be more than willing to join us if we promise to return their imperial territories."
+
+  GER_bases_in_france:0 "Bases in France"
+  GER_bases_in_france_desc:0 "With our rapid success in France, the next step in the domination of Western Europe is to defeat the UK. Expanded bases in France will allow us to proprely field our planes and submarines to beat the UK into submission."
+
+  GER_bases_in_the_uk:0 "Bases in the UK"
+  GER_bases_in_the_uk_desc:0 "We have accomplished the impossible and crossed the English Channel. By expanding our bases in the region, we can secure our naval and air presence against further enemies."
+
+  GER_bases_in_greenland:0 "Bases in Greenland"
+  GER_bases_in_greenland_desc:0 "The United States, the bastion of Western degeneracy lies beyond our reach across the Atlantic Ocean. The sparsely populated island of Greenland is at a key strategic position that could be used to invade the East Coast and Canada."
+
+  GER_prepare_barbarossa:0 "Prepare Barbarossa"
+  GER_prepare_barbarossa_desc:0 "Our enemies to the North, South, and West have all been defeated. Our enemy to the East is vast, and our army and logistics must prepare themselves against them."
+
+  GER_eastern_lebensraum:0 "Eastern Lebensraum"
+  GER_eastern_lebensraum_desc:0 "The Wehrmacht has seen nothing but victory while the Bolsheviks drown in their own incompetence. We have only to kick in the door and the whole rotten structure will come crashing down."
+  GER_mol_rib_pact_des:0 "Removes Bitter enemies with the Soviets"
+
+  GER_celebration_of_the_olympics:0 "Celebration of the Olympics"
+  GER_celebration_of_the_olympics_desc:0 "The Olympics has been a resounding success. The superiority of the German race and nation have been put on display to the world for all to see."
+  olympics_1936:0 "The 1936 Olympics has happened"
+
+  GER_form_the_waffen_ss:0 "Form the Waffen-SS"
+  GER_form_the_waffen_ss_desc:0 "The Waffen-SS is the military branch of the Schutzstaffel. They are loyal to the party and will fight fiercely in combat to defend our ideals."
+  GER_formation_of_the_waffen_ss:0 "Unlocks SS Decisions"
+
+  GER_recruit_from_the_hitler_youth:0 "Recruit From the Hitler Youth"
+  GER_recruit_from_the_hitler_youth_desc:0 "The Hitlerjugend teaches the German youth the proper ideals of the Nazi party. Out of our many potential recruits, these children are the most fanatical and willing to sacrifice themselves for the Recih."
+
+  GER_foreign_recruitment:0 "Permit Foreign SS Recruitment"
+  GER_foreign_recruitment_desc:0 "There are many ethnic German present in conquered territories that we can recruit to our cause. Additionally, our war against the Bolsheviks has won us sympathy from those who are opposed to the Soviet Union."
+  GER_foreign_recruitment_ss:0 "Allows Foreign Recruitment for the SS"
+
+  GER_volkssturm:0 "Volkssturm Battalions"
+  GER_volkssturm_desc:0 "In our desperate defence of the fatherland we can hastily recruit our elderly and our youth into divisions and fill the gaps in the front line"
+
+  GER_death_before_defeat:0 "Death before Defeat"
+  GER_death_before_defeat_desc:0 "This war is one of extermination. Either we destroy the degenerate capitalists and Bolsheviks or they will Germany. There can be no surrender."
+  death_before_defeat:0 "Death before Defeat"
+
+  GER_split_yugoslavia:0 "Split Yugoslavia"
+  GER_split_yugoslavia_desc:0 "After the conquest of Yugoslavia, we should equally split the country between the Axis"
+
+  GER_split_greece:0 "Split Greece"
+  GER_split_greece_desc:0 "After the conquest of Greece, we should equally split the country between the Axis"
+
+  GER_integrate_romanian_war_economies:0 "Integrate Romania"
+  GER_integrate_romanian_war_economies_desc:0 "Romania has grown to be in our sphere of influence and have grown dependant on the German economy. We could use this to assert control over their economy and take their resources. It will require German investment in return but gaining all the rights for their oil will be a huge help to our oil situation"
+
+  GER_integrate_hungarian_war_economies:0 "Integrate Hungary"
+  GER_integrate_hungarian_war_economies_desc:0 "Hungary has grown to be in our sphere of influence and have grown dependant on the German economy. We could use this to assert control over their economy and take their resources. It will require German investment in return but by gaining all the rights to Hungarian resources will solve any bauxite issues we may have and help our iron situation"
+
+  GER_west_wall_border_watch:0 "Westwall Border Watch"
+  GER_west_wall_border_watch_desc:0 "The Westwall runs parallel to France's vaunted Maginot Line, occupying much of the same ground as the Siegfried Line did in the previous Weltkrieg. Fortifying its defenses will allow us to hold the border with fewer men, freeing up divisions to participate in any potential eastern campaigns."
+
+  GER_anschluss_flag:0 "Has completed focus §YAnschluss§!"
+  GER_anschluss_flag_tt:0 "Current days are: [?GER_anschluss_flag:days|Y0]"
+
+  GER_proclaim_the_axis_powers:0 "Proclaim the Axis Powers"
+  GER_proclaim_the_axis_powers_desc:0 ""There is no doubt that in this moment the axis of European history passes through Berlin""
+
+  GER_condor_legion:0 "The Condor Legion"
+  GER_condor_legion_desc:0 "The Nationalist coup of Fransisco Franco is favorable to our interests in the region. We should send them military aid so that they prevail against the communists."
+
+  GER_treaty_of_mutual_assistance:0 "Treaty of Mutual Assistance"
+  GER_treaty_of_mutual_assistance_desc:0 "Italy, the birthplace of fascism, can serve as an important ally for us. We should be the first to step up to improve our relationship with them."
+
+  GER_puppet_italy:0 "Puppet Italy"
+  GER_puppet_italy_desc:0 "We need to establish ultimate authority within the axis alliance and cannot allow Italy to act independently from us anymore. The time has come to issue an ultimatum. The more trouble Italy is in, the higher our chances of succeeding"
+
+  GER_puppet_hungary:0 "Puppet Hungary"
+  GER_puppet_hungary_desc:0 "We need to establish ultimate authority within the axis alliance and cannot allow Hungary to act independently from us anymore. The time has come to issue an ultimatum. The more trouble Hungary is in, the higher our chances of succeeding"
+
+  GER_puppet_romania:0 "Puppet Romania"
+  GER_puppet_romania_desc:0 "We need to establish ultimate authority within the axis alliance and cannot allow Romania to act independently from us anymore. The time has come to issue an ultimatum. The more trouble Romania is in, the higher our chances of succeeding"
+
+  GER_puppet_bulgaria:0 "Puppet Bulgaria"
+  GER_puppet_bulgaria_desc:0 "We need to establish ultimate authority within the axis alliance and cannot allow Bulgaria to act independently from us anymore. The time has come to issue an ultimatum. The more trouble Bulgaria is in, the higher our chances of succeeding"
+
+  GER_befriend_sweden:0 "Secure Swedish Iron"
+  GER_befriend_sweden_desc:0 "The Swedish Iron is vital for our war machine, without it we are looking at most of our steel mills shutting down"
+
+  GER_alliance_with_finland:0 "Alliance With Finland"
+  GER_alliance_with_finland_desc:0 "Finland has proven themselves to be a competent military force even when faced with overwhelming odds. We should reach out to them in preparation for our war against the Soviet."
+
+  GER_nationalist_spain_befriend:0 "Befriend Spain"
+  GER_nationalist_spain_befriend_desc:0 "While still far from joining the war, we can improve relations ensuring continued economic help as well as there volunteer army"
+
+  GER_amphibious_assault_crafts:0 "Amphibious Warfare"
+  GER_amphibious_assault_crafts_desc:0 "To take on the United states we need to improve researched specialized equipment for our naval invasions"
+
+  GER_endsieg:0 "Endsieg"
+  GER_endsieg_desc:0 "With our Lebensraum secured, the Polish and Czech people have no choice but to accept permanent German control and the process of assimilation can begin. This will no doubt greatly help in rebuilding our territory from the great conquest of the east and we can now focus all our efforts towards eliminating any threats to the west"
+  GER_endsieg_tt:0 "Has control over all §YMajor Soviet cities§! in the West and is at peace with the §YSoviet Union§!"
+  GER_endsieg_effect_tt:0 "§YWill Germanize names of occupied states, towns and cities§!"
 
   GER_a_new_europe:0 "Новая Европа"
   GER_a_new_europe_desc:0 ""
@@ -3659,8 +4485,8 @@
   ROM_lessons_from_our_best:0 "Lessons From our Best"
   ROM_lessons_from_our_best_desc:0 ""
 
-  ROM_expand_the_marine_regiment_tt: "Deploys an elite Marine division."
-  ROM_royal_guards_divisions_tt: "Deploys an elite Royal Guard division."
+  ROM_expand_the_marine_regiment_tt: "Deploys an §YElite Marine division§!."
+  ROM_royal_guards_divisions_tt: "Deploys an §YElite Royal Guard division§!."
 
   seek_a_major_sponsor:0 "Seek a Major Sponsor"
   seek_a_major_sponser_desc:0 ""

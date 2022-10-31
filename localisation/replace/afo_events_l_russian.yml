@@ -901,7 +901,7 @@
   chi_armor.840.c:0 "It is time for China to Unite"
 
   wtt_china.3.a:0 "We will see about that."
-  wtt_china.3.a:0 "Unacceptable, send in the troops."
+  wtt_china.3.b:0 "Unacceptable, send in the troops."
 
   cze_armor.801.t:0 "Extensive Conscription"
   cze_armor.801.d:0 "Planning for a major war has allowed us to begin concripting a large amount of our population immediately for the deployment on the frontlines"
@@ -1018,22 +1018,143 @@
   raj_armor.802.a:0 "We will stay commited to their resolution"
   raj_armor.802.b:0 "With a heavy heart we must back down"
 
-  ast_armor.1.t:0 "Australia proposes Unified Command"
-  ast_armor.1.d:0 "Australia has come to us proposing a unified ANZAC command by merging our military with theirs. This will lead to us handing over our divisions, navy and airforce to Australia."
-  ast_armor.1.a:0 "This is an excellent idea"
-  ast_armor.1.b:0 "Separate Command is preferable"
+  raj_armor.803.t:0 "[FROM.GetNameDefCap] Delivers an Investment Portfolio"
+  raj_armor.803.desc:0 "Representatives from [FROM.GetNameDef] have visited our country and met with our air chiefs to garner an endorsement for their aluminium investment scheme. The government of [FROM.GetNameDef] would like for us to use our resources to set up an aircraft repair depot to assist in air operations in India through the creation of new air and aluminium plants."
+  raj_armor.803.a:0 "We could see ourselves benefiting from this"
+  raj_armor.803.b:0 "We do not see a substantial reason for such an investment"
 
-  ast_armor.2.t:0 "New Zealand accepts Unified Command"
-  ast_armor.2.d:0 ""
-  ast_armor.2.a:0 "Excellent"
+  raj_armor.804.t:0 "[FROM.GetNameDefCap] Rules Investment Out as a Possibility"
+  raj_armor.804.desc:0 "We have received bad news from [FROM.GetNameDef]: though the [FROM.GetAdjective] bear us no ill will, we have been told that [FROM.GetNameDef] shall not be investing any resources into our Aluminum base."
+  raj_armor.804.a:0 "Regrettable"
+  
+  raj_armor.805.t:0 "[FROM.GetNameDefCap] Investments in new Aluminium Plants"
+  raj_armor.805.desc:0 "We have recently been informed by [FROM.GetAdjective] officials that our air depot project has been approved. Our own inspectors visited the build site to ensure everything was up to our expectations and they did not leave disappointed."
+  raj_armor.805.a:0 "They have done us a great kindness."
 
-  ast_armor.3.t:0 "New Zealand rejects Unified Com  mand"
-  ast_armor.3.d:0 ""
-  ast_armor.3.a:0 "A superb result"
+  raj_armor.806.t:0 "The Indian National Congress Resigns"
+  raj_armor.806.desc:0 "Following our decleration of war the Indian National Congress has resigned in protest, citing that indian approval and interest had not been considered. This has meant we have regained control over territories lost in the Provincial elections but now the INC is working in the shadows..."
+  raj_armor.806.a:0 "Lets hope we hear no more ruckus"
 
-  ast_armor.4.t:0 "ANZAC Military Exercises"
-  ast_armor.4.d:0 "Australia has conducted Training exercises between our militaries. We have used this opportunity to develop new tactics and improve our military structure"
-  ast_armor.4.a:0 "Excellent"
+  raj_armor.807.t:0 "The Cripps Mission"
+  raj_armor.807.desc:0 "Upon his arrival in India, Cripps held talks with Indian leaders and attempted to satisfy all communities through his proposals. A friend of Nehru, Cripps has done his utmost to arrange an agreement. However, there is far too much distrust between the INC and the British Government and many people of influence did not want a settlement to be reached. Thus we are left with a rebellious Raj with our only course of action to be imprisoning rebellious members to keep law an order"
+  raj_armor.807.a:0 "Imprison them"
+  raj_armor.807.b:0 "Leave them be"
+  raj_armor.807.c:0 "Cave in"
+
+  RAJ_cripps_mission_fail_tt:0 "§RWill lose all British cabinet, high command and generals§!\n§YRemoves the Princley States§!\n\n"
+
+  raj_armor.808.t:0 "The Lahore Resolution"
+  raj_armor.808.desc:0 "Muhammad Zafarullah Khan has come to us with a proposal to get the Muslim population support behind the war effort. Citing unrest between the different religious populations in the Raj he has proposed we guarantee a separate Muslim state once the war is over to maximise the safety and security of Indian Muslims."
+  raj_armor.808.a:0 "This agreement is for the best"
+  raj_armor.808.b:0 "We can offer only better representation"
+
+  raj_armor.809.t:0 "Send Wavell to the British Raj?"
+  raj_armor.809.desc:0 "The British Raj requires a more militaristic character than the current Viceroy under the current curcumstances. Wavell is the best choice for this position but we can swap him out for Claude Auchinleck. Should we approve this swap?"
+  raj_armor.809.a:0 "He will be a good replacment"
+  raj_armor.809.b:0 "Wavell is too valuable to us"
+  RAJ_wavell_auchinleck_swap_tt:0 "Will swap §YArchibald Wavell§! with §YClaude Auchinleck§!"
+
+  raj_armor.810.t:0 "[FROM.GetName] Sends Wavell"
+  raj_armor.810.desc:0 "The UK has sent Archibald Wavell as our new viceroy who has immediately taken up his new position with vigor and will direct the Raj through the rest of the war"
+  raj_armor.810.a:0 "Excellent"
+
+  raj_armor.811.t:0 "[FROM.GetName] Doesn't Send Wavell"
+  raj_armor.811.desc:0 "The UK has seen no good replacement for our current Viceroy citing that all candiadates are too valuable to their war effort"
+  raj_armor.811.a:0 "We will make do"
+
+  raj_armor.812.t:0 "India Demands Independance"
+  raj_armor.812.desc:0 ""
+  raj_armor.812.a:0 ""
+
+  raj_armor.813.t:0 "Risks of Famine"
+  raj_armor.813.desc:0 "Our current strategic situation in the east is causing major turmoil for the civilian population. Our current government is more worried about the situation overseas than the onw brewing at home. if our strategic situation is not remedied soon or the government replaced we might be looking at a serious crisis occuring"
+  raj_armor.813.a:0 "We must resolve to fix the situation"
+
+  raj_armor.814.t:0 "The Bengal Famine"
+  raj_armor.814.desc:0 "Bengal has suffered famines before, but this time events have conspired to make things so much worse than usual. The staggeringly incompetent colonial administration has shown itself utterly unable - or perhaps even unwilling - to adequately react to a cyclone wiping out much of the rice harvest in Bengal. With refugees pouring in from the war stricken regions of the country, demand for food is growing every day while supply is falling short. \n\nFood prices have risen dramatically, leading to people staying away from work that no longer pays enough to feed their families. Recruitment numbers for the army have also dropped considerably as more and more people refuse to leave their homes to fight for a government that does nothing to help them."
+  raj_armor.814.a:0 "This is a disaster!"
+
+  raj_armor.814.t_avoided:0 "The Bengal Famine Avoided"
+  raj_armor.814.desc_avoided:0 "Through our recent successes, the bengal area has been stabalized and the signs of a famine have begun to dissipate"
+  raj_armor.814.b:0 "Good job everyone"
+
+  raj_armor.815.t:0 "The Bengal Famine comes to an end"
+  raj_armor.815.desc:0 ""
+  raj_armor.815.a:0 "Thank god its over"
+
+  raj_armor.816.t:0 "Break away from the UK?"
+  raj_armor.816.desc:0 "The fall of the UK has presented us with a unique oppertunity to break away from the Empire"
+  raj_armor.816.a:0 "Lets pounce on this!"
+  raj_armor.816.b:0 "We must remain Loyal!"
+
+  raj_armor.817.t:0 "Quit India Movement Thwarted!"
+  raj_armor.817.desc:0 "Our troops have successfully broken down the resolve of the Indian National congress and peace has been restored to the Raj. We can now fully focus our attention back on the war effort"
+  raj_armor.817.a:0 "Brilliant"
+
+  raj_armor.890.t:0 "Violence Protests Erupts!"
+  raj_armor.890.desc:0 "The Quite India movement has turned violent! immediate action is needed to stifle the movement and keep India under British control"
+  raj_armor.890.a:0 "Unacceptable!"
+
+  ast_armor.801.t:0 "The Australian Guarantee"
+  ast_armor.801.d:0 "Following the current high tensions around the world and the high probability that Australia might be in danger from Japan, they have asked for military protection should they be drawn into a defensive war in the Pacific."
+  ast_armor.801.a:0 "We shall give it"
+  ast_armor.801.b:0 "We cannot be commit our forces to protect Australia"
+
+  ast_armor.802.t:0 "The [FROM.GetName] Guarantee's Australia"
+  ast_armor.802.d:0 "The [FROM.GetName] has agreed to give Australia a guarantee to protect it against any threat to its independence"
+  ast_armor.802.a:0 "We stand strong"
+
+  ast_armor.803.t:0 "The [FROM.GetName] Rejects the Australia Guarantee"
+  ast_armor.803.d:0 "The [FROM.GetName] has rejected our petition and we stand alone for now. We must prepare for a very hard war"
+  ast_armor.803.a:0 "We stand alone"
+
+  ast_armor.804.t:0 "Australia proposes Unified Command"
+  ast_armor.804.d:0 "Australia has come to us proposing a unified ANZAC command by merging our military with theirs. This will lead to us handing over our divisions, navy and airforce to Australia."
+  ast_armor.804.a:0 "This is an excellent idea"
+  ast_armor.804.b:0 "Separate Command is preferable"
+
+  ast_armor.805.t:0 "New Zealand accepts Unified Command"
+  ast_armor.805.d:0 ""
+  ast_armor.805.a:0 "Excellent"
+
+  ast_armor.806.t:0 "New Zealand rejects Unified Command"
+  ast_armor.806.d:0 ""
+  ast_armor.806.a:0 "A superb result"
+
+  ast_armor.807.t:0 "ANZAC Military Exercises"
+  ast_armor.807.d:0 "Australia has conducted Training exercises between our militaries. We have used this opportunity to develop new tactics and improve our military structure"
+  ast_armor.807.a:0 "Excellent"
+
+  ast_armor.808.t:0 "Australia proposes Unified Command for Indonesia"
+  ast_armor.808.d:0 "Australia has come to us proposing a unified ABDACOM command by merging Indonesian military with theirs. This will lead to us handing over Indonesian divisions, navy and airforce to Australia."
+  ast_armor.808.a:0 "This is an excellent idea"
+  ast_armor.808.b:0 "Separate Command is preferable"
+
+  ast_armor.809.t:0 "[From.GetName] accepts ABDACOM Command"
+  ast_armor.809.d:0 ""
+  ast_armor.809.a:0 "Excellent"
+
+  ast_armor.810.t:0 "[From.GetName] rejects ABDACOM Command"
+  ast_armor.810.d:0 ""
+  ast_armor.810.a:0 "A superb result"
+
+  ast_armor.811.t:0 "[From.GetName] Requests new Capital Ships"
+  ast_armor.811.d:0 "[From.GetName] has cited concerns over the defense of the Pacific and have requested new capital ships from us to counter the threat in the East. Having more ships under Australian command will mean more responsibilty for Australia for the defense of the pacific and less for us"
+  ast_armor.811.a:0 "We can transfer a new ship"
+  ast_armor.811.b:0 "Let us send a small Flotilla"
+  ast_armor.811.c:0 "We can spare any"
+
+  ast_armor.812.t:0 "[From.GetName] has sent us a new Heavy Cruiser"
+  ast_armor.812.d:0 "[From.GetName] has agreed to our request and sends us a new Heavy cruiser to lead the RAN"
+  ast_armor.812.a:0 "This is superb"
+
+  ast_armor.813.t:0 "[From.GetName] has sent us a group of new Heavy Cruisers"
+  ast_armor.813.d:0 "[From.GetName] has seen the growing threat in the East and has equipped the RAN with a number of ships. With this they are expecting us to lead a greater role in the defense of the pacific, any failure to do so will be disastrous for our relations"
+  ast_armor.813.a:0 "Very Generous of them"
+
+  ast_armor.814.t:0 "[From.GetName] has declined our request"
+  ast_armor.814.d:0 "While recognising the threat in the East, [From.GetName] has rebuttled our request citing a greater need for ships in the Atlantic and North Sea. We will have to hope they change their mind quickly before it is too late."
+  ast_armor.814.a:0 "We will have to make do"
 
   fra_armor.814.t:0 "The cabinet resigns"
   fra_armor.814.d:0 "The Chamber of Deputies elected Reynaud premier Minister, but by only a single vote with most of his own party abstaining. The new government is especially unstable; many on the Right demanded that Reynaud attack not Germany, but the Soviet Union. The Chamber also forced Daladier, whom Reynaud held personally responsible for France's weakness, to be Reynaud's Minister of National Defence and War."
@@ -1471,78 +1592,15 @@
   jap_armor.830.a:0 "We wish him success"
   jap_armor.830.b:0 "We cant change the status quo"
 
-  ss_recruitment_event.9.t:0 "Recruitment Campaign in Germany"
-  ss_recruitment_event.9.desc:0 "In this titanic struggle of national survival, we must use every asset and every advantage. The SS wants to recruit directly from the fatherland where there are many who would gladly pick up arms and fight by our side against the threat of global bolshevism.\n\nWhile the Wehrmacht agrees in principle that some recruitment of suitable volunteers could be useful, the Generals in the Wehrmacht very strongly believe that any foreign volunteers should be under military - not SS - command."
-  ss_recruitment_event.9.a:0 "We now have our own personal army"
+  ger_armor.400.t:0 "Вхождение Германии на территорию Балтии"
+  ger_armor.400.d:0 "Когда немецкие войска вошли в Прибалтику, местное население приветствовало их в надежде вернуть свою независимость. Советская оккупация была жестокой, и поэтому многие жители стремятся присоединиться к немцам в их борьбе против Советского Союза."
+  ger_armor.400.a:0 "Мы освободим все земли от власти большевиков"
+  german_entry_baltic:0 "15 лояльности будет добавлено к каждому балтийскому региону, когда они будут захвачены."
 
-  germany.130.t:0 "West Berlin Joins the Allies"
-  germany.130.d:0 "Following the aftermath of the Yalta conference, troops have moved to there respective borders and West Berlin has joined as part of the allied occupation. Its location is vulnerable and we should establish troops there immediately"
-  germany.130.a:0 "Excellent"
-
-  ger_armor.001.t:0 "Офицеры вермахта бросили вызов Гитлеру"
-  ger_armor.001.d:0 "Скрытое недовольство правлением Гитлера вылилось в нынешний кризис, вызванный шагом администрации по ремилитаризации Рейнской области. Ряд генералов вермахта объединились вокруг известного фельдмаршала Августа фон Маккензена, который привел в действие планы, направленные на смещение Гитлера и устранение нацистской партии из Германии.\n\nПоскольку раскол в германском верховном командовании стал очевиден даже за рубежом, иностранные державы решили не протестовать против ремилитаризации, больше озабоченные растущей внутренней нестабильностью Германии. Стареющий фельдмаршал действовал быстро, уже создав временное правительство, в которое стекались десятки людей, выступавших против нацистского правительства.\n\nВоенный переворот уже начался."
-  ger_armor.001.a:0 "Очистите наши земли от нацистской мрази.!"
-
-  ger_armor.857.t:0 "Гитлер найден мёртвым"
-  ger_armor.857.d:0 "После потери Берлина Гитлер, непреклонно повторявший, что не оставит город, решил покончить жизнь самоубийством, предпочтя смерть захвату страны антифашистскими элементами..\n\nНа его место встал Карл Дениц, который надеется спасти армию и нацию и советует вести переговоры о частичной капитуляции перед врагами вместо капитуляции"
-  ger_armor.857.a:0 "Мы потеряли всякую надежду"
-
-  ger_armor.858.t:0 "Советский Союз требует Восток"
-  ger_armor.858.d:0 "Советский Союз стремится подтвердить свои претензии на Восточную Польшу после того, как мы ее завоевали, предполагая, что новая Европа принадлежит как Германии, так и Советскому Союзу. Такие возвышенные претензии подкрепляются возможным применением силы. .\n\nПохоже, что наша агрессивность на востоке заставила коммунистов опасаться, что мы можем напасть на них следующими. Обычно о легкой уступке большевикам не может быть и речи, но Советский Союз - далеко не единственная наша забота. Если мы согласимся на их требования, это может дать нам время разобраться с западом, хотя это также приведет к тому, что восточный фронт окажется значительно дальше на западе."
-  ger_armor.858.a:0 "Мирно отказаться от востока."
-  ger_armor.858.b:0 "Мы выдвигаем требования"
-
-  ger_armor.859.t:0 "Амбициозный Порше"
-  ger_armor.859.d:0 "С нашей подачи новые танки "Тигр" будут иметь конструкцию Хеншель, а не Порше. Это не помешало Порше уже начать производство своей версии "Тигра", и теперь у нас есть до 50 изготовленных корпусов, которые в настоящее время не используются."
-  ger_armor.859.a:0 "Мы должны превратить их в тяжелые истребители танков"
-
-  ger_armor.860.t:0 "Новый тяжелый истребитель танков"
-  ger_armor.860.d:0 "Фердинанд Порше вернулся к нам с завершенным проектом нового тяжелого танкового эсминца на базе своих корпусов "Тигр". Он способен нести более длинное 88-мм орудие и имеет толстую броню, но его надежность вызывает сомнения в его эффективности."
-  ger_armor.860.a:0 "Мы назовём их в честь Фердинанда"
-  ger_armor.860.a_tt:0 "Добавить технологию §YFerdinand§! и получить §G50§! Ferdinand' в резерв"
-
-  ger_armor.861.t:0 "Амбициозный Поршеe"
-  ger_armor.861.d:0 "После нашего решения новые танки "Тигр" будут иметь конструкцию Порше, а не Хеншеля. До нашего решения Порше уже начал производство своей версии "Тигра", и теперь у нас есть до 50 корпусов. К счастью для нас, это означает, что у нас есть 50 готовых танков, и мы можем официально начать производство с бонусом к эффективности"
-  ger_armor.861.a:0 "К счастью для нас"
-
-  ger_armor.862.t:0 "Зачем умирать за Данциг?"
-  ger_armor.862.d:0 "С нашей подачи война была объявлена Польше, и началось отвоевание немецкой территории. Однако, к нашему шоку, союзники остались верны своим обязательствам и объявили нам войну в ответ. В результате мы оказались в затруднительном положении, большая часть наших войск находится на польской границе, и у нас нет планов продолжения войны за пределами Польши. Нам потребуется некоторое время, чтобы организовать наше высшее командование для продолжения борьбы. Планы Западной войны будут заблокированы на следующие 4 месяца"
-  ger_armor.862.a:0 "Если они хотят войны, мы дадим ее"
-
-  ger_armor.863.t:0 "Германия предложила мир"
-  ger_armor.863.d:0 "После того, как Ось одержала полную победу в Европе, а Советский Союз был разрушен, Германия предлагает союзникам условия мира. К сожалению, не имея серьезного плацдарма в Европе, наши шансы на победу невелики, и, возможно, несколько лет мира помогут нам подготовиться к окончательной победе над Осью."
-  ger_armor.863.a:0 "Мы принимаем"
-  ger_armor.863.b:0 "Мы никогда не признаем поражения"
-
-  ger_armor.864.t:0 "Союзники бросили вызов"
-  ger_armor.864.d:0 "Даже в случае полной победы, США все еще готовы вести войну против нас. Хотя полномасштабное вторжение с их стороны не исключено, оно крайне маловероятно, и вместо этого нам следует начать подготовку к вторжению в США."
-  ger_armor.864.a:0 "Дураки"
-
-  ger_armor.865.t:0 "Объявление войны против США"
-  ger_armor.865.d:0 "Соединенные Штаты находятся в состоянии войны, а японцы стремительно захватывают территории союзников в Восточной Азии, и шансы на победу высоки. В сочетании с ухудшением отношений между США и Германией, можно предположить, что это лишь вопрос времени, когда они присоединятся к союзническим военным усилиям против нас. Мы должны досрочно пресечь объявление войны, вывести Соединенные Штаты из равновесия и увеличить шансы японцев на победу на востоке"
-  ger_armor.865.a:0 "Великая нация не позволяет обьявлять себе войну."
-
-  ger_armor.866.t:0 "Германия предлагает прекращение огня"
-  ger_armor.866.d:0 "Поскольку Ось оттеснила нас за Урал, забрав почти всю нашу промышленность, мы не можем продолжать военные действия, и что бы мы ни делали, мы не можем надеяться вернуть наши потерянные территории. Германия предложила прекращение огня, позволив нам сохранить все к востоку от Урала в обмен на прекращение военных действий. Наши шансы на победу на данном этапе невелики, и, откровенно говоря, мы не получим лучших условий, чем эти... возможно, несколько лет мира помогут нам восстановиться, чтобы подготовить наш реванш и окончательную победу над Осью"
-  ger_armor.866.a:0 "Пока что у нас будет мир...."
-  ger_armor.866.b:0 "Мы никогда не признаем поражение"
-
-  ger_armor.867.t:0 "Советский Союз не сдается"
-  ger_armor.867.d:0 ""
-  ger_armor.867.a:0 "Дураки"
-
-  ger_armor.868.t:0 "Обращение Гитлера к немецкому народу"
-  ger_armor.868.d:0 "Выступление Адольфа Гитлера из его фюрербункера Я ожидаю, что каждый немец будет выполнять свой долг до последнего и что он будет готов взять на себя любую жертву, которую от него потребуют, я ожидаю, что каждый трудоспособный немец будет сражаться с полным пренебрежением к своей личной безопасности, я ожидаю, что больные и слабые или те, кто по иным причинам не может выполнять военные обязанности, будут работать из последних сил, я ожидаю, что жители городов будут ковать оружие для этой борьбы, и я ожидаю, что крестьянин будет обеспечивать хлебом солдат и рабочих этой борьбы, налагая на себя ограничения, я ожидаю, что все женщины и девушки будут продолжать поддерживать эту борьбу с величайшим фанатизмом."
-  ger_armor.868.a:0 "Смерть накануне поражения"
-
-  news.338.t:0 "Выступление Йозефа Геббельса"
-  news.338.d:0 "Выступление Йозефа Гёббельса в Берлинском двореце спорта. Верите ли вы вместе с фюрером и нами в окончательную полную победу немецкого народа? Готовы ли вы и немецкий народ работать, если прикажет фюрер, 10, 12 и, если потребуется, 14 часов в день и отдать все для победы? Хотите ли вы тотальной войны? Если необходимо, хотите ли вы войны более тотальной и радикальной, чем все, что мы можем себе представить сегодня? Является ли ваша уверенность в фюрере большей, более верной и непоколебимой, чем когда-либо прежде? Готовы ли вы абсолютно и полностью следовать за ним, куда бы он ни пошел, и сделать все, что необходимо, чтобы довести войну до победного конца? А теперь, люди, встаньте и дайте буре разразиться!"
-  news.338.a:0 "Бред"
-  news.338.b:0 "Окончательная победа"
-
-  ger_armor.870.t:0 "Гитлер объявляет войну Соединенным Штатам Америки"
-  ger_armor.870.d:0 "Выступление Адольфа Гитлера в Рейхстаге Депутаты! Депутаты германского рейхстага! Завершается год всемирно-исторических событий. Приближается год великих решений. В этот тяжелый период я обращаюсь к вам, депутатам рейхстага, как к представителям немецкой нации. Кроме того, весь немецкий народ также должен проанализировать произошедшее и принять к сведению решения, которых требует настоящее и будущее. Немецкий народ и его солдаты работают и сражаются сегодня не только за себя и свой век, но и за многие последующие поколения. Создатель возложил на нас историческую задачу уникального масштаба, которую мы теперь обязаны выполнить."
-  ger_armor.870.a:0 "Окончательная победа?"
+  ger_armor.407.t:0 "Вхождение Германии на территорию Украины"
+  ger_armor.407.d:0 "Когда немецкие войска входят на территорию Украины, местное население приветствует их в надежде обрести независимость от Советского Союза, особенно после событий Голодомора. Поэтому многие жители стремятся присоединиться к немцам в их борьбе против Советского Союза."
+  ger_armor.407.a:0 "Мы освободим все земли от власти большевиков"
+  german_entry_ukraine:0 "15 лояльности будет добавлено к каждому украинскому региону, когда они будут захвачены."
 
   ger_armor.801.t:0 "Германия предлагает заключить союз"
   ger_armor.801.d:0 "После наших территориальных потерь в зимней войне немцы обратились к нам с предложением присоединиться к их фракции. В связи с вторжением в Советский Союз у нас появилась возможность вернуть свои земли и распространить свое влияние на всю Северную Скандинавию. Это заманчивая возможность, но мы должны быть уверены, что Германия победит. Существует также вероятность того, что если мы не согласимся, то в будущем откроем себя для вторжения Оси. Каким бы ни было наше решение, назад пути уже не будет..."
@@ -1657,25 +1715,6 @@
   ger_armor.826.d:0 "Итальянцы отклонили наше предложение и дистанцировались от Германии. Это может означать только то, что они не хотят объединяться с нами и, возможно, будут проводить политику, которая пойдет вразрез с нашими планами."
   ger_armor.826.a:0 "Мы должны внимательно за ними следить"
 
-  ger_armor.836.t:0 "Поддержка Циндао"
-  ger_armor.836.d:0 "Германский рейх обратился к нам с предложением о дальнейшей поддержке танками и пехотой, однако, как и западные державы, они требуют, чтобы мы передали им контроль над портовым городом Циндао. Хотя мысль о передаче дальнейшей территории немыслима, это предотвратит ее попадание в руки японцев в случае начала войны.."
-  ger_armor.836.e:0 "Германский рейх обратился к нам с предложением о дальнейшей поддержке в виде танков и пехоты, однако, как и западные державы, они требуют, чтобы мы передали им контроль над портовым городом Циндао. Хотя это противоречит нашей цели - японской гегемонии, наличие союзника за пределами Японии может оказаться очень ценным"
-  ger_armor.836.a:0 "Мы можем договориться"
-  ger_armor.836.b:0 "Неприемлемо"
-
-  ger_armor.837.t:0 "Китай принял нашу поддержку для Циндао"
-  ger_armor.837.d:0 "Китай согласился на наше предложение, и в Китай немедленно отправляется оборудование. Наличие территории за пределами Германии - это большое национальное достижение, которое показало всему миру, что Рейх здесь и останется!"
-  ger_armor.837.a:0 "Китай имеет большой потенциал"
-
-  ger_armor.838.t:0 "Китай отказывается от нашей поддержки Циндао"
-  ger_armor.838.d:0 "Китай решил, что наша поддержка не стоит того, чтобы отдавать территорию, и поэтому отказался принять наше предложение"
-  ger_armor.838.a:0 "Они об этом пожалеют"
-
-  ger_armor.839.t:0 "Вторгнуться в Польшу?"
-  ger_armor.839.d:0 "Поскольку Польша, похоже, проигрывает в своей войне и не имеет крупных союзников, которые могли бы помочь ей, нам представилась прекрасная возможность захватить любые претензии, которые мы можем иметь на их страну, прежде чем они попадут в опасные руки"
-  ger_armor.839.a:0 "Мы будем защищать немецкий народ"
-  ger_armor.839.b:0 "Это слишком рискованно"
-
   ger_armor.827.t:0 "Германия предъявляет ультиматум"
   ger_armor.827.d:0 "Германия пришла к выводу, что [From.GetName] больше не может самостоятельно функционировать как эффективный член Оси и выдвинул нам ультиматум. Либо принять немецкий контроль над нашим правительством и вооруженными силами, по сути, став марионеткой, либо рисковать более силовым решением."
   ger_armor.827.a:0 "Они должны уважать наши силу!"
@@ -1696,16 +1735,6 @@
   ger_armor.830.d:0 "[From.GetName] считает ситуацию в стране нестабильной и ведущей к потенциальному кризису. Поэтому они приняли наш ультиматум в обмен на немедленную военную поддержку"
   ger_armor.830.a:0 "Это во имя высшего блага"
 
-  ger_armor.835.t:0 "Германия отвергла наше предложение"
-  ger_armor.835.d:0 "Германия отвергла все, кроме тотального контроля, и теперь у нас остается два варианта..."
-  ger_armor.835.a:0 "Мы просто не можем это принять"
-  ger_armor.835.b:0 "У нас нет выбора, кроме как встать на колени"
-
-  germany.98.e:0 "Сделайте хорватскую дудочку. Вырезать остальных."
-  germany.99.e:0 "Разделить Грецию между Болгарией и Италией"
-
-  italy_empire:0 "Итальянская империя"
-
   ger_armor.831.t:0 "Германия объявляет войну!"
   ger_armor.831.d:0 "Похоже, что Германия хочет идти вперед с этими абсурдными требованиями... предательские собаки"
   ger_armor.831.a:0 "Наши шансы ничтожны"
@@ -1721,6 +1750,30 @@
   ger_armor.834.t:0 "Германия отступает"
   ger_armor.834.d:0 "Германия признает абсурдность своих требований и отступает. Хотя мы остаемся союзниками, напряженность стала высокой, и было бы неразумно доверять Германии."
   ger_armor.834.a:0 "Мы предотвратили катастрофу"
+
+  ger_armor.835.t:0 "Германия отвергла наше предложение"
+  ger_armor.835.d:0 "Германия отвергла все, кроме тотального контроля, и теперь у нас остается два варианта..."
+  ger_armor.835.a:0 "Мы просто не можем это принять"
+  ger_armor.835.b:0 "У нас нет выбора, кроме как встать на колени"
+
+  ger_armor.836.t:0 "Поддержка Циндао"
+  ger_armor.836.d:0 "Германский рейх обратился к нам с предложением о дальнейшей поддержке танками и пехотой, однако, как и западные державы, они требуют, чтобы мы передали им контроль над портовым городом Циндао. Хотя мысль о передаче дальнейшей территории немыслима, это предотвратит ее попадание в руки японцев в случае начала войны.."
+  ger_armor.836.e:0 "Германский рейх обратился к нам с предложением о дальнейшей поддержке в виде танков и пехоты, однако, как и западные державы, они требуют, чтобы мы передали им контроль над портовым городом Циндао. Хотя это противоречит нашей цели - японской гегемонии, наличие союзника за пределами Японии может оказаться очень ценным"
+  ger_armor.836.a:0 "Мы можем договориться"
+  ger_armor.836.b:0 "Неприемлемо"
+
+  ger_armor.837.t:0 "Китай принял нашу поддержку для Циндао"
+  ger_armor.837.d:0 "Китай согласился на наше предложение, и в Китай немедленно отправляется оборудование. Наличие территории за пределами Германии - это большое национальное достижение, которое показало всему миру, что Рейх здесь и останется!"
+  ger_armor.837.a:0 "Китай имеет большой потенциал"
+
+  ger_armor.838.t:0 "Китай отказывается от нашей поддержки Циндао"
+  ger_armor.838.d:0 "Китай решил, что наша поддержка не стоит того, чтобы отдавать территорию, и поэтому отказался принять наше предложение"
+  ger_armor.838.a:0 "Они об этом пожалеют"
+
+  ger_armor.839.t:0 "Вторгнуться в Польшу?"
+  ger_armor.839.d:0 "Поскольку Польша, похоже, проигрывает в своей войне и не имеет крупных союзников, которые могли бы помочь ей, нам представилась прекрасная возможность захватить любые претензии, которые мы можем иметь на их страну, прежде чем они попадут в опасные руки"
+  ger_armor.839.a:0 "Мы будем защищать немецкий народ"
+  ger_armor.839.b:0 "Это слишком рискованно"
 
   ger_armor.840.t:0 "Судьба Югославии"
   ger_armor.840.d:0 "Как лидер Оси, Германия реорганизовала оккупированную Югославию, чтобы удовлетворить требования всех своих союзников. Это также привело к созданию нового государства, Хорватии, для продвижения интересов Германии."
@@ -1786,16 +1839,7 @@
   ger_armor.853.b:0 "Мы должны взять на себя прямое управление"
 
   ger_armor.854.t:0 "Иран уступает"
-
-  germany.998.t:0 "Смерть Адольфа Гитлера"
-  germany.998.d:0 "Два дня назад Адольф Гитлер перенес обширный инсульт, после чего был срочно доставлен в медицинское учреждение, но на следующий день скончался."
-  germany.998.a:0 "Мартин Борман"
-  germany.998.b:0 "Йозеф Гёббельс"
-  germany.998.c:0 "Герман Геринг"
-  germany.998.d:0 "Генрих Гиммлер"
-
-  ger_armor.854.t:0 "Иран уступает"
-  ger_armor.854.d:0 ""
+  ger_armor.854.d:0 "Иран понял, что к нам стоит прислушиваться, и теперь мы получили права на нефтяные месторождения на юге страны. Это значительно увеличит наши доходы от продажи топлива, гарантируя стабильность в будущем."
   ger_armor.854.a:0 "Теперь мы можем купаться в топливе"
 
   ger_armor.855.t:0 "Ирак отвергает сотрудничество"
@@ -1807,20 +1851,125 @@
   ger_armor.856.d:0 "После объявления войны Польше британское посольство в Норвегии прилагает усилия для привлечения Норвегии на сторону союзников, пытаясь изолировать нашу торговлю со Швецией §RОперация Weserubung может быть проведена после того, как будут завершены основные западные военные планы§"
   ger_armor.856.a:0 "Мы должны обезопасить Норвегию силой"
 
-  ger_armor.400.t:0 "Вхождение Германии на территорию Балтии"
-  ger_armor.400.d:0 "Когда немецкие войска вошли в Прибалтику, местное население приветствовало их в надежде вернуть свою независимость. Советская оккупация была жестокой, и поэтому многие жители стремятся присоединиться к немцам в их борьбе против Советского Союза."
-  ger_armor.400.a:0 "Мы освободим все земли от власти большевиков"
-  german_entry_baltic:0 "15 лояльности будет добавлено к каждому балтийскому региону, когда они будут захвачены."
+  ger_armor.857.t:0 "Гитлер найден мёртвым"
+  ger_armor.857.d:0 "После потери Берлина Гитлер, непреклонно повторявший, что не оставит город, решил покончить жизнь самоубийством, предпочтя смерть захвату страны антифашистскими элементами..\n\nНа его место встал Карл Дениц, который надеется спасти армию и нацию и советует вести переговоры о частичной капитуляции перед врагами вместо капитуляции"
+  ger_armor.857.a:0 "Мы потеряли всякую надежду"
 
-  ger_armor.407.t:0 "Вхождение Германии на территорию Украины"
-  ger_armor.407.d:0 "Когда немецкие войска входят на территорию Украины, местное население приветствует их в надежде обрести независимость от Советского Союза, особенно после событий Голодомора. Поэтому многие жители стремятся присоединиться к немцам в их борьбе против Советского Союза."
-  ger_armor.407.a:0 "Мы освободим все земли от власти большевиков"
-  german_entry_ukraine:0 "15 лояльности будет добавлено к каждому украинскому региону, когда они будут захвачены."
+  ger_armor.858.t:0 "Советский Союз требует Восток"
+  ger_armor.858.d:0 "Советский Союз стремится подтвердить свои претензии на Восточную Польшу после того, как мы ее завоевали, предполагая, что новая Европа принадлежит как Германии, так и Советскому Союзу. Такие возвышенные претензии подкрепляются возможным применением силы. .\n\nПохоже, что наша агрессивность на востоке заставила коммунистов опасаться, что мы можем напасть на них следующими. Обычно о легкой уступке большевикам не может быть и речи, но Советский Союз - далеко не единственная наша забота. Если мы согласимся на их требования, это может дать нам время разобраться с западом, хотя это также приведет к тому, что восточный фронт окажется значительно дальше на западе."
+  ger_armor.858.a:0 "Мирно отказаться от востока."
+  ger_armor.858.b:0 "Мы выдвигаем требования"
+
+  ger_armor.859.t:0 "Амбициозный Порше"
+  ger_armor.859.d:0 "С нашей подачи новые танки "Тигр" будут иметь конструкцию Хеншель, а не Порше. Это не помешало Порше уже начать производство своей версии "Тигра", и теперь у нас есть до 50 изготовленных корпусов, которые в настоящее время не используются."
+  ger_armor.859.a:0 "Мы должны превратить их в тяжелые истребители танков"
+
+  ger_armor.860.t:0 "Новый тяжелый истребитель танков"
+  ger_armor.860.d:0 "Фердинанд Порше вернулся к нам с завершенным проектом нового тяжелого танкового эсминца на базе своих корпусов "Тигр". Он способен нести более длинное 88-мм орудие и имеет толстую броню, но его надежность вызывает сомнения в его эффективности."
+  ger_armor.860.a:0 "Мы назовём их в честь Фердинанда"
+  ger_armor.860.a_tt:0 "Добавить технологию §YFerdinand§! и получить §G50§! Ferdinand' в резерв"
+
+  ger_armor.861.t:0 "Амбициозный Поршеe"
+  ger_armor.861.d:0 "После нашего решения новые танки "Тигр" будут иметь конструкцию Порше, а не Хеншеля. До нашего решения Порше уже начал производство своей версии "Тигра", и теперь у нас есть до 50 корпусов. К счастью для нас, это означает, что у нас есть 50 готовых танков, и мы можем официально начать производство с бонусом к эффективности"
+  ger_armor.861.a:0 "К счастью для нас"
+
+  ger_armor.862.t:0 "Зачем умирать за Данциг?"
+  ger_armor.862.d:0 "С нашей подачи война была объявлена Польше, и началось отвоевание немецкой территории. Однако, к нашему шоку, союзники остались верны своим обязательствам и объявили нам войну в ответ. В результате мы оказались в затруднительном положении, большая часть наших войск находится на польской границе, и у нас нет планов продолжения войны за пределами Польши. Нам потребуется некоторое время, чтобы организовать наше высшее командование для продолжения борьбы. Планы Западной войны будут заблокированы на следующие 4 месяца"
+  ger_armor.862.a:0 "Если они хотят войны, мы дадим ее"
+
+  ger_armor.863.t:0 "Германия предложила мир"
+  ger_armor.863.d:0 "После того, как Ось одержала полную победу в Европе, а Советский Союз был разрушен, Германия предлагает союзникам условия мира. К сожалению, не имея серьезного плацдарма в Европе, наши шансы на победу невелики, и, возможно, несколько лет мира помогут нам подготовиться к окончательной победе над Осью."
+  ger_armor.863.a:0 "Мы принимаем"
+  ger_armor.863.b:0 "Мы никогда не признаем поражения"
+
+  ger_armor.864.t:0 "Союзники бросили вызов"
+  ger_armor.864.d:0 "Даже в случае полной победы, США все еще готовы вести войну против нас. Хотя полномасштабное вторжение с их стороны не исключено, оно крайне маловероятно, и вместо этого нам следует начать подготовку к вторжению в США."
+  ger_armor.864.a:0 "Дураки"
+
+  ger_armor.865.t:0 "Объявление войны против США"
+  ger_armor.865.d:0 "Соединенные Штаты находятся в состоянии войны, а японцы стремительно захватывают территории союзников в Восточной Азии, и шансы на победу высоки. В сочетании с ухудшением отношений между США и Германией, можно предположить, что это лишь вопрос времени, когда они присоединятся к союзническим военным усилиям против нас. Мы должны досрочно пресечь объявление войны, вывести Соединенные Штаты из равновесия и увеличить шансы японцев на победу на востоке"
+  ger_armor.865.a:0 "Великая нация не позволяет обьявлять себе войну."
+
+  ger_armor.866.t:0 "Германия предлагает прекращение огня"
+  ger_armor.866.d:0 "Поскольку Ось оттеснила нас за Урал, забрав почти всю нашу промышленность, мы не можем продолжать военные действия, и что бы мы ни делали, мы не можем надеяться вернуть наши потерянные территории. Германия предложила прекращение огня, позволив нам сохранить все к востоку от Урала в обмен на прекращение военных действий. Наши шансы на победу на данном этапе невелики, и, откровенно говоря, мы не получим лучших условий, чем эти... возможно, несколько лет мира помогут нам восстановиться, чтобы подготовить наш реванш и окончательную победу над Осью"
+  ger_armor.866.a:0 "Пока что у нас будет мир...."
+  ger_armor.866.b:0 "Мы никогда не признаем поражение"
+
+  ger_armor.867.t:0 "Советский Союз не сдается"
+  ger_armor.867.d:0 ""
+  ger_armor.867.a:0 "Дураки"
+
+  ger_armor.868.t:0 "Обращение Гитлера к немецкому народу"
+  ger_armor.868.d:0 "Выступление Адольфа Гитлера из его фюрербункера Я ожидаю, что каждый немец будет выполнять свой долг до последнего и что он будет готов взять на себя любую жертву, которую от него потребуют, я ожидаю, что каждый трудоспособный немец будет сражаться с полным пренебрежением к своей личной безопасности, я ожидаю, что больные и слабые или те, кто по иным причинам не может выполнять военные обязанности, будут работать из последних сил, я ожидаю, что жители городов будут ковать оружие для этой борьбы, и я ожидаю, что крестьянин будет обеспечивать хлебом солдат и рабочих этой борьбы, налагая на себя ограничения, я ожидаю, что все женщины и девушки будут продолжать поддерживать эту борьбу с величайшим фанатизмом."
+  ger_armor.868.a:0 "Смерть накануне поражения"
+
+  news.338.t:0 "Выступление Йозефа Геббельса"
+  news.338.d:0 "Выступление Йозефа Гёббельса в Берлинском двореце спорта. Верите ли вы вместе с фюрером и нами в окончательную полную победу немецкого народа? Готовы ли вы и немецкий народ работать, если прикажет фюрер, 10, 12 и, если потребуется, 14 часов в день и отдать все для победы? Хотите ли вы тотальной войны? Если необходимо, хотите ли вы войны более тотальной и радикальной, чем все, что мы можем себе представить сегодня? Является ли ваша уверенность в фюрере большей, более верной и непоколебимой, чем когда-либо прежде? Готовы ли вы абсолютно и полностью следовать за ним, куда бы он ни пошел, и сделать все, что необходимо, чтобы довести войну до победного конца? А теперь, люди, встаньте и дайте буре разразиться!"
+  news.338.a:0 "Бред"
+  news.338.b:0 "Окончательная победа"
+
+  ger_armor.870.t:0 "Гитлер объявляет войну Соединенным Штатам Америки"
+  ger_armor.870.d:0 "Выступление Адольфа Гитлера в Рейхстаге Депутаты! Депутаты германского рейхстага! Завершается год всемирно-исторических событий. Приближается год великих решений. В этот тяжелый период я обращаюсь к вам, депутатам рейхстага, как к представителям немецкой нации. Кроме того, весь немецкий народ также должен проанализировать произошедшее и принять к сведению решения, которых требует настоящее и будущее. Немецкий народ и его солдаты работают и сражаются сегодня не только за себя и свой век, но и за многие последующие поколения. Создатель возложил на нас историческую задачу уникального масштаба, которую мы теперь обязаны выполнить."
+  ger_armor.870.a:0 "Окончательная победа?"
+
+  ger_armor.871.t:0 "Дело Бломберга-Фрича"
+  ger_armor.871.d:0 "Два наших самых высокопоставленных армейских офицера были разоблачены в непристойных действиях. У нас нет другого выбора, кроме как заставить их уйти в отставку и нанять новых сотрудников на их место. Это даст нам возможность получить полный контроль над немецкой армией, назначив лояльных генералов."
+  ger_armor.871.a:0 "Стыдно"
+
+  ger_armor.872.t:0 "Балканский торговый договор"
+  ger_armor.872.d:0 "Германия предлагает создать торговый блок между нашими двумя странами, что будет означать удешевление импорта и экспорта"
+  ger_armor.872.a:0 "Это взаимовыгодно"
+  ger_armor.872.b:0 "Нет, спасибо, мы справимся.."
+
+  ger_armor.873.t:0 "[From.GetName] приняла"
+  ger_armor.873.d:0 "[From.GetName] согласилась на нашу торговую сделку, надеясь на более тесные отношения с нами"
+  ger_armor.873.a:0 "Прексрасно"
+
+  ger_armor.874.t:0 "[From.GetName] отклонила"
+  ger_armor.874.d:0 "[From.GetName] не увидели достаточной выгоды от снижения экспортных цен и поэтому отказались от выполнения нашего договора."
+  ger_armor.874.a:0 "Мы должны внимательно за ними следить"
+
+  ger_armor.875.t:0 "Swiss-Franc Agreement"
+  ger_armor.875.d:0 "Германия обратилась к нам с предложением об исключительных правах на вольфрам в Порту, обещая крупную сумму в швейцарских франках. Будучи гораздо более стабильной валютой и очень удобной для обмена с остальным миром, это может принести нам большую прибыл."
+  ger_armor.875.a:0 "Это очень выгодно"
+  ger_armor.875.b:0 "Мы не можем сотрудничать с дьяволом"
+
+  ger_armor.876:0 "[From.GetName] приняла"
+  ger_armor.876.d:0 "Швейцарско-французское соглашение было положительно воспринято португальцами, и теперь мы имеем защищенные права на некоторые из их вольфрамовых месторождений."
+  ger_armor.876.a:0 "Прексрасно"
+
+  ger_armor.877:0 "[From.GetName] отклонила"
+  ger_armor.877.d:0 "Швейцарско-французское соглашение было отвергнуто, и нам придется торговать с ними по старинке"
+  ger_armor.877.a:0 "Нежелательный результат"
+
+  ger_armor.001.t:0 "Офицеры вермахта бросили вызов Гитлеру"
+  ger_armor.001.d:0 "Скрытое недовольство правлением Гитлера вылилось в нынешний кризис, вызванный шагом администрации по ремилитаризации Рейнской области. Ряд генералов вермахта объединились вокруг известного фельдмаршала Августа фон Маккензена, который привел в действие планы, направленные на смещение Гитлера и устранение нацистской партии из Германии.\n\nПоскольку раскол в германском верховном командовании стал очевиден даже за рубежом, иностранные державы решили не протестовать против ремилитаризации, больше озабоченные растущей внутренней нестабильностью Германии. Стареющий фельдмаршал действовал быстро, уже создав временное правительство, в которое стекались десятки людей, выступавших против нацистского правительства.\n\nВоенный переворот уже начался."
+  ger_armor.001.a:0 "Очистите наши земли от нацистской мрази.!"
+
+  germany.998.t:0 "Смерть Адольфа Гитлера"
+  germany.998.d:0 "Два дня назад Адольф Гитлер перенес обширный инсульт, после чего был срочно доставлен в медицинское учреждение, но на следующий день скончался."
+  germany.998.a:0 "Мартин Борман"
+  germany.998.b:0 "Йозеф Гёббельс"
+  germany.998.c:0 "Герман Геринг"
+  germany.998.d:0 "Генрих Гиммлер"
 
 #  ger_armor.424.t:0 "Italy Requests Dalmatia from Croatia"
 #  ger_armor.424.d:0 "The Italian government has sent us a request for their direct annexation of the state of Dalmatia from our balkan puppet state Croatia. They argue that, since the initial invasion and subsequent occupation and puppet state were technically a cooperation between German and Italian forces, that if they desire this state from Croatia they should receive it. "
 #  ger_armor.424.a:0 "They asked nicely, so I suppose"
 #  ger_armor.424.b:0 "The Third Reich cannot be bothered"
+
+  ss_recruitment_event.9.t:0 "Рекрутинговая кампания в Германии"
+  ss_recruitment_event.9.desc:0 "В этой титанической борьбе за национальное выживание мы должны использовать каждый актив и каждое преимущество. SS хочет набирать людей прямо на родине, где есть много тех, кто с радостью возьмет в руки оружие и будет сражаться на нашей стороне против угрозы мирового большевизма..\n\nХотя Wehrmacht в принципе согласен с тем, что некоторый набор подходящих добровольцев может быть полезен, генералы вермахта очень твердо убеждены, что любые иностранные добровольцы должны находиться под военным, а не SS командованием.."
+  ss_recruitment_event.9.a:0 "У нас теперь есть своя личная армия"
+
+  germany.98.e:0 "Сделайте хорватскую дудочку. Вырезать остальных."
+  germany.99.e:0 "Разделить Грецию между Болгарией и Италией"
+
+  germany.130.t:0 "West Berlin Joins the Allies"
+  germany.130.d:0 "Following the aftermath of the Yalta conference, troops have moved to there respective borders and West Berlin has joined as part of the allied occupation. Its location is vulnerable and we should establish troops there immediately"
+  germany.130.a:0 "Excellent"
+
+  italy_empire:0 "Italian Empire"
 
   soviet.13.b:0 "Нам следует отступить"
 
@@ -2397,6 +2546,7 @@
   usa_armor.814.t:0 "US v Butler:0 Agricultural Adjustment Act ruled unconstitutional"
   usa_armor.814.d:0 "Today, the Supreme Court of the United States ruled that the Agricultural Adjustment Act is unconstitutional. In the case, US v Butler, it was decided that the tax on producers was unconstitutional as it was not a true tax, since it taxed farm goods processors only to give the money to farmers, as well as the attempt to control agricultural prices going beyond the enumerated powers of the Constitution. This decision puts a roadblock in efforts to assist farmers."
   usa_armor.814.a:0 "Something will have to be done about this rogue court."
+
   usa_armor.815.t:0 "Strike in Flint"
   usa_armor.815.d:0 "Today, the United Auto Workers have staged widescale strike in General Motor's Flint plant. Pioneering a new strike tactic coined a \"Sit-Down Strike\" as opposed to picketing, workers occupied the physical plant, preventing GM from hiring strike breakers. In order to maintain law and order, we could intervene to force a compromise, however, choosing not to do so will preserve our support from unions, a large part of the democratic party coalition."
   usa_armor.815.a:0 "Let the Union and Plant sort it out themselves"
@@ -2661,10 +2811,10 @@
   afo_news.11.c:0 "Как непредсказуемо"
 
   afo_news.12.t:0 "Allied Victory in the Pacific"
-  afo_news.12.d:0 "With the surrender of the Japanese, the war in the Pacific has come to an end. Emperor Hirohito signed an unconditional surrender with the Allied powers and has ordered the cessation of all military operations throughout the Empire of Japan. The surrender wasn't accepted throughout the nation though, with some strongholds refusing to surrender and even an attempted rebellion occupying the Imperial palace for a short time.\nThe USA has however sent thousands of military troops into Tokyo and the rest of Japan to prevent an organized resistance, and has begun the process of rebuilding and deradicalizing Japan. Most of East Asia is in Allied hands bringing a sense of stability to the region, however it remains to be seen how China and the Soviet Union will react to the Japanese defeat."
-  afo_news.12.a:0 "We fought to the end"
-  afo_news.12.b:0 "Victory over Japan!"
-  afo_news.12.c:0 "A excellent Victory"
+  afo_news.12.d:0 "С капитуляцией Японии война в Тихом океане подошла к концу. Император Хирохито подписал безоговорочную капитуляцию с союзными державами и приказал прекратить все военные операции на территории Японской империи. Однако капитуляция не была принята всей страной: некоторые опорные пункты отказались сдаться, и даже была попытка восстания, в результате которой императорский дворец был занят на короткое время.\nОднако США направили тысячи солдат в Токио и другие районы Японии, чтобы предотвратить организованное сопротивление, и начали процесс восстановления и дерадикализации Японии. Большая часть Восточной Азии находится в руках союзников, что привносит в регион ощущение стабильности, однако еще предстоит выяснить, как Китай и Советский Союз отреагируют на поражение Японии."
+  afo_news.12.a:0 "Мы сражались до конца"
+  afo_news.12.b:0 "Победа над Японией!"
+  afo_news.12.c:0 "Прекрасная Победа"
 
   afo_news.13.t:0 "Победа Оси в Европе"
   afo_news.13.d:0 "Ось торжествует в Европе. Союзники выбиты, а Советы лежат избитые и побежденные. Одна победа за другой немецкая военная машина доказывает, что она может побеждать, несмотря ни на что. Не надеясь на какое-либо значимое сопротивление, Соединенные Штаты решили подписать белый мир с Германским Рейхом, бросив своих союзников в Европе и реорганизовав то, что осталось в Америке. \nХвастовство Гитлера о тысячелетнем рейхе становится все виднее, но разговоры о третьей мировой войне - не слухи. Без сомнения, США и Германия остаются в состоянии повышенной готовности и крайне враждебно настроены друг к другу. В ближайшие несколько лет мы увидим, будет ли Германия продолжать оставаться сильной или разразится гражданской войной, вызванной жаждой власти, или союзники так или иначе вернутся…"
@@ -2691,14 +2841,14 @@
   afo_news.16.b:0 "Как это могло произойти!"
   afo_news.16.c:0 "Это беспрецедентно"
 
-  afo_news.17.t:0 "[From.GetName] Forms the Northern Lights"
+  afo_news.17.t:0 "[From.GetName] Формирует северное сияние"
   afo_news.17.d:0 "Aiming to deter foreign aggression in Scandinavia, [From.GetName] has been making political overtures towards the creation of a new alliance in the region.\n\nLargely military in nature, the [From.GetFactionName] will, in the words of [From.GetLeader], guarantee the protection of all Nordic people against foreign aggression"
   afo_news.17.a:0 "We shall stand strong"
   afo_news.17.b:0 "Let us hope their interests do not conflict with ours."
   afo_news.17.c:0 "This could be cause for concern."
 
-  afo_news.18.t:0 "Finland Cedes the Åland Islands"
-  afo_news.18.d:0 "Aiming to improve relations with Sweden, Finland has decided to cede the Åland Islands to them putting an end to this contentious issue. This will no doubt lead to greater cooperation between the two countries in civil and perhaps military matters"
+  afo_news.18.t:0 "Финляндия уступила Аландские острова"
+  afo_news.18.d:0 "Стремясь улучшить отношения со Швецией, Финляндия решила уступить ей Аландские острова, положив конец этому спорному вопросу. Это, несомненно, приведет к более тесному сотрудничеству между двумя странами в гражданских и, возможно, военных вопросах"
   afo_news.18.a:0 "For the greater good of Finland"
   afo_news.18.b:0 "This is a good outcome"
   afo_news.18.c:0 "An interesting outcome"
@@ -2720,33 +2870,33 @@
   afo_news.21.a:0 "So much for a free East Asia..."
   afo_news.21.b:0 "Together, comrades!"
 
-  afo_news.22.t:0 "The [SOV.GetName] annexes [EST.GetName]"
-  afo_news.22.d:0 "Following an ultimatum given by [SOV.GetName], the [EST.GetName] government has agreed to allow Soviet troops to enter the country after the [SOV.GetName] demanded a conclusion of their mutual assistance pact by setting up military bases in Estonia. However, reports now show air bases and ports have been also seized by the Soviet Military, and a forced election has resulted in [EST.GetName] being annexed into the [SOV.GetName]. Many onlookers sympathise with the Estonian people on what they call a hostile takeover."
-  afo_news.22.a:0 "Enjoy the land grab, Soviets. You'll be next."
-  afo_news.22.b:0 "Soviet expansion West? This should get interesting..."
-  afo_news.22.c:0 "Oh I do hope their votes still count..."
-  afo_news.22.e:0 "Another fine addition to my collection..."
+  afo_news.22.t:0 "[SOV.GetName] аннексировала [EST.GetName]"
+  afo_news.22.d:0 "После ультиматума, выдвинутого [SOV.GetName],[EST.GetName] правительство согласилось разрешить советским войскам войти в страну после того, как [SOV.GetName] потребовали заключения пакта о взаимопомощи, создав военные базы в Эстонии. Однако, как теперь сообщается, советские военные захватили также авиабазы и порты, а принудительные выборы привели к тому [EST.GetName] будучи присоединенной к [SOV.GetName]. Многие наблюдатели сочувствуют эстонскому народу в связи с тем, что они называют враждебным поглощением."
+  afo_news.22.a:0 "Наслаждайтесь захватом земель, Советы. Вы будете следующими."
+  afo_news.22.b:0 "Советская экспансия на Запад? Это должно стать интересным..."
+  afo_news.22.c:0 "Я надеюсь, что их голоса еще считаются....."
+  afo_news.22.e:0 "Еще одно удачное дополнение к моей коллекции..."
 
-  afo_news.23.t:0 "The [SOV.GetName] annexes [LAT.GetName]"
-  afo_news.23.d:0 "Following an ultimatum given by [SOV.GetName], the [LAT.GetName] government has agreed to allow Soviet troops to enter the country after the [SOV.GetName] demanded a conclusion of there mutual assistance pact by setting up military bases in Latvia. However, reports now show air bases and ports have been also seized by the Soviet Military, and a forced election has resulted in [LAT.GetName] being annexed into the [SOV.GetName]. Many onlookers sympathise with the Latvian people on what they call a hostile takeover."
-  afo_news.23.a:0 "Enjoy the land grab, Soviets. You'll be next."
-  afo_news.23.b:0 "Soviet expansion West? This should get interesting..."
-  afo_news.23.c:0 "Oh I do hope their votes still count..."
-  afo_news.23.e:0 "Another fine addition to my collection..."
+  afo_news.23.t:0 "[SOV.GetName] аннексировала [LAT.GetName]"
+  afo_news.23.d:0 "После ультиматума, выдвинутого [SOV.GetName],[LAT.GetName] правительство согласилось разрешить советским войскам войти в страну после того, как [SOV.GetName] потребовали заключения пакта о взаимопомощи, создав в Латвии военные базы. Однако, по имеющимся данным, советские военные захватили авиабазы и порты, а принудительные выборы привели к тому [LAT.GetName] будучи присоединенной к [SOV.GetName]. Многие наблюдатели сочувствуют эстонскому народу в связи с тем, что они называют враждебным поглощением."
+  afo_news.23.a:0 "Наслаждайтесь захватом земель, Советы. Вы будете следующими."
+  afo_news.23.b:0 "Советская экспансия на Запад? Это должно стать интересным..."
+  afo_news.23.c:0 "Я надеюсь, что их голоса еще считаются...."
+  afo_news.23.e:0 "Еще одно удачное дополнение к моей коллекции..."
 
-  afo_news.24.t:0 "The [SOV.GetName] annexes [LIT.GetName]"
-  afo_news.24.d:0 "Following an ultimatum given by [SOV.GetName], the [LIT.GetName] government has agreed to allow Soviet troops to enter the country after the [SOV.GetName] demanded a conclusion of their mutual assistance pact by setting up military bases in Lithuania. However, reports now show air bases and ports have been also seized by the Soviet Military, and a forced election has resulted in [LIT.GetName] being annexed into the [SOV.GetName]. Many onlookers sympathise with the Lithuanian people on what they call a hostile takeover."
-  afo_news.24.a:0 "Enjoy the land grab, Soviets. You'll be next."
-  afo_news.24.b:0 "Soviet expansion West? This should get interesting..."
-  afo_news.24.c:0 "Oh I do hope their votes still count..."
-  afo_news.24.e:0 "Another fine addition to my collection..."
+  afo_news.24.t:0 "[SOV.GetName] аннексировала [LIT.GetName]"
+  afo_news.24.d:0 "После ультиматума, выдвинутого [SOV.GetName],[LIT.GetName] правительство согласилось разрешить советским войскам войти в страну после того, как [SOV.GetName] потребовали заключения пакта о взаимопомощи, создав военные базы в Литве. Однако, как теперь сообщается, советские военные захватили также авиабазы и порты, а принудительные выборы привели к тому [LIT.GetName] будучи присоединенной к [SOV.GetName]. Многие наблюдатели сочувствуют эстонскому народу в связи с тем, что они называют враждебным поглощением."
+  afo_news.24.a:0 "Наслаждайтесь захватом земель, Советы. Вы будете следующими."
+  afo_news.24.b:0 "Советская экспансия на Запад? Это должно стать интересным..."
+  afo_news.24.c:0 "Я надеюсь, что их голоса еще считаются...."
+  afo_news.24.e:0 "Еще одно удачное дополнение к моей коллекции..."
 
-  afo_news.25.t:0 "Axis Victory in Russia"
-  afo_news.25.d:0 "After long years of battle the Axis stand triumphant in Russia having pushed past the Urals. The Soviets lay battered and defeated, one battle after another the German war machine proved that it can win despite the odds. With the loss of most of her industry, population and army, the Soviets have signed a peace treaty to a war they cannot win. \nHitler’s objectives in the East have now been fulfilled but there is no doubt the Soviets will use this time to try and rebuild their forces for a reconquest. Without a doubt both sides will remain on high alert."
-  afo_news.25.a:0 "We have achieved our living space!"
-  afo_news.25.b:0 "We shall have revenge..."
-  afo_news.25.c:0 "A dreadful outcome"
-  afo_news.25.e:0 "A stunning victory"
+  afo_news.25.t:0 "Победа Оси в России"
+  afo_news.25.d:0 "После долгих лет сражений Ось одержала триумф в России, перейдя Урал. Советские войска лежат избитые и разбитые, одна битва за другой немецкая военная машина доказывает, что она может победить, несмотря на все трудности. Потеряв большую часть своей промышленности, населения и армии, Советский Союз подписал мирный договор в войне, которую он не мог выиграть. \nЦели Гитлера на Востоке теперь выполнены, но нет сомнений, что Советы будут использовать это время, чтобы попытаться восстановить свои силы для повторного наступления. Несомненно, обе стороны будут оставаться в состоянии повышенной готовности."
+  afo_news.25.a:0 "Мы добились своего жизненного пространства!"
+  afo_news.25.b:0 "Мы отомстим..."
+  afo_news.25.c:0 "Ужасный результат"
+  afo_news.25.e:0 "Потрясающая победа"
 
   afo_news.26.t:0 "Wilhelm II Returns to the German Empire"
   afo_news.26.desc:0 "In a surprise announcement yesterday morning, the German government officially lifted the exile on Wilhelm II. Later in the day, the old Kaiser's motorcade passed the Dutch-German border, However with a suprise twist the Kaiser as advocated and endorsed his son Wilhelm III to take up the throne instead.\n\nThe Kaiser has already vowed to see Germany returned to its old greatness, but he will support from the sidelines, but it remains to be seen which direction the nation will take with its diplomacy."
@@ -2779,30 +2929,30 @@
   afo_news.30.b:0 "Мы должны отступить"
   afo_news.30.c:0 "Китай на грани краха!"
 
-  afo_news.31.t:0 "Japanese Victory in Russia"
-  afo_news.31.d:0 "After long years of battle, the Japanese stand triumphant in Russia. Having taken all of the far east, the Soviets lay battered and defeated. One battle after another, the Japanese war machine proved that it can win despite the odds. Part of the peace deal sees Mongolia ceded into the Co-prospreity Sphere and a new puppet regieme set up in the Russian far east. Time will tell whether the Soviet Union will prepare to retake these territories at a later date"
-  afo_news.31.a:0 "A resounding Success!"
-  afo_news.31.b:0 "We shall have revenge..."
-  afo_news.31.c:0 "A dreadful outcome"
-  afo_news.31.e:0 "A stunning victory"
+  afo_news.31.t:0 "Победа Японии в России"
+  afo_news.31.d:0 "После долгих лет сражений японцы одержали победу в России. Захватив весь Дальний Восток, советские войска лежали избитые и разбитые. Одна битва за другой, японская военная машина доказывала, что она может побеждать, несмотря ни на что. Частью мирного соглашения стала передача Монголии в сферу совместного процветания и создание нового марионеточного режима на российском Дальнем Востоке. Время покажет, будет ли Советский Союз готовиться вернуть эти территории в более позднее время"
+  afo_news.31.a:0 "Оглушительный успех!"
+  afo_news.31.b:0 "Мы отомстим..."
+  afo_news.31.c:0 "Ужасающий финал"
+  afo_news.31.e:0 "Потрясающая победа"
 
-  afo_news.32.t:0 "[PRC.GetName] Wins the Chinese Civil War"
-  afo_news.32.d:0 "After long years of battle, the Chinese Communists stand triumphant in China. Having taken all of mainland China in bloody combat, the support from its people helped them to overthrow the ruling Nationalists faction. The [PRC.GetName] no doubt have plans on this new china, it remains to be seen what those plans are..."
-  afo_news.32.a:0 "We have Achieved Supreme Victory!"
-  afo_news.32.b:0 "We shall have revenge..."
-  afo_news.32.c:0 "A stunning Outcome"
+  afo_news.32.t:0 "[PRC.GetName] Побеждает в гражданской войне в Китае"
+  afo_news.32.d:0 "После долгих лет борьбы китайские коммунисты одержали победу в Китае. Захватив в кровавых боях весь материковый Китай, благодаря поддержке народа они свергли правящую фракцию националистов.  [PRC.GetName] несомненно, имеют планы на этот новый Китай, остается только узнать, что это за планы..."
+  afo_news.32.a:0 "Мы одержали великую победу!"
+  afo_news.32.b:0 "Мы отомстим..."
+  afo_news.32.c:0 "Потрясающий результат"
 
-  afo_news.33.t:0 "The United Kingdom Evacuates to Canada"
-  afo_news.33.d:0 "After fighting the Germans for every inch of their Island, the Government and Royal Family of the United Kingdom were forced to evacuate. In addition, one million essential men and women were able to be evacuated via the Royal Navy in an event that many are calling "The Second Dunkirk". Despite meeting the enemy at the beaches, and fighting them on the landing grounds, the Home Guard were driven back and overrun. The British Government will resume operations across the Pond in Canada, where they will continue to stand resolute against Her Majesty's enemies."
-  afo_news.33.a:0 "We shall never surrender!"
-  afo_news.33.b:0 "We won't be seeing them again"
-  afo_news.33.c:0 "The fall of an empire"
+  afo_news.33.t:0 "Великобритания эвакуируется в Канаду"
+  afo_news.33.d:0 "После борьбы с немцами за каждый дюйм своего острова правительство и королевская семья Соединенного Королевства были вынуждены эвакуироваться. Кроме того, один миллион необходимых мужчин и женщин смогли эвакуироваться с помощью Королевского флота, что многие называют "вторым Дюнкерком". Несмотря на то, что враг был встречен на пляжах и сражался с ним на высадочных площадках, Внутренняя гвардия была отброшена назад и разгромлена. Британское правительство возобновит операции по ту сторону пруда, в Канаде, где оно продолжит решительно противостоять врагам Ее Величества."
+  afo_news.33.a:0 "Мы никогда не сдадимся!"
+  afo_news.33.b:0 "Больше мы их не увидим"
+  afo_news.33.c:0 "Гибель империи"
 
-  afo_news.34.t:0 "Death of Stalin"
-  afo_news.34.d:0 "The great General Secretary of the Communist Party of the Soviet Union, Joseph Stalin, has died, Soviet newspaper Pravda reported today. He reportedly died a slow and painful death from a cerebral hemorrhage, internal bleeding of the brain. Although he left no framework for succession nor anoited successor, the Presidium of the Central Committee of the Communist Party of the Soviet Union met immediately following Stalin's death to discuss the collective steps forward for the Union. His funeral is planned to take place in the Red Square and his body will be laid to rest in Lenin's Mausoleum."
-  afo_news.34.a:0 "Long live the Stalin, the Man of Steel!"
-  afo_news.34.b:0 "Too bad it was natural"
-  afo_news.34.c:0 "The death of a dictator"
+  afo_news.34.t:0 "Смерть Сталина"
+  afo_news.34.d:0 "Великий Генеральный секретарь Коммунистической партии Советского Союза Иосиф Сталин умер, сообщила сегодня советская газета "Правда". По сообщениям, он умер медленной и мучительной смертью от кровоизлияния в мозг, внутреннего кровоизлияния в мозг. Несмотря на то, что он не оставил после себя ни системы преемственности, ни назначенного преемника, Президиум Центрального комитета Коммунистической партии Советского Союза собрался сразу после смерти Сталина, чтобы обсудить коллективные шаги Союза вперед. Его похороны планируется провести на Красной площади, а тело будет покоиться в Мавзолее Ленина."
+  afo_news.34.a:0 "Да здравствует Сталин, человек из стали!"
+  afo_news.34.b:0 "Жаль, что это было естественно."
+  afo_news.34.c:0 "Смерть одного диктатора"
 
   afo_news.35.t:0 "Death of Stalin"
   afo_news.35.d:0 "The General Secretary of the Communist Party of the Soviet Union, Joseph Stalin, has died. Shortly after their crushing defeat and humiliating retreat into the Urals and Siberia, Joseph Stalin reportedly died of mysterious circumstances. Currently, there is no news on whether it was natural, accidental, or foul play. Many suspect his grip on power faded as quickly as the Union he once led. It is enivatable a power struggle over the ruins of the Soviet Union will ensue. Will this spell the end of Stalinism or Communism as a whole? Only time will tell."
